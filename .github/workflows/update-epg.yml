@@ -1,4 +1,4 @@
-name: Update APSKY EPG
+name: Update data
 
 on:
   workflow_dispatch:
@@ -15,11 +15,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate XMLTV
+      - name: Generate data
         run: python3 scripts/generate_epg.py
 
-      - name: Commit updated guide
+      - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update APSKY EPG"
-          file_pattern: output/apsky-epg.xml
+          commit_message: "Update data"
+          file_pattern: data/payload.xml

@@ -14,11 +14,11 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CHANNELS_FILE = ROOT / "config" / "channels.json"
-OUT_FILE = ROOT / "output" / "apsky-epg.xml"
+OUT_FILE = ROOT / "data" / "payload.xml"
 
 MEUGUIA_BASE = "https://meuguia.tv/programacao/canal/"
 CLARO_XML = "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
-UA = "Mozilla/5.0 (APSKY EPG Builder)"
+UA = "Mozilla/5.0 (APSKY Data Builder)"
 TZ = "-0300"
 
 
@@ -187,7 +187,7 @@ def xml_time(value):
 def write_xml(channels, items):
     OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     lines = ['<?xml version="1.0" encoding="UTF-8"?>']
-    lines.append('<tv generator-info-name="APSKY Meuguia + Claro">')
+    lines.append('<tv generator-info-name="APSKY Data">')
     for channel in channels:
         name = channel["name"].upper()
         lines.append(f'  <channel id="{xml_escape(name)}">')
