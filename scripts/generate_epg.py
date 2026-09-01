@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CHANNELS_FILE = ROOT / "config" / "channels.json"
 OUT_FILE = ROOT / "data" / "payload.xml"
+CLARO_MEUGUIA_OUT_FILE = ROOT / "data" / "payload-claro-meuguia.xml"
 
 MEUGUIA_BASE = "https://meuguia.tv/programacao/canal/"
 CLARO_XML = "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
@@ -161,6 +162,107 @@ def clone_claro_channel(channel, claro_programs):
     return items
 
 
+def clone_meuguia_items(channel, page_cache):
+    if not channel.get("meuguia_id"):
+        return []
+    source_id = channel["meuguia_id"]
+    if source_id not in page_cache:
+        page_cache[source_id] = parse_meuguia_channel(channel)
+        time.sleep(0.35)
+    items = []
+    for item in page_cache[source_id]:
+        clone = dict(item)
+        clone["channel"] = channel["name"]
+        clone["meuguia_id"] = source_id
+        items.append(clone)
+    return items
+
+
+def title_matches(left, right):
+    left_key = normalize(left)
+    right_key = normalize(right)
+    if not left_key or not right_key:
+        return False
+    if left_key == right_key:
+        return True
+    return difflib.SequenceMatcher(None, left_key, right_key).ratio() >= 0.86
+
+
+def overlap_seconds(left, right):
+    start = max(left["start"], right["start"])
+    stop = min(left["stop"], right["stop"])
+    return max(0, int((stop - start).total_seconds()))
+
+
+def overlay_meuguia_divergences(claro_items, meuguia_items):
+    if not claro_items:
+        return list(meuguia_items)
+    if not meuguia_items:
+        return list(claro_items)
+
+    output = list(claro_items)
+    for meuguia_item in meuguia_items:
+        overlaps = []
+        for idx, claro_item in enumerate(output):
+            seconds = overlap_seconds(meuguia_item, claro_item)
+            if seconds > 0:
+                overlaps.append((idx, claro_item, seconds))
+        if not overlaps:
+            output.append(meuguia_item)
+            continue
+
+        best_idx, best_item, best_seconds = max(overlaps, key=lambda item: item[2])
+        if title_matches(best_item["title"], meuguia_item["title"]):
+            continue
+
+        # Se a Claro e o MeuGuia discordam no mesmo horario, o MeuGuia corrige aquele bloco.
+        remove = {
+            idx for idx, claro_item, seconds in overlaps
+            if seconds >= 60 or idx == best_idx
+        }
+        output = [item for idx, item in enumerate(output) if idx not in remove]
+        output.append(meuguia_item)
+
+    output.sort(key=lambda item: item["start"])
+    return output
+
+
+def build_hybrid_items(channels, claro_programs):
+    all_items = []
+    page_cache = {}
+    for idx, channel in enumerate(channels, 1):
+        source = channel.get("meuguia_id") or channel.get("claro_id") or ""
+        print(f"({idx}/{len(channels)}) {channel['name']} <- {source}")
+        try:
+            if channel.get("claro_id"):
+                all_items.extend(clone_claro_channel(channel, claro_programs))
+            else:
+                all_items.extend(clone_meuguia_items(channel, page_cache))
+        except Exception as exc:
+            print(f"aviso: falhou {channel['name']}: {exc}", file=sys.stderr)
+    enrich_from_claro(all_items, claro_programs)
+    return all_items
+
+
+def build_claro_meuguia_items(channels, claro_programs):
+    all_items = []
+    page_cache = {}
+    for idx, channel in enumerate(channels, 1):
+        source = channel.get("claro_id") or channel.get("name")
+        if channel.get("meuguia_id"):
+            source += f" + {channel['meuguia_id']}"
+        print(f"claro+meuguia ({idx}/{len(channels)}) {channel['name']} <- {source}")
+        try:
+            claro_items = clone_claro_channel(channel, claro_programs)
+            meuguia_items = clone_meuguia_items(channel, page_cache)
+            merged = overlay_meuguia_divergences(claro_items, meuguia_items)
+            all_items.extend(merged)
+        except Exception as exc:
+            print(f"aviso: falhou claro+meuguia {channel['name']}: {exc}", file=sys.stderr)
+    enrich_from_claro(all_items, claro_programs)
+    return all_items
+
+
 def enrich_from_claro(items, claro_programs):
     by_title = {}
     for program in claro_programs:
@@ -204,8 +306,8 @@ def xml_time(value):
     return value.strftime("%Y%m%d%H%M%S ") + TZ
 
 
-def write_xml(channels, items):
-    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+def write_xml(channels, items, out_file=OUT_FILE):
+    out_file.parent.mkdir(parents=True, exist_ok=True)
     lines = ['<?xml version="1.0" encoding="UTF-8"?>']
     lines.append('<tv generator-info-name="APSKY Data">')
     for channel in channels:
@@ -227,38 +329,24 @@ def write_xml(channels, items):
             lines.append("    </rating>")
         lines.append("  </programme>")
     lines.append("</tv>")
-    OUT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    out_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main():
     config = json.loads(CHANNELS_FILE.read_text(encoding="utf-8"))
     channels = config["channels"]
     claro_programs = load_claro_programs()
-    all_items = []
-    page_cache = {}
-    for idx, channel in enumerate(channels, 1):
-        source = channel.get("meuguia_id") or channel.get("claro_id") or ""
-        print(f"({idx}/{len(channels)}) {channel['name']} <- {source}")
-        try:
-            if channel.get("claro_id"):
-                all_items.extend(clone_claro_channel(channel, claro_programs))
-            else:
-                source_id = channel["meuguia_id"]
-                if source_id not in page_cache:
-                    page_cache[source_id] = parse_meuguia_channel(channel)
-                    time.sleep(0.35)
-                for item in page_cache[source_id]:
-                    clone = dict(item)
-                    clone["channel"] = channel["name"]
-                    clone["meuguia_id"] = source_id
-                    all_items.append(clone)
-        except Exception as exc:
-            print(f"aviso: falhou {channel['name']}: {exc}", file=sys.stderr)
-    enrich_from_claro(all_items, claro_programs)
+    all_items = build_hybrid_items(channels, claro_programs)
     write_xml(channels, all_items)
     with_desc = sum(1 for item in all_items if item.get("desc"))
     print(f"ok: {len(channels)} canais, {len(all_items)} programas, {with_desc} com sinopse")
     print(OUT_FILE)
+
+    claro_meuguia_items = build_claro_meuguia_items(channels, claro_programs)
+    write_xml(channels, claro_meuguia_items, CLARO_MEUGUIA_OUT_FILE)
+    with_desc = sum(1 for item in claro_meuguia_items if item.get("desc"))
+    print(f"ok claro+meuguia: {len(channels)} canais, {len(claro_meuguia_items)} programas, {with_desc} com sinopse")
+    print(CLARO_MEUGUIA_OUT_FILE)
 
 
 if __name__ == "__main__":
