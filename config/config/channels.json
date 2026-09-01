@@ -1,0 +1,813 @@
+{
+  "source": "meuguia.tv + BrazilTVEPG claro.xml fallback",
+  "channels": [
+    {
+      "name": "GLOBO SP",
+      "meuguia_id": "GSP",
+      "meuguia_name": "Globo - São Paulo",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "GLOBO NEWS",
+      "meuguia_id": "GLN",
+      "meuguia_name": "Globo News",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "BAND NEWS",
+      "meuguia_id": "NEW",
+      "meuguia_name": "Band News",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "CNN INTERNACIONAL",
+      "meuguia_id": "CNN",
+      "meuguia_name": "CNN International",
+      "match_score": 1.0,
+      "match_method": "auto",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TNT",
+      "meuguia_id": "TNT",
+      "meuguia_name": "TNT",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "WARNER CHANNEL",
+      "meuguia_id": "WBT",
+      "meuguia_name": "Warner Channel",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "AXN",
+      "meuguia_id": "AXN",
+      "meuguia_name": "AXN",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "CINEMAX",
+      "meuguia_id": "MNX",
+      "meuguia_name": "Cinemax",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "E!",
+      "meuguia_id": "EET",
+      "meuguia_name": "E! Entertainment Television",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO",
+      "meuguia_id": "HBO",
+      "meuguia_name": "HBO",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO PLUS",
+      "meuguia_id": "HPE",
+      "meuguia_name": "HBO Plus *e",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO SIGNATURE",
+      "meuguia_id": "HFE",
+      "meuguia_name": "HBO Signature",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "MEGAPIX",
+      "meuguia_id": "MPX",
+      "meuguia_name": "Megapix",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SONY CHANNEL",
+      "meuguia_id": "SET",
+      "meuguia_name": "Sony Entertainment TV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SPACE",
+      "meuguia_id": "SPA",
+      "meuguia_name": "SPACE",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "STUDIO UNIVERSAL",
+      "meuguia_id": "HAL",
+      "meuguia_name": "Studio Universal",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE ACTION",
+      "meuguia_id": "TC2",
+      "meuguia_name": "Telecine Action",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE CULT",
+      "meuguia_id": "TC5",
+      "meuguia_name": "Telecine Cult",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE FUN",
+      "meuguia_id": "TC6",
+      "meuguia_name": "Telecine Fun",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE PIPOCA",
+      "meuguia_id": "TC4",
+      "meuguia_name": "Telecine Pipoca",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE PREMIUM",
+      "meuguia_id": "TC1",
+      "meuguia_name": "Telecine Premium",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TELECINE TOUCH",
+      "meuguia_id": "TC3",
+      "meuguia_name": "Telecine Touch",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "UNIVERSAL TV",
+      "meuguia_id": "USA",
+      "meuguia_name": "Universal",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SPORTV",
+      "meuguia_id": "SPO",
+      "meuguia_name": "SporTV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SPORTV 2",
+      "meuguia_id": "SP2",
+      "meuguia_name": "SporTV 2",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SPORTV 3",
+      "meuguia_id": "SP3",
+      "meuguia_name": "SporTV 3",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "SPORTV 4",
+      "meuguia_id": "SPO",
+      "meuguia_name": "SporTV",
+      "match_score": 0.923,
+      "match_method": "auto",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "BAND SPORTS",
+      "meuguia_id": "BSP",
+      "meuguia_name": "Band Esportes",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 2",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 3",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 4",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 5",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 6",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 7",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE 8",
+      "meuguia_id": "121",
+      "meuguia_name": "PremiereFC",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "COMBATE",
+      "meuguia_id": "135",
+      "meuguia_name": "Combate",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 1",
+      "meuguia_id": "ESP",
+      "meuguia_name": "ESPN International",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 2",
+      "meuguia_id": "ESB",
+      "meuguia_name": "ESPN Brasil",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 3",
+      "meuguia_id": "ESH",
+      "meuguia_name": "ESPN+",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "FOX SPORTS 2",
+      "meuguia_id": "FS2",
+      "meuguia_name": "Fox Sports 2",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "GOLF CHANNEL",
+      "meuguia_id": "TGC",
+      "meuguia_name": "The Golf Channel",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "OFF",
+      "meuguia_id": "OFF",
+      "meuguia_name": "Canal Off",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ANIMAL PLANET",
+      "meuguia_id": "APL",
+      "meuguia_name": "Animal Planet",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ARTE 1",
+      "meuguia_id": "BQ5",
+      "meuguia_name": "Arte 1",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY CHANNEL",
+      "meuguia_id": "DIS",
+      "meuguia_name": "Discovery Channel",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY HOME & HEALTH",
+      "meuguia_id": "HEA",
+      "meuguia_name": "Discovery Home & Health",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY SCIENCE",
+      "meuguia_id": "DSC",
+      "meuguia_name": "Discovery Science",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY THEATER",
+      "meuguia_id": "DHD",
+      "meuguia_name": "Discovery HD Theater",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY TURBO",
+      "meuguia_id": "DTU",
+      "meuguia_name": "Discovery Turbo",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HGTV",
+      "meuguia_id": "HTV",
+      "meuguia_name": "HTV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HISTORY CHANNEL 2",
+      "meuguia_id": "HIH",
+      "meuguia_name": "History Channel HD",
+      "match_score": 0.933,
+      "match_method": "auto",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HISTORY CHANNEL",
+      "meuguia_id": "HIS",
+      "meuguia_name": "History Channel",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "INVESTIGACAO DISCOVERY",
+      "meuguia_id": "LIV",
+      "meuguia_name": "Investigação Discovery",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "GNT",
+      "meuguia_id": "GNT",
+      "meuguia_name": "Canal GNT",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "RECORD NEWS",
+      "meuguia_id": "RCN",
+      "meuguia_name": "Record News",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "GLOBO",
+      "meuguia_id": "GSP",
+      "meuguia_name": "Globo - São Paulo",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Legendados"
+    },
+    {
+      "name": "ESPN",
+      "meuguia_id": "ESP",
+      "meuguia_name": "ESPN International",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Esportes"
+    },
+    {
+      "name": "TERRA VIVA",
+      "meuguia_id": "TVV",
+      "meuguia_name": "Terra Viva",
+      "match_score": 1.0,
+      "match_method": "auto",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "VIVA",
+      "meuguia_id": "VIV",
+      "meuguia_name": "Viva",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "HBO 2",
+      "meuguia_id": "HB2",
+      "meuguia_name": "HBO 2",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | HBO"
+    },
+    {
+      "name": "HBO FAMILY",
+      "meuguia_id": "HFA",
+      "meuguia_name": "HBO Family",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | HBO"
+    },
+    {
+      "name": "CANAL BRASIL",
+      "meuguia_id": "CBR",
+      "meuguia_name": "Canal Brasil",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "FILM&ARTS",
+      "meuguia_id": "BRA",
+      "meuguia_name": "Film & Arts",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "LIFETIME",
+      "meuguia_id": "ANX",
+      "meuguia_name": "Lifetime",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "TBS",
+      "meuguia_id": "TBS",
+      "meuguia_name": "TBS",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "TCM",
+      "meuguia_id": "TCM",
+      "meuguia_name": "TCM - Turner Classic Movies",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "UNIVERSAL CHANNEL",
+      "meuguia_id": "USA",
+      "meuguia_name": "Universal",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "meuguia_id": "CAR",
+      "meuguia_name": "Cartoon Network",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "DISCOVERY KIDS",
+      "meuguia_id": "DIK",
+      "meuguia_name": "Discovery Kids",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "GLOOB",
+      "meuguia_id": "GOB",
+      "meuguia_name": "Gloob",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "TOONCAST",
+      "meuguia_id": "TOC",
+      "meuguia_name": "Tooncast",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "TV RA-TIM-BUM",
+      "meuguia_id": "RTB",
+      "meuguia_name": "TV Rá-tim-bum",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "NICK",
+      "meuguia_id": "NIC",
+      "meuguia_name": "Nickelodeon",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "NICK JR",
+      "meuguia_id": "NJR",
+      "meuguia_name": "Nick Jr.",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "TRU TV",
+      "meuguia_id": "TRU",
+      "meuguia_name": "TruTV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "BOA VONTADE",
+      "meuguia_id": "LBV",
+      "meuguia_name": "Boa Vontade TV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "CANÇÃO NOVA",
+      "meuguia_id": "CNV",
+      "meuguia_name": "Canção Nova",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "REDE SUPER",
+      "meuguia_id": "SRD",
+      "meuguia_name": "Rede Super de Televisão",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "REDE VIDA",
+      "meuguia_id": "VDA",
+      "meuguia_name": "Rede Vida",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "REDE GENESIS",
+      "meuguia_id": "TVG",
+      "meuguia_name": "Rede Gênesis",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "AMAZON SAT",
+      "meuguia_id": "AMZ",
+      "meuguia_name": "Amazon Sat",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "CANAL DO BOI",
+      "meuguia_id": "BOI",
+      "meuguia_name": "Canal do Boi",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "CANAL RURAL",
+      "meuguia_id": "RUR",
+      "meuguia_name": "Canal Rural",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "CNT",
+      "meuguia_id": "CNT",
+      "meuguia_name": "CNT",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "FUTURA",
+      "meuguia_id": "FUT",
+      "meuguia_name": "Canal Futura",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "REDETV!",
+      "meuguia_id": "RTV",
+      "meuguia_name": "Rede TV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV BRASIL",
+      "meuguia_id": "TED",
+      "meuguia_name": "TV Brasil",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV CULTURA",
+      "meuguia_id": "CUL",
+      "meuguia_name": "TV Cultura",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV CÂMARA",
+      "meuguia_id": "CAM",
+      "meuguia_name": "TV Câmara",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV JUSTICA",
+      "meuguia_id": "JUS",
+      "meuguia_name": "TV Justiça",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV SENADO",
+      "meuguia_id": "SEN",
+      "meuguia_name": "TV Senado",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV BRASIL 2",
+      "meuguia_id": "TED",
+      "meuguia_name": "TV Brasil",
+      "match_score": 0.941,
+      "match_method": "auto",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "SESCTV",
+      "meuguia_id": "NAC",
+      "meuguia_name": "SESC TV",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV ESCOLA",
+      "meuguia_id": "ESC",
+      "meuguia_name": "TV Escola",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "GLOBO TV BRASILIA",
+      "meuguia_id": "GHB",
+      "meuguia_name": "Globo - Brasília",
+      "match_score": 0.929,
+      "match_method": "auto",
+      "group": "Canais | Globo Capital"
+    },
+    {
+      "name": "GLOBO TV EPTV CAMPINAS",
+      "meuguia_id": "GRC",
+      "meuguia_name": "Globo - EPTV Campinas",
+      "match_score": 0.944,
+      "match_method": "auto",
+      "group": "Canais | Globo Sudeste"
+    },
+    {
+      "name": "GLOBO TV EPTV RIBEIRAO PRETO",
+      "meuguia_id": "GRP",
+      "meuguia_name": "Globo - EPTV Ribeirão Preto",
+      "match_score": 0.957,
+      "match_method": "auto",
+      "group": "Canais | Globo Sudeste"
+    },
+    {
+      "name": "SBT",
+      "meuguia_id": "SBT",
+      "meuguia_name": "SBT",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | SBT"
+    },
+    {
+      "name": "BIS",
+      "meuguia_id": "MSH",
+      "meuguia_name": "Bis HD",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "MULTISHOW",
+      "meuguia_id": "MSW",
+      "meuguia_name": "Multishow",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "WOOHOO",
+      "meuguia_id": "WOO",
+      "meuguia_name": "WooHoo",
+      "match_score": 1.0,
+      "match_method": "manual",
+      "group": "Canais | Art & Music"
+    }
+  ]
+}
