@@ -141,6 +141,26 @@ def load_claro_programs():
     return programs
 
 
+def clone_claro_channel(channel, claro_programs):
+    source_key = normalize(channel.get("claro_id") or channel.get("name"))
+    items = []
+    for program in claro_programs:
+        if program["channel_key"] != source_key:
+            continue
+        if not program["start"] or not program["stop"] or program["stop"] <= program["start"]:
+            continue
+        items.append({
+            "channel": channel["name"],
+            "start": program["start"],
+            "stop": program["stop"],
+            "title": program["title"],
+            "category": "",
+            "desc": program["desc"],
+            "rating": program["rating"],
+        })
+    return items
+
+
 def enrich_from_claro(items, claro_programs):
     by_title = {}
     for program in claro_programs:
@@ -217,17 +237,21 @@ def main():
     all_items = []
     page_cache = {}
     for idx, channel in enumerate(channels, 1):
-        print(f"({idx}/{len(channels)}) {channel['name']} <- {channel['meuguia_id']}")
+        source = channel.get("meuguia_id") or channel.get("claro_id") or ""
+        print(f"({idx}/{len(channels)}) {channel['name']} <- {source}")
         try:
-            source_id = channel["meuguia_id"]
-            if source_id not in page_cache:
-                page_cache[source_id] = parse_meuguia_channel(channel)
-                time.sleep(0.35)
-            for item in page_cache[source_id]:
-                clone = dict(item)
-                clone["channel"] = channel["name"]
-                clone["meuguia_id"] = source_id
-                all_items.append(clone)
+            if channel.get("claro_id"):
+                all_items.extend(clone_claro_channel(channel, claro_programs))
+            else:
+                source_id = channel["meuguia_id"]
+                if source_id not in page_cache:
+                    page_cache[source_id] = parse_meuguia_channel(channel)
+                    time.sleep(0.35)
+                for item in page_cache[source_id]:
+                    clone = dict(item)
+                    clone["channel"] = channel["name"]
+                    clone["meuguia_id"] = source_id
+                    all_items.append(clone)
         except Exception as exc:
             print(f"aviso: falhou {channel['name']}: {exc}", file=sys.stderr)
     enrich_from_claro(all_items, claro_programs)

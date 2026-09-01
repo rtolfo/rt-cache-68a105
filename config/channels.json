@@ -3,8 +3,8 @@
   "channels": [
     {
       "name": "GLOBO SP",
-      "meuguia_id": "GSP",
-      "meuguia_name": "Globo - São Paulo",
+      "meuguia_id": "GRD",
+      "meuguia_name": "Globo",
       "match_score": 1.0,
       "match_method": "manual",
       "group": "Mais vistos"
@@ -23,6 +23,14 @@
       "meuguia_name": "Band News",
       "match_score": 1.0,
       "match_method": "manual",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "CNN BRASIL",
+      "claro_id": "CNN BRASIL",
+      "claro_name": "CNN BRASIL",
+      "match_score": 1.0,
+      "match_method": "manual-claro",
       "group": "Mais vistos"
     },
     {
@@ -83,11 +91,12 @@
     },
     {
       "name": "HBO PLUS",
-      "meuguia_id": "HPE",
       "meuguia_name": "HBO Plus *e",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "HBO+",
+      "claro_name": "HBO+"
     },
     {
       "name": "HBO SIGNATURE",
@@ -299,19 +308,21 @@
     },
     {
       "name": "ESPN 2",
-      "meuguia_id": "ESB",
       "meuguia_name": "ESPN Brasil",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "ESPN 2",
+      "claro_name": "ESPN 2"
     },
     {
       "name": "ESPN 3",
-      "meuguia_id": "ESH",
       "meuguia_name": "ESPN+",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "ESPN 3",
+      "claro_name": "ESPN 3"
     },
     {
       "name": "FOX SPORTS 2",
@@ -395,19 +406,21 @@
     },
     {
       "name": "HGTV",
-      "meuguia_id": "HTV",
       "meuguia_name": "HTV",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "HGTV HD",
+      "claro_name": "HGTV HD"
     },
     {
       "name": "HISTORY CHANNEL 2",
-      "meuguia_id": "HIH",
       "meuguia_name": "History Channel HD",
       "match_score": 0.933,
-      "match_method": "auto",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "HISTORY 2",
+      "claro_name": "HISTORY 2"
     },
     {
       "name": "HISTORY CHANNEL",
@@ -419,11 +432,12 @@
     },
     {
       "name": "INVESTIGACAO DISCOVERY",
-      "meuguia_id": "LIV",
       "meuguia_name": "Investigação Discovery",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Mais vistos"
+      "match_method": "manual-claro",
+      "group": "Mais vistos",
+      "claro_id": "ID HD",
+      "claro_name": "ID HD"
     },
     {
       "name": "GNT",
@@ -443,8 +457,8 @@
     },
     {
       "name": "GLOBO",
-      "meuguia_id": "GSP",
-      "meuguia_name": "Globo - São Paulo",
+      "meuguia_id": "GRD",
+      "meuguia_name": "Globo",
       "match_score": 1.0,
       "match_method": "manual",
       "group": "Canais | Legendados"
@@ -571,11 +585,12 @@
     },
     {
       "name": "TV RA-TIM-BUM",
-      "meuguia_id": "RTB",
       "meuguia_name": "TV Rá-tim-bum",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Canais | Infantis"
+      "match_method": "manual-claro",
+      "group": "Canais | Infantis",
+      "claro_id": "TV RA TIM BUM",
+      "claro_name": "TV RA TIM BUM"
     },
     {
       "name": "NICK",
@@ -611,11 +626,12 @@
     },
     {
       "name": "CANÇÃO NOVA",
-      "meuguia_id": "CNV",
       "meuguia_name": "Canção Nova",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Canais | Religiosos"
+      "match_method": "manual-claro",
+      "group": "Canais | Religiosos",
+      "claro_id": "CANÇÃO NOVA HD",
+      "claro_name": "CANÇÃO NOVA HD"
     },
     {
       "name": "REDE SUPER",
@@ -707,11 +723,12 @@
     },
     {
       "name": "TV CÂMARA",
-      "meuguia_id": "CAM",
       "meuguia_name": "TV Câmara",
       "match_score": 1.0,
-      "match_method": "manual",
-      "group": "Canais | Abertos"
+      "match_method": "manual-claro",
+      "group": "Canais | Abertos",
+      "claro_id": "TV Camara",
+      "claro_name": "TV Camara"
     },
     {
       "name": "TV JUSTICA",
@@ -755,27 +772,30 @@
     },
     {
       "name": "GLOBO TV BRASILIA",
-      "meuguia_id": "GHB",
       "meuguia_name": "Globo - Brasília",
       "match_score": 0.929,
-      "match_method": "auto",
-      "group": "Canais | Globo Capital"
+      "match_method": "manual-claro",
+      "group": "Canais | Globo Capital",
+      "claro_id": "GLOBO SP",
+      "claro_name": "GLOBO SP"
     },
     {
       "name": "GLOBO TV EPTV CAMPINAS",
-      "meuguia_id": "GRC",
       "meuguia_name": "Globo - EPTV Campinas",
       "match_score": 0.944,
-      "match_method": "auto",
-      "group": "Canais | Globo Sudeste"
+      "match_method": "manual-claro",
+      "group": "Canais | Globo Sudeste",
+      "claro_id": "GLOBO SP",
+      "claro_name": "GLOBO SP"
     },
     {
       "name": "GLOBO TV EPTV RIBEIRAO PRETO",
-      "meuguia_id": "GRP",
       "meuguia_name": "Globo - EPTV Ribeirão Preto",
       "match_score": 0.957,
-      "match_method": "auto",
-      "group": "Canais | Globo Sudeste"
+      "match_method": "manual-claro",
+      "group": "Canais | Globo Sudeste",
+      "claro_id": "GLOBO SP",
+      "claro_name": "GLOBO SP"
     },
     {
       "name": "SBT",
