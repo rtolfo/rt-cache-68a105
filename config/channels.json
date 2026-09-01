@@ -828,6 +828,462 @@
       "match_score": 1.0,
       "match_method": "manual",
       "group": "Canais | Art & Music"
+    },
+    {
+      "name": "GLOBOPLAY NOVELAS",
+      "claro_id": "Globoplay Novelas",
+      "claro_name": "Globoplay Novelas",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DOG TV",
+      "claro_id": "DOG TV HD",
+      "claro_name": "DOG TV HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO MUNDI",
+      "claro_id": "HBO Mundi",
+      "claro_name": "HBO Mundi",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO POP",
+      "claro_id": "HBO Pop",
+      "claro_name": "HBO Pop",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "HBO XTREME",
+      "claro_id": "HBO Xtreme",
+      "claro_name": "HBO Xtreme",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "TNT SERIES",
+      "claro_id": "TNT SERIES HD",
+      "claro_name": "TNT SERIES HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "USA",
+      "claro_id": "USA HD",
+      "claro_name": "USA HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "PREMIERE CLUBES",
+      "claro_id": "PREMIERE CLUBES HD",
+      "claro_name": "PREMIERE CLUBES HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 4",
+      "claro_id": "ESPN 4",
+      "claro_name": "ESPN 4",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 5",
+      "claro_id": "ESPN 5",
+      "claro_name": "ESPN 5",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "ESPN 6",
+      "claro_id": "ESPN 6",
+      "claro_name": "ESPN 6",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "XSPORTS",
+      "claro_id": "Xsports HD",
+      "claro_name": "Xsports HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "GE TV",
+      "claro_id": "GE TV HD",
+      "claro_name": "GE TV HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "DISCOVERY WORLD",
+      "claro_id": "DISCOVERY WORLD HD",
+      "claro_name": "DISCOVERY WORLD HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Mais vistos"
+    },
+    {
+      "name": "BM&C",
+      "claro_id": "BM&C HD",
+      "claro_name": "BM&C HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "CANAL UOL",
+      "claro_id": "CANAL UOL",
+      "claro_name": "CANAL UOL",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "CNN BRASIL MONEY",
+      "claro_id": "CNN Brasil Money HD",
+      "claro_name": "CNN Brasil Money HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "JOVEM PAN NEWS",
+      "claro_id": "JOVEM PAN NEWS",
+      "claro_name": "JOVEM PAN NEWS",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "SBT NEWS",
+      "claro_id": "SBT NEWS HD",
+      "claro_name": "SBT NEWS HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Notícias"
+    },
+    {
+      "name": "AGROMAIS",
+      "claro_id": "AGROMAIS",
+      "claro_name": "AGROMAIS",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "CURTA!",
+      "claro_id": "CURTA",
+      "claro_name": "CURTA",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "FISH TV",
+      "claro_id": "FISH TV",
+      "claro_name": "FISH TV",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "FOOD NETWORK",
+      "claro_id": "FOOD NETWORK HD",
+      "claro_name": "FOOD NETWORK HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "MODO VIAGEM",
+      "claro_id": "Modo Viagem",
+      "claro_name": "Modo Viagem",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "POLISHOP",
+      "claro_id": "Polishop",
+      "claro_name": "Polishop",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "POLISHOP TV",
+      "claro_id": "Polishop",
+      "claro_name": "Polishop",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "PRIME BOX BRASIL",
+      "claro_id": "PRIME BOX BRAZIL",
+      "claro_name": "PRIME BOX BRAZIL",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Variedades"
+    },
+    {
+      "name": "PARAMOUNT+ 01",
+      "claro_id": "Paramount+ 1",
+      "claro_name": "Paramount+ 1",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Paramount +"
+    },
+    {
+      "name": "PARAMOUNT+ 02",
+      "claro_id": "Paramount+ 2",
+      "claro_name": "Paramount+ 2",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Paramount +"
+    },
+    {
+      "name": "PARAMOUNT+ 03",
+      "claro_id": "Paramount+ 3",
+      "claro_name": "Paramount+ 3",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Paramount +"
+    },
+    {
+      "name": "PARAMOUNT+ 04",
+      "claro_id": "Paramount+ 4",
+      "claro_name": "Paramount+ 4",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Paramount +"
+    },
+    {
+      "name": "ADULT SWIM",
+      "claro_id": "Adult Swim HD",
+      "claro_name": "Adult Swim HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "A&E",
+      "claro_id": "A&E",
+      "claro_name": "A&E",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "AMC",
+      "claro_id": "AMC HD",
+      "claro_name": "AMC HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "TLC",
+      "claro_id": "TLC HD",
+      "claro_name": "TLC HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "TNT NOVELAS",
+      "claro_id": "TNT NOVELAS",
+      "claro_name": "TNT NOVELAS",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "UNIVERSAL PREMIERE",
+      "claro_id": "UNIVERSAL PREMIERE HD",
+      "claro_name": "UNIVERSAL PREMIERE HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "UNIVERSAL REALITY",
+      "claro_id": "UNIVERSAL REALITY",
+      "claro_name": "UNIVERSAL REALITY",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Filmes e Séries"
+    },
+    {
+      "name": "CARTOONITO",
+      "claro_id": "CARTOONITO",
+      "claro_name": "CARTOONITO",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "DUMDUM",
+      "claro_id": "DumDum",
+      "claro_name": "DumDum",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "GLOOBINHO",
+      "claro_id": "GLOOBINHO HD",
+      "claro_name": "GLOOBINHO HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Infantis"
+    },
+    {
+      "name": "NOVO TEMPO",
+      "claro_id": "TV Novo Tempo",
+      "claro_name": "TV Novo Tempo",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "REDE GOSPEL",
+      "claro_id": "REDE GOSPEL",
+      "claro_name": "REDE GOSPEL",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "TV REDE GOSPEL",
+      "claro_id": "REDE GOSPEL",
+      "claro_name": "REDE GOSPEL",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "TV APARECIDA",
+      "claro_id": "TV APARECIDA HD",
+      "claro_name": "TV APARECIDA HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "TV PAI ETERNO",
+      "claro_id": "TV Pai Eterno HD",
+      "claro_name": "TV Pai Eterno HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Religiosos"
+    },
+    {
+      "name": "CBI",
+      "claro_id": "CBI",
+      "claro_name": "CBI",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "TV GAZETA SP",
+      "claro_id": "GAZETA",
+      "claro_name": "GAZETA",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "PLAY TV",
+      "claro_id": "PLAY TV",
+      "claro_name": "PLAY TV",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Abertos"
+    },
+    {
+      "name": "BAND",
+      "claro_id": "BAND HD",
+      "claro_name": "BAND HD",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Band"
+    },
+    {
+      "name": "FASHIONTV",
+      "claro_id": "FASHION TV",
+      "claro_name": "FASHION TV",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "LIKE",
+      "claro_id": "LIKE",
+      "claro_name": "LIKE",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "MUSIC BOX BRASIL",
+      "claro_id": "MUSIC BOX BRAZIL",
+      "claro_name": "MUSIC BOX BRAZIL",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "SABOR E ARTE",
+      "claro_id": "Sabor & Arte",
+      "claro_name": "Sabor & Arte",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | Art & Music"
+    },
+    {
+      "name": "SPORTYNET 1",
+      "claro_id": "SportyNet + 1",
+      "claro_name": "SportyNet + 1",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | SportyNET"
+    },
+    {
+      "name": "SPORTYNET 2",
+      "claro_id": "SportyNet + 2",
+      "claro_name": "SportyNet + 2",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | SportyNET"
+    },
+    {
+      "name": "SPORTYNET 3",
+      "claro_id": "SportyNet + 3",
+      "claro_name": "SportyNet + 3",
+      "match_score": 1.0,
+      "match_method": "manual-claro-strong",
+      "group": "Canais | SportyNET"
     }
   ]
 }
