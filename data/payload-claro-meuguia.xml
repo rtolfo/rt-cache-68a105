@@ -8653,12 +8653,18 @@
     <desc lang="pt">Um disco que mereça atenção? Um livro? Um espetáculo para ficar no radar? As sugestões da equipe do Arte1, em abordagens surpreendentes.</desc>
   </programme>
   <programme start="20260919193000 -0300" stop="20260919213000 -0300" channel="ARTE 1">
-    <title lang="pt">Arte 1 Nacional</title>
-    <category lang="pt">Filme/Drama</category>
+    <title lang="pt">Arte 1 Nacional: Saudosa Maloca</title>
+    <desc lang="pt">Em 1984, Estela vive a difícil passagem pela adolescência. Tio Carlos é seu maior herói e a viagem à Califórnia é um sonho. Mas tudo desaba quando ele volta magro, fraco e doente. Um filme de Marina Person.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260919213000 -0300" stop="20260919220000 -0300" channel="ARTE 1">
-    <title lang="pt">Arte Indígena Contemporânea</title>
-    <category lang="pt">Séries/Artes</category>
+    <title lang="pt">Arte Indígena Contemporânea: Carmézia Emiliano</title>
+    <desc lang="pt">Produção própria do canal, o programa é dedicado à história e ao processo criativo de oito artistas indígenas que estão despontando na cena atual.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919230000 -0300" channel="ARTE 1">
     <title lang="pt">Arquitetos Brasileiros: Carol Bueno</title>
@@ -16384,15 +16390,16 @@
     <title lang="pt">Vila Bandsports</title>
     <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
   </programme>
-  <programme start="20260919190000 -0300" stop="20260919203000 -0300" channel="BAND SPORTS">
-    <title lang="pt">Sail GP: Etapa Suíça: Dia 1 - VT</title>
-    <category lang="pt">Esporte/Vela</category>
-    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+  <programme start="20260919190000 -0300" stop="20260919200000 -0300" channel="BAND SPORTS">
+    <title lang="pt">Papo de Paddock</title>
+    <desc lang="pt">Um programa de entrevistas que oferece uma visão única e privilegiada do mundo das corridas. Combinando análise técnica aprofundada e curiosidades fascinantes.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
-  <programme start="20260919203000 -0300" stop="20260919210000 -0300" channel="BAND SPORTS">
-    <title lang="pt">The Golf Brasil</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="BAND SPORTS">
+    <title lang="pt">AMG Cup: 8ª Etapa Cascavel-PR: Corrida 4 - ao vivo</title>
+    <desc lang="pt">AMG Cup é a categoria oficial de automobilismo Mercedes-AMG. É dividida em duas categorias: C300 Cup e CLA AMG Cup.</desc>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919231500 -0300" channel="BAND SPORTS">
     <title lang="pt">PBR Brasil: Etapa Uberaba-MG: Round 3 - ao vivo</title>
@@ -24824,54 +24831,6 @@
   <programme start="20260923233000 -0300" stop="20260924000000 -0300" channel="BM&amp;C">
     <title lang="pt">Um Brasil</title>
     <desc lang="pt">O Um Brasil debate e analisa os temas mais cruciais da atualidade e que moldam o Brasil. Apresentado pela FecomercioSP, com uma visão dinâmica e inspiradora, o programa desvenda os desafios que impactam nossa sociedade.</desc>
-  </programme>
-  <programme start="20260919191000 -0300" stop="20260919200000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Especial - Música Legionária</title>
-    <category lang="pt">Variedades/Musical</category>
-    <desc lang="pt">Uma seleção de composições que traduzem o acolhimento para a Alma. O &quot;Especial - Música Legionária&quot; traz para o seu fim de semana composições do repertório Legionário da Boa Vontade para ...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919200000 -0300" stop="20260919200500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919200500 -0300" stop="20260919210000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Conexão Jesus</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Análise de desafios diários, buscando soluções a partir do Novo Mandamento de Jesus, &quot;o fio milagroso que une as partes anacronicamente separadas do organismo sociedade&quot;, como define Paiva Netto.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919210500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919210500 -0300" stop="20260919220000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Cortando Estradas com Jesus</title>
-    <category lang="pt">Variedades/Musical</category>
-    <desc lang="pt">Com alto astral traz música legionária, conteúdo dedicado aos caminhoneiros as famílias, mostra as atividades das Igrejas Familiares da Religião de Divina e traz a palavra ecumênica do Irmão Paiva Netto.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919220000 -0300" stop="20260919220500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20260919220500 -0300" stop="20260919230000 -0300" channel="BOA VONTADE">
     <title lang="pt">Cortando Estradas com Jesus</title>
@@ -41408,142 +41367,6 @@
   <programme start="20260923233000 -0300" stop="20260924000000 -0300" channel="CANÇÃO NOVA">
     <title lang="pt">Sorrindo pra Vida</title>
     <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919191700 -0300" stop="20260919192900 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Anais começa a envelhecer por causa do estresse de cuidar da família.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919192900 -0300" stop="20260919194200 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">No Dia das Carreiras, Nicole e Yuki tentam impressionar seus filhos e descobrem de onde vem o verdadeiro poder.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919194200 -0300" stop="20260919195300 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Gumball e Darwin encontram um diário. Eles descobrem que a autora está prestes a perder o maior momento de sua vida e precisam encontrá-la para entender o motivo.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919195300 -0300" stop="20260919200400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Gumball e Darwin tentam impedir que um aplicativo transforme crianças em zumbis de internet.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919200400 -0300" stop="20260919201500 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Gumball segue tradições bizarras para ajudar Penny na festa de aniversário da família.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919201500 -0300" stop="20260919202400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Quando outro alerta de crime interrompe o descanso dos Titãs, eles decidem se tornar vilões e fazer o que quiserem.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919202400 -0300" stop="20260919203000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Quando outro alerta de crime interrompe o descanso dos Titãs, eles decidem se tornar vilões e fazer o que quiserem.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919204100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Uma boa festa com asas de frango pede um molho apimentado.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919204100 -0300" stop="20260919205300 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Uma cafeteria rival chega à cidade.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919205300 -0300" stop="20260919210000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show: As Fitas Perdidas</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Uma cafeteria rival chega à cidade.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919211100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Ele enfrenta os obstáculos da vida num ritmo alucinante.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919211100 -0300" stop="20260919212400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Ele enfrenta os obstáculos da vida num ritmo alucinante.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919212400 -0300" stop="20260919213000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Irmão do Jorel é o filho caçula de uma excêntrica família de acumuladores presa nos anos 80. Ele enfrenta os obstáculos da vida num ritmo alucinante.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919213000 -0300" stop="20260919214100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Quando Clarêncio se convence de que tem o poder de manipular o tempo, ele jura que só usará suas &#x27;habilidades&#x27; para o bem.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919214100 -0300" stop="20260919215400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Quando Clarêncio se convence de que tem o poder de manipular o tempo, ele jura que só usará suas &#x27;habilidades&#x27; para o bem.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919215400 -0300" stop="20260919220000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Quando Clarêncio se convence de que tem o poder de manipular o tempo, ele jura que só usará suas &#x27;habilidades&#x27; para o bem.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919220000 -0300" stop="20260919221100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Batman e o Comissário Gordon investigam vários acontecimentos em Jump City.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -65230,21 +65053,6 @@
     <title lang="pt">WW</title>
     <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
   </programme>
-  <programme start="20260919190000 -0300" stop="20260919200000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">CNN Newsroom Saturday</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Atualizações das últimas notícias de todo o mundo.</desc>
-  </programme>
-  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">CNN Newsroom Saturday</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Atualizações das últimas notícias de todo o mundo.</desc>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919220000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">Smerconish</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">O jornalista Michael Smerconish apresenta as notícias mais importantes da política americana.</desc>
-  </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="CNN INTERNACIONAL">
     <title lang="pt">World Sport</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -69401,30 +69209,6 @@
     <desc lang="pt">Jacques Tati filmou &#x27;Meu Tio&#x27; em 1958. Senhor Hulot, um verdadeiro resquício da França que passou, viaja entre o velho e o novo mundo, onde sua irmã e o marido vivem. Ele ensina ao seu jovem sobrinho o gosto da liberdade.</desc>
     <rating system="Brazil">
       <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260919192100 -0300" stop="20260919201000 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Largados e Pelados</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Em um episódio inédito, cinco influenciadores de mídia social tentarão usar suas habilidades primitivas para sobreviver por 14 dias em uma ilha remota e acidentada na Tailândia.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260919201000 -0300" stop="20260919214600 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Largados e Pelados</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Uma dupla improvável uma cabeleireira e um ex-agente penitenciário precisa sobreviver por 14 dias na Zâmbia.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260919214600 -0300" stop="20260919221000 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Aeroporto - Área Restrita</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Operações no eixo Brasil-Europa são determinantes para localizar e barrar envios de mercadorias ilícitas.</desc>
-    <rating system="Brazil">
-      <value>14</value>
     </rating>
   </programme>
   <programme start="20260919221000 -0300" stop="20260919223700 -0300" channel="DISCOVERY CHANNEL">
@@ -112458,16 +112242,6 @@
     <category lang="pt">Jornalismo/Esportivo</category>
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.</desc>
   </programme>
-  <programme start="20260919185000 -0300" stop="20260919210000 -0300" channel="ESPN 1">
-    <title lang="pt">River Plate x Huracán - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">A paixão nas arquibancadas e as disputas emocionantes dentro de campo. A Liga Profissional de Futebol da Argentina reúne as equipes da primeira divisão do país em um combo perfeito para os mais fanáticos torcedores.</desc>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919220000 -0300" channel="ESPN 1">
-    <title lang="pt">Bola da Vez: Ana Cristina, Ponteira e Oposto da Seleção Feminina de Vôlei</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
-  </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="ESPN 1">
     <title lang="pt">Especial Professores do Brasil: Judô</title>
     <category lang="pt">Documentário/Esportivo</category>
@@ -126914,31 +126688,6 @@
     <title lang="pt">Pós-Jogo: São Bernardo FC x Atlético-GO - ao vivo</title>
     <desc lang="pt">São Bernardo FC e Atlético-GO jogam pela 29ª rodada do Segundo Turno do Campeonato Brasileiro, Série B, no Primeiro de Maio, em São Bernardo do Campo (SP).</desc>
   </programme>
-  <programme start="20260919192000 -0300" stop="20260919194000 -0300" channel="GLOBO">
-    <title lang="pt">RJ2</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20260919194000 -0300" stop="20260919203000 -0300" channel="GLOBO">
-    <title lang="pt">Por Você</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Sinopse não disponível.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919205500 -0300" channel="GLOBO">
-    <title lang="pt">Horário Político</title>
-    <category lang="pt">Variedades/Política</category>
-    <desc lang="pt">Horário eleitoral partidário.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919205500 -0300" stop="20260919214500 -0300" channel="GLOBO">
-    <title lang="pt">Jornal Nacional</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Renata Vasconcellos e César Tralli apresentam o principal telejornal da TV Globo, que traz notícias do Brasil e do mundo, matérias de denúncia e investigação e séries especiais.</desc>
-  </programme>
   <programme start="20260919214500 -0300" stop="20260919225500 -0300" channel="GLOBO">
     <title lang="pt">Quem Ama Cuida</title>
     <category lang="pt">Variedades/Novela</category>
@@ -130624,8 +130373,8 @@
     </rating>
   </programme>
   <programme start="20260919192000 -0300" stop="20260919194000 -0300" channel="GLOBO SP">
-    <title lang="pt">RJ2</title>
-    <category lang="pt">Jornalismo/Informativo</category>
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
   </programme>
   <programme start="20260919194000 -0300" stop="20260919203000 -0300" channel="GLOBO SP">
     <title lang="pt">Por Você</title>
@@ -159996,38 +159745,6 @@
     <desc lang="pt">Lucas cria um refúgio com toques caribenhos e mediterrâneos para o aniversário de casamento de um cliente. A equipe constrói uma piscina paradisíaca para 30 pessoas com borda infinita e uma academia na área externa.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919185500 -0300" stop="20260919194500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
-    <category lang="pt">Documentário/Histórico</category>
-    <desc lang="pt">Explore alguns dos tesouros mais valiosos encontrados das formas mais improváveis.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919194500 -0300" stop="20260919203000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Mistérios Revelados</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">O Diabo realmente existe? Tony Harris e sua equipe analisam diversos áudios, imagens e vídeos ligados a acontecimentos demoníacos. Desde exorcismos, a rituais e até casos policiais são examinados por especialistas.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919212500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Maldições Da História</title>
-    <category lang="pt">Documentário/Histórico</category>
-    <desc lang="pt">Um aviso esquecido no túmulo de um conquistador precede uma das invasões mais mortais conhecidas da história da humanidade. Além do mais, um número amaldiçoado assombra compositores que buscam reconhecimento.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260919212500 -0300" stop="20260919221000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Inacreditável Com Dan Aykroyd</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Esses casos desafiam qualquer tentativa de explicação racional: desde macacos atirando pedras na selva até palhaços sinistros aterrorizando bairros ou ainda mesmo pássaros assassinos caindo do céu.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20260919221000 -0300" stop="20260919225500 -0300" channel="HISTORY CHANNEL">
@@ -202949,32 +202666,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20260919183000 -0300" stop="20260919194500 -0300" channel="REDETV!">
-    <title lang="pt">Brasil Do Povo</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">O programa BRASIL DO POVO oferece uma cobertura abrangente dos principais acontecimentos no Brasil e no mundo, focando em segurança pública, prestação de serviços e temas que impactam diretamente o cotidiano da popula...</desc>
-  </programme>
-  <programme start="20260919194500 -0300" stop="20260919203000 -0300" channel="REDETV!">
-    <title lang="pt">RedeTV! News</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Apresentado por Amanda Klein e Augusto Xavier, o REDETV! NEWS traz as principais notícias do dia, com análises políticas e econômicas, além de reportagens especiais com repórteres de todo o Brasil e do mundo.</desc>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919210000 -0300" channel="REDETV!">
-    <title lang="pt">Horário Eleitoral Gratuito</title>
-    <category lang="pt">Variedades/Política</category>
-    <desc lang="pt">Horário Eleitoral Gratuito</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919220000 -0300" channel="REDETV!">
-    <title lang="pt">Igreja Internacional da Graça de Deus</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Acompanhe a programação da Igreja Internacional da Graça de Deus.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="REDETV!">
     <title lang="pt">Rodada de Negócios</title>
     <category lang="pt">Variedades/Entrevista</category>
@@ -206813,29 +206504,6 @@
     <rating system="Brazil">
       <value>L</value>
     </rating>
-  </programme>
-  <programme start="20260919184500 -0300" stop="20260919194500 -0300" channel="SBT">
-    <title lang="pt">SBT Cidades</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Rodrigo Bocardi e Erica Reis apresentam o SBT Cidades, com prestação de serviço e cobertura dos fatos que fazem diferença na vida da população.</desc>
-  </programme>
-  <programme start="20260919194500 -0300" stop="20260919203000 -0300" channel="SBT">
-    <title lang="pt">SBT Brasil</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919205500 -0300" channel="SBT">
-    <title lang="pt">Horário Eleitoral</title>
-    <category lang="pt">Variedades/Política</category>
-    <desc lang="pt">Horário reservado para a transmissão da propaganda política partidária.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919205500 -0300" stop="20260919211500 -0300" channel="SBT">
-    <title lang="pt">SBT Brasil</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Os principais fatos do Brasil e do mundo apresentados com independência e isenção.</desc>
   </programme>
   <programme start="20260919211500 -0300" stop="20260919224500 -0300" channel="SBT">
     <title lang="pt">Bake Off Brasil: Mão na Massa</title>
@@ -216719,8 +216387,8 @@
     <desc lang="pt">Os melhores momentos da histórica conquista do ouro do Brasil no futebol olímpico, nos Jogos Rio 2016.</desc>
   </programme>
   <programme start="20260919202500 -0300" stop="20260919220000 -0300" channel="SPORTV 3">
-    <title lang="pt">Copa das Nações de Futebol de Areia</title>
-    <category lang="pt">Esporte/Futebol De Areia</category>
+    <title lang="pt">Brasil x El Salvador - ao vivo</title>
+    <desc lang="pt">As melhores seleções do futebol de areia entram em campo em busca do título. Grandes jogadas, golaços e muita habilidade na areia você acompanha na Copa das Nações de Futebol de Areia, aqui no sportv!</desc>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="SPORTV 3">
     <title lang="pt">Lendas: Pelé - Parte 1</title>
@@ -217610,16 +217278,6 @@
   <programme start="20261003223000 -0300" stop="20261003233000 -0300" channel="SPORTV 3">
     <title lang="pt">São Paulo Open - Semifinal</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
-  </programme>
-  <programme start="20260919183000 -0300" stop="20260919200000 -0300" channel="SPORTV 4">
-    <title lang="pt">Troca de Passes - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Felipe Diniz troca passes com os narradores e comentaristas que acabaram de transmitir os principais jogos da rodada.</desc>
-  </programme>
-  <programme start="20260919200000 -0300" stop="20260919210000 -0300" channel="SPORTV 4">
-    <title lang="pt">Aquecimento sportv - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
   </programme>
   <programme start="20260919210000 -0300" stop="20260919230000 -0300" channel="SPORTV 4">
     <title lang="pt">São Paulo x Internacional - Ao Vivo</title>
@@ -220924,22 +220582,6 @@
     <title lang="pt">A Hora do Pesadelo 2: A Vingança de Freddy</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
-  <programme start="20260919185300 -0300" stop="20260919194700 -0300" channel="TBS">
-    <title lang="pt">Os Irmãos Freitas</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260919194700 -0300" stop="20260919202100 -0300" channel="TBS">
-    <title lang="pt">Um Dia Qualquer</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260919202100 -0300" stop="20260919211000 -0300" channel="TBS">
-    <title lang="pt">O Homem da Sua Vida</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20260919211000 -0300" stop="20260919215900 -0300" channel="TBS">
-    <title lang="pt">O Homem da Sua Vida</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20260919215900 -0300" stop="20260919223800 -0300" channel="TBS">
     <title lang="pt">Destino: Salvador</title>
     <category lang="pt">Séries/Drama</category>
@@ -223526,22 +223168,6 @@
     <desc lang="pt">As famílias e os amigos de Eda e Serkan ficam sabendo de seu noivado e Eda começa seu novo trabalho no escritório. Por que Kaan está tentando se aproximar de Eda?</desc>
     <rating system="Brazil">
       <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919174000 -0300" stop="20260919193800 -0300" channel="TCM">
-    <title lang="pt">Vidas Amargas</title>
-    <category lang="pt">Filme/Drama</category>
-    <desc lang="pt">Em seu primeiro trabalho de prestígio no cinema, James Dean interpreta Cal Trask, um jovem problemático que vive à sombra de seu irmão mais velho, Aron.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260919193800 -0300" stop="20260919220000 -0300" channel="TCM">
-    <title lang="pt">Intriga Internacional</title>
-    <category lang="pt">Filme/Suspense</category>
-    <desc lang="pt">Homem é confundidocomo agente do governo por uma gangue de espiões e envolve-se numa série de confusões, mesmo com a ajuda de loira muito bonita.</desc>
-    <rating system="Brazil">
-      <value>14</value>
     </rating>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919225300 -0300" channel="TCM">
@@ -238553,94 +238179,6 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260919191900 -0300" stop="20260919193000 -0300" channel="TOONCAST">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919193000 -0300" stop="20260919194300 -0300" channel="TOONCAST">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919194300 -0300" stop="20260919195400 -0300" channel="TOONCAST">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919195400 -0300" stop="20260919200700 -0300" channel="TOONCAST">
-    <title lang="pt">O Acampamento de Lazlo</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919200700 -0300" stop="20260919201800 -0300" channel="TOONCAST">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919201800 -0300" stop="20260919202900 -0300" channel="TOONCAST">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919202900 -0300" stop="20260919204200 -0300" channel="TOONCAST">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919204200 -0300" stop="20260919205300 -0300" channel="TOONCAST">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919205300 -0300" stop="20260919210600 -0300" channel="TOONCAST">
-    <title lang="pt">Meu Amigo da Escola é um Macaco</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919210600 -0300" stop="20260919211300 -0300" channel="TOONCAST">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919211300 -0300" stop="20260919212000 -0300" channel="TOONCAST">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919212000 -0300" stop="20260919212700 -0300" channel="TOONCAST">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919212700 -0300" stop="20260919213500 -0300" channel="TOONCAST">
-    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919213500 -0300" stop="20260919214600 -0300" channel="TOONCAST">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919214600 -0300" stop="20260919215900 -0300" channel="TOONCAST">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919215900 -0300" stop="20260919220400 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919220400 -0300" stop="20260919220500 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919220500 -0300" stop="20260919220600 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919220600 -0300" stop="20260919221100 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919221100 -0300" stop="20260919221200 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919221200 -0300" stop="20260919221300 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20260919221300 -0300" stop="20260919221800 -0300" channel="TOONCAST">
-    <title lang="pt">Sheep Na Cidade Grande</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
   <programme start="20260919221800 -0300" stop="20260919222500 -0300" channel="TOONCAST">
     <title lang="pt">Sheep Na Cidade Grande</title>
     <category lang="pt">Infantil/Desenho</category>
@@ -251374,43 +250912,6 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20260919190000 -0300" stop="20260919193000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Repórter Brasil</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Telejornal apresentado do Rio de Janeiro com o apoio de emissoras públicas de todo o país. Noticiário isento que mostra o que foi notícia no Brasil e no mundo. O destaque são reportagens com foco no cidadão.</desc>
-  </programme>
-  <programme start="20260919193000 -0300" stop="20260919200000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Colapso</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha Elisângela e outros personagens que enfrentam a precarização do trabalho, revelando como a falta de direitos impacta suas vidas e o bem-estar psicológico.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260919200000 -0300" stop="20260919203000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Um Milagre</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Ali deixa sua cidade natal com memórias dolorosas. Um acidente no aeroporto o impede de chegar a tempo para a reunião mais importante de sua vida.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919210000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Horário Eleitoral</title>
-    <category lang="pt">Variedades/Política</category>
-    <desc lang="pt">Horário reservado à propaganda eleitoral gratuita.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919210000 -0300" stop="20260919213000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Um Milagre</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Ali deixa sua cidade natal com memórias dolorosas. Um acidente no aeroporto o impede de chegar a tempo para a reunião mais importante de sua vida.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
   <programme start="20260919213000 -0300" stop="20260920000000 -0300" channel="TV BRASIL 2">
     <title lang="pt">Sessão de Cinema: A Transformação de Canuto</title>
     <category lang="pt">Filme/Documentário</category>
@@ -255825,35 +255326,6 @@
     <rating system="Brazil">
       <value>12</value>
     </rating>
-  </programme>
-  <programme start="20260919190000 -0300" stop="20260919193000 -0300" channel="TV CULTURA">
-    <title lang="pt">Cultura Livre</title>
-    <category lang="pt">Séries/Musical</category>
-    <desc lang="pt">Apresentado por Roberta Martinelli, o Cultura Livre recebe cantores e bandas no estúdio semanalmente. Além das apresentações, os artistas falam sobre suas carreiras e respondem a perguntas da audiência.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919193000 -0300" stop="20260919203000 -0300" channel="TV CULTURA">
-    <title lang="pt">Futurando</title>
-    <category lang="pt">Documentário/Diversos</category>
-    <desc lang="pt">Como o neuromaerkting pode nos fazer consumir mais. Vamos explicar o conceito de justiça climática. Países mais pobres, que contribuíram muito menos para poluir o planeta, devem pagar a conta das nações ricas?</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919203000 -0300" stop="20260919205500 -0300" channel="TV CULTURA">
-    <title lang="pt">Horário Político</title>
-    <category lang="pt">Variedades/Política</category>
-    <desc lang="pt">Horário reservado a Propaganda Eleitoral Gratuita conforme Lei nº 9.504 de 1997.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919205500 -0300" stop="20260919220000 -0300" channel="TV CULTURA">
-    <title lang="pt">Jornal da Cultura</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.</desc>
   </programme>
   <programme start="20260919220000 -0300" stop="20260919223000 -0300" channel="TV CULTURA">
     <title lang="pt">Vitrine</title>
@@ -264982,8 +264454,11 @@
     </rating>
   </programme>
   <programme start="20260919193000 -0300" stop="20260919200000 -0300" channel="TV JUSTICA">
-    <title lang="pt">Documentário Variado: Acesso a Justiça</title>
-    <category lang="pt">Documentário/Diversos</category>
+    <title lang="pt">Manda a Real MPF</title>
+    <desc lang="pt">O projeto Manda a Real, idealizado pela Secretaria de Comunicação Social do MPF, busca conscientizar a população sobre os impactos da desinformação na democracia e nos direitos, oferecendo linguagem acessível.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260919200000 -0300" stop="20260919203000 -0300" channel="TV JUSTICA">
     <title lang="pt">Iluminuras</title>
@@ -264993,9 +264468,8 @@
     </rating>
   </programme>
   <programme start="20260919203000 -0300" stop="20260919210000 -0300" channel="TV JUSTICA">
-    <title lang="pt">Repórter Eco</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">O Repórter Eco é um programa especializado em meio ambiente e sustentabilidade, que debate sobre os desafios da emergência climática e apresenta caminhos e soluções para um futuro mais sustentável.</desc>
+    <title lang="pt">Horário Político Eleitoral</title>
+    <desc lang="pt">Horário político eleitoral.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -275567,38 +275041,6 @@
     <title lang="pt">Senadoc</title>
     <category lang="pt">Documentário/Diversos</category>
   </programme>
-  <programme start="20260919190000 -0300" stop="20260919195000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago P.D.</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Chicago P.D.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260919195000 -0300" stop="20260919204000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago P.D.</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Chicago P.D.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260919204000 -0300" stop="20260919213000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago P.D.</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Chicago P.D.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260919213000 -0300" stop="20260919222000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago P.D.</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Após uma série de brutais assassinatos, os policiais de Chicago, liderados pelo sargento Voight, investigam um cartel de drogas.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-  </programme>
   <programme start="20260919222000 -0300" stop="20260919231000 -0300" channel="UNIVERSAL CHANNEL">
     <title lang="pt">Chicago P.D.</title>
     <category lang="pt">Séries/Drama</category>
@@ -285539,38 +284981,6 @@
   <programme start="20260923231000 -0300" stop="20260924000000 -0300" channel="USA">
     <title lang="pt">Blue Bloods</title>
     <desc lang="pt">Danny e Baez examinam uma galeria de arte suspeita de vender peças falsificadas depois que um detetive que investigava o estabelecimento é assassinado.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260919183600 -0300" stop="20260919193000 -0300" channel="VIVA">
-    <title lang="pt">Tropicaliente</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Ramiro diz a Serena que Vítor não serve para namorar Açucena. Manoela descobre que Pitanga foi à aldeia e coloca-a de castigo. Gaspar sugere a Letícia que procure sua felicidade.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260919193000 -0300" stop="20260919201700 -0300" channel="VIVA">
-    <title lang="pt">O Rei Do Gado</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">A notícia da morte do senador Caxias se espalha e os amigos e familiares lamentam. Geremias leva o sobrinho neto Giuseppe para casa e diz a Rafaela que conseguiu seus documentos.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260919201700 -0300" stop="20260919210800 -0300" channel="VIVA">
-    <title lang="pt">Rock Story</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Gilda passa por problemas no salão de beleza. Paçoca é acusado injustamente. Gordo recebe péssima notícia. A nova loira do Rebola Embola é escolhida. Diana denuncia Júlia.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260919210800 -0300" stop="20260919215500 -0300" channel="VIVA">
-    <title lang="pt">As Filhas Da Senhora Garcia</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Mar encontra apoio em Juan após ser humilhada e acusada injustamente. Enquanto isso, Valeria enfrenta uma situação crítica: sem emprego e sem dinheiro, chega a dormir na rua.</desc>
     <rating system="Brazil">
       <value>14</value>
     </rating>
