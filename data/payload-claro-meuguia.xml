@@ -9505,8 +9505,11 @@
     </rating>
   </programme>
   <programme start="20261031130000 -0300" stop="20261031131500 -0300" channel="ARTE 1">
-    <title lang="pt">Arte Makers</title>
-    <category lang="pt">Séries/Artes</category>
+    <title lang="pt">Arte Makers: Imagem e Representatividade</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031131500 -0300" stop="20261031133000 -0300" channel="ARTE 1">
     <title lang="pt">Curta Arte 1: Pama Loiola - Coração de Vidro</title>
@@ -9516,12 +9519,18 @@
     </rating>
   </programme>
   <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="ARTE 1">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
-    <category lang="pt">Séries/Documentário</category>
+    <title lang="pt">Arte 1 Visual: Invenções da Alma: Consagrada na Fé</title>
+    <desc lang="pt">Vem das Minas Gerais a arte simbólica, que carrega todo um sentimento não dito, do vivido na fé do estandarte, nas festas que celebram sagrado e agregam profanos. Clélia Lemos traduz esse sentimento.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031140000 -0300" stop="20261031143000 -0300" channel="ARTE 1">
-    <title lang="pt">Arte 1 Visual: Invenções da Alma</title>
-    <category lang="pt">Séries/Documentário</category>
+    <title lang="pt">Arte 1 Visual: Invenções da Alma: Cores da Memória</title>
+    <desc lang="pt">Pescador, fazedor de farinha de mandioca, Neri Andrade pinta as tradições culturais e paisagens de Floriano?polis, num ato de resistência à destruição de patrimônios, que muitos chamam &quot;modernidade&quot;.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031143000 -0300" stop="20261031153000 -0300" channel="ARTE 1">
     <title lang="pt">Bio Arte 1: Louise Bourgeois</title>
@@ -9538,8 +9547,11 @@
     </rating>
   </programme>
   <programme start="20261031163000 -0300" stop="20261031170000 -0300" channel="ARTE 1">
-    <title lang="pt">Um.Artista</title>
-    <category lang="pt">Séries/Documentário</category>
+    <title lang="pt">Um.Artista: Anderson AC</title>
+    <desc lang="pt">Após a trágica morte de seu irmão, Anderson AC transforma seu trabalho figurativo. Ele encontra no rasgar e tramar das telas pintadas a força para novos e expressivos caminhos.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031170000 -0300" stop="20261031180000 -0300" channel="ARTE 1">
     <title lang="pt">Tempo de Dança: Além das Capitais</title>
@@ -17851,25 +17863,17 @@
     <title lang="pt">Dinamo Moscou x Akhmat - ao vivo</title>
     <desc lang="pt">O Torneio da principal liga de futebol profissional da Rússia, a Rosískaya Futbólnaya Premier-League segue aqui no BandSports.</desc>
   </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="BAND SPORTS">
-    <title lang="pt">The Golf Brasil</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">No The Golf Brasil você encontra o melhor dos torneios e dicas do golfe.</desc>
+  <programme start="20261031133000 -0300" stop="20261031151500 -0300" channel="BAND SPORTS">
+    <title lang="pt">Supercopa Italiana de Vôlei: Conegliano x Scandicci</title>
+    <desc lang="pt">Conegliano e Scandicci decidem a Supercopa Italiana de Voleibol Feminino de 2026. O confronto coloca frente a frente as estrelas brasileiras Gabi Guimarães (Conegliano) e Julia Bergmann (Scandicci).</desc>
   </programme>
-  <programme start="20261031140000 -0300" stop="20261031143000 -0300" channel="BAND SPORTS">
-    <title lang="pt">Rote Sail GP</title>
-    <category lang="pt">Esporte/Vela</category>
-    <desc lang="pt">SailGP é uma competição internacional de vela que utiliza catamarãs de florete F50 de alto desempenho.</desc>
+  <programme start="20261031151500 -0300" stop="20261031164500 -0300" channel="BAND SPORTS">
+    <title lang="pt">Criciúma x Chapecoense</title>
+    <desc lang="pt">A maior competição nacional de futsal, organizada pela Confederação Brasileira de Futebol de Salão (CBFS). Clubes renomados do futsal e do futebol brasileiro.</desc>
   </programme>
-  <programme start="20261031143000 -0300" stop="20261031144500 -0300" channel="BAND SPORTS">
+  <programme start="20261031164500 -0300" stop="20261031170000 -0300" channel="BAND SPORTS">
     <title lang="pt">Vila Bandsports</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
     <desc lang="pt">Em Vila BandSports, Álvaro José receberá convidados para fazer entrevistas e trazer bastidores, além de várias curiosidades envolvendo a busca por medalhas e os desafios que os atletas enfrentam.</desc>
-  </programme>
-  <programme start="20261031144500 -0300" stop="20261031165000 -0300" channel="BAND SPORTS">
-    <title lang="pt">Al-Hilal x Al-Fateh - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">Torneio da principal liga de futebol profissional da Arábia Saudita.</desc>
   </programme>
   <programme start="20261031170000 -0300" stop="20261031183000 -0300" channel="BAND SPORTS">
     <title lang="pt">Chapecoense x Criciúma - ao vivo</title>
@@ -23924,118 +23928,6 @@
   <programme start="20261104200000 -0300" stop="20261105000000 -0300" channel="BM&amp;C">
     <title lang="pt">Programação BM&amp;C News</title>
     <desc lang="pt">Programação BM&amp;C News.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031110500 -0300" stop="20261031114800 -0300" channel="BOA VONTADE">
-    <title lang="pt">Cruzada Do Novo Mandamento de Jesus - Reunião da Comunhão Com Deus</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Transmissão especial direto da Igreja Ecumênica da Religião de Deus em São Paulo/SP (Av. Rudge, 848, Bom Retiro). Venha orar conosco!</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031114800 -0300" stop="20261031121000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Mensagem da Ave, Maria!</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Momento tradicional de preces e súplicas a Maria, Mãe de Jesus, com mensagens na voz do saudoso Fundador da LBV, Alziro Zarur. Traz fé e esperança aos corações, promovendo a Fraternidade Ecumênica.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031121000 -0300" stop="20261031124000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Cruzada Do Novo Mandamento de Jesus - Reunião da Comunhão Com Deus</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Transmissão especial direto da Igreja Ecumênica da Religião de Deus em São Paulo/SP (Av. Rudge, 848, Bom Retiro). Venha orar conosco!</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031124000 -0300" stop="20261031130000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Programa Soldadinhos de Deus, da LBV</title>
-    <category lang="pt">Variedades/Infantil</category>
-    <desc lang="pt">Esta série convida as crianças a refletirem sobre valores essenciais como paz, confiança, responsabilidade e equilíbrio digital. Por meio de estudos do Evangelho, o programa incentiva atitudes positivas.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031131000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031131000 -0300" stop="20261031135000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Especial - Música Legionária</title>
-    <category lang="pt">Variedades/Musical</category>
-    <desc lang="pt">Uma seleção de composições que traduzem o acolhimento para a Alma. O &quot;Especial - Música Legionária&quot; traz para o seu fim de semana composições do repertório Legionário da Boa Vontade para ...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031135000 -0300" stop="20261031140000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Congresso do Roteiro Missionário &quot;Irmão Paiva, Eterna Gratidão!&quot;</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Momento de profunda comunhão e elevação espiritual, em permanente continuidade ao imenso legado do Irmão Paiva Netto, Líder Espiritual da Religião de Deus, do Cristo e do Espírito Santo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031140500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031140500 -0300" stop="20261031150000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Congresso do Roteiro Missionário &quot;Irmão Paiva, Eterna Gratidão!&quot;</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Momento de profunda comunhão e elevação espiritual, em permanente continuidade ao imenso legado do Irmão Paiva Netto, Líder Espiritual da Religião de Deus, do Cristo e do Espírito Santo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031150000 -0300" stop="20261031150500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031150500 -0300" stop="20261031160000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Congresso do Roteiro Missionário &quot;Irmão Paiva, Eterna Gratidão!&quot;</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Momento de profunda comunhão e elevação espiritual, em permanente continuidade ao imenso legado do Irmão Paiva Netto, Líder Espiritual da Religião de Deus, do Cristo e do Espírito Santo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031160000 -0300" stop="20261031160500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031160500 -0300" stop="20261031170000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Congresso do Roteiro Missionário &quot;Irmão Paiva, Eterna Gratidão!&quot;</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Momento de profunda comunhão e elevação espiritual, em permanente continuidade ao imenso legado do Irmão Paiva Netto, Líder Espiritual da Religião de Deus, do Cristo e do Espírito Santo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031170000 -0300" stop="20261031170500 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -40474,142 +40366,6 @@
   <programme start="20261104233000 -0300" stop="20261105000000 -0300" channel="CANÇÃO NOVA">
     <title lang="pt">Sorrindo pra Vida</title>
     <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031113000 -0300" stop="20261031114100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Any Malu descobre que tem um stalker e fica obcecada em desvendar a identidade do seu primeiro admirador.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031114100 -0300" stop="20261031115400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Any Malu descobre que tem um stalker e fica obcecada em desvendar a identidade do seu primeiro admirador.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031115400 -0300" stop="20261031120500 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Any Malu descobre que tem um stalker e fica obcecada em desvendar a identidade do seu primeiro admirador.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031120500 -0300" stop="20261031132300 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Lego DC Comics Super Heróis: Aquaman - A Fúria de Atlântida</title>
-    <category lang="pt">Filme/Animação</category>
-    <desc lang="pt">Aquaman deve lutar contra inimigos no ar, em terra e nas profundezas dos Sete Mares, junto com alguma ajuda da Liga da Justiça, para salvar o dia.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031132300 -0300" stop="20261031133400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para ganhar uma pizza, os bebês urso jogam basquete contra uma gangue de crianças.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031133400 -0300" stop="20261031134700 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para ganhar uma pizza, os bebês urso jogam basquete contra uma gangue de crianças.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031134700 -0300" stop="20261031135800 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para ganhar uma pizza, os bebês urso jogam basquete contra uma gangue de crianças.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031135800 -0300" stop="20261031140800 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Robin surpreende os Titãs com um passeio à ópera. Mas eles logo caem no sono e sonham que estão em sua própria apresentação.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031140800 -0300" stop="20261031142000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Robin surpreende os Titãs com um passeio à ópera. Mas eles logo caem no sono e sonham que estão em sua própria apresentação.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031142000 -0300" stop="20261031143100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Robin surpreende os Titãs com um passeio à ópera. Mas eles logo caem no sono e sonham que estão em sua própria apresentação.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031143100 -0300" stop="20261031144400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">As princesas não aguentam mais as histórias malucas sobre Fionna &amp; Cake do Rei Gelado. Assim, Marceline vai até o Reino Gelado para mostrar a ele como se faz.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031144400 -0300" stop="20261031145500 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">As princesas não aguentam mais as histórias malucas sobre Fionna &amp; Cake do Rei Gelado. Assim, Marceline vai até o Reino Gelado para mostrar a ele como se faz.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031145500 -0300" stop="20261031150700 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sem ter onde ficar enquanto sua caverna é dedetizada, os ursos fazem uma reserva num hotel para cachorros.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031150700 -0300" stop="20261031151900 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sem ter onde ficar enquanto sua caverna é dedetizada, os ursos fazem uma reserva num hotel para cachorros.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031151900 -0300" stop="20261031153100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sem ter onde ficar enquanto sua caverna é dedetizada, os ursos fazem uma reserva num hotel para cachorros.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031153100 -0300" stop="20261031154400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Big Blue: O Grande Oceano</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">A Tripulação está em conflito quando o bolo de recompensa da missão desaparece misteriosamente e cada um deles se culpa por guardá-lo para si.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031154400 -0300" stop="20261031155700 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Big Blue: O Grande Oceano</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">A Tripulação está em conflito quando o bolo de recompensa da missão desaparece misteriosamente e cada um deles se culpa por guardá-lo para si.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -63915,44 +63671,6 @@
     <title lang="pt">WW</title>
     <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
   </programme>
-  <programme start="20261031110000 -0300" stop="20261031120000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">The Chris Wallace Show</title>
-    <category lang="pt">Variedades/Debate</category>
-    <desc lang="pt">Chris Wallace recebe os melhores repórteres e comentaristas influentes do país para apresentar uma discussão perspicaz e provocativa sobre as maiores histórias da semana.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031120000 -0300" stop="20261031130000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">The Amanpour Hour</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Christiane Amanpour, a principal âncora internacional da CNN, traz uma visão valiosa sobre as maiores notícias globais e nacionais da semana.</desc>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031133000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">World Sport</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte.</desc>
-  </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">Living Golf</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Living Golf é um programa dedicado a todos os ângulos do golfe. Apresentado por Don Riddell, o programa cobre os aspectos de estilo de vida, negócios, viagem, moda e tecnologia do esporte.</desc>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031150000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">CNN Newsroom Saturday</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Atualizações das últimas notícias de todo o mundo.</desc>
-  </programme>
-  <programme start="20261031150000 -0300" stop="20261031160000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">CNN Newsroom Saturday</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Atualizações das últimas notícias de todo o mundo.</desc>
-  </programme>
-  <programme start="20261031160000 -0300" stop="20261031170000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">CNN Newsroom Saturday</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Atualizações das últimas notícias de todo o mundo.</desc>
-  </programme>
   <programme start="20261031170000 -0300" stop="20261031173000 -0300" channel="CNN INTERNACIONAL">
     <title lang="pt">Tech for Good</title>
     <category lang="pt">Variedades/Ciência</category>
@@ -69470,54 +69188,6 @@
     <desc lang="pt">Documentário sobre o cineasta e criador do Studio Ghibli Hayao Miyazaki, mostrando como suas experiências e visão crítica moldaram filmes sobre a relação entre humanidade e natureza.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031111700 -0300" stop="20261031121900 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Sete Mundos, Um Planeta</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">O cenário dos maiores espetáculos da vida selvagem. Chimpanzés fabricam ferramentas, guepardos caçam presas com o dobro de seu tamanho e, em lagos transparentes, impostores enganam peixes que tentam proteger seus filhotes.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031121900 -0300" stop="20261031131700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Ilhas Tropicais</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Uma viagem pelas diversas ilhas do Havaí. Descubra como se formaram e a incrível fauna selvagem que elas abrigam.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031131700 -0300" stop="20261031140700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Gladiadores da Natureza</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Conheça os gladiadores da Austrália: cangurus boxeadores e aranhas venenosas lutam para sobreviver às mudanças climáticas.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031140700 -0300" stop="20261031145700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Menu Selvagem</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Josh James e Matt Tebbutt viajam para uma floresta impenetrável no México, repleta de perigos e desafios. Sua primeira tarefa é encontrar uma clareira plana para montar um acampamento.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031145700 -0300" stop="20261031154700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Desafio em Dose Dupla Brasil: Leo e Leite</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Leo Rocha e Coronel Leite partem de um acidente de kitesurf em um dos canais do Delta do Parnaíba, único delta no continente americano a desaguar diretamente no oceano.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031154700 -0300" stop="20261031163700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Desafio em Dose Dupla Brasil: Leo e Leite</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Perdidos em uma reserva de Mata Atlântica no litoral sul brasileiro, Leo Rocha e Coronel Leite encontram a armadilha fotográfica de um pesquisador que estuda onças pintadas.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261031163700 -0300" stop="20261031172700 -0300" channel="DISCOVERY CHANNEL">
@@ -111707,26 +111377,6 @@
     <category lang="pt">Jornalismo/Esportivo</category>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
   </programme>
-  <programme start="20261031113000 -0300" stop="20261031115000 -0300" channel="ESPN 1">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-  </programme>
-  <programme start="20261031115000 -0300" stop="20261031140000 -0300" channel="ESPN 1">
-    <title lang="pt">Manchester City x Brighton - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031142000 -0300" channel="ESPN 1">
-    <title lang="pt">Sportscenter Abre o Jogo - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Abertura da transmissão das grandes competições esportivas. Análises completas, materiais exclusivos e todas as últimas notícias sobre o evento que virá a seguir.</desc>
-  </programme>
-  <programme start="20261031142000 -0300" stop="20261031163000 -0300" channel="ESPN 1">
-    <title lang="pt">Tottenham x Crystal Palace - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">Grandes craques, técnicos de renome, torcedores tradicionais e muitos outros personagens reunidos: é a maior liga de futebol do mundo! Sinta a paixão e a emoção de cada jogo.</desc>
-  </programme>
   <programme start="20261031163000 -0300" stop="20261031184500 -0300" channel="ESPN 1">
     <title lang="pt">Milan x Internazionale - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
@@ -122635,8 +122285,11 @@
     <desc lang="pt">O Giro traz a pesquisa da UFRJ que aprimora o diagnóstico do câncer infantil; Robô Maria (Ufes) auxilia crianças com TEA e Síndrome de Down; e a música que relaciona balanço ao alívio do estresse em</desc>
   </programme>
   <programme start="20261031120000 -0300" stop="20261031123000 -0300" channel="FUTURA">
-    <title lang="pt">Autores 4ª Temporada</title>
-    <category lang="pt">Séries/Diversos</category>
+    <title lang="pt">Autores</title>
+    <desc lang="pt">Martinho da Vila debutou no samba-enredo com uma canção sobre Machado de Assis e segue admirando sua obra e sendo devoto da Língua Portuguesa.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031123000 -0300" stop="20261031130000 -0300" channel="FUTURA">
     <title lang="pt">Manual De Sobrevivência Para O Século x X I</title>
@@ -126001,32 +125654,6 @@
     <title lang="pt">Tropa GE TV - ao vivo</title>
     <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
   </programme>
-  <programme start="20261031083000 -0300" stop="20261031114500 -0300" channel="GLOBO">
-    <title lang="pt">É de Casa</title>
-    <category lang="pt">Variedades/Diversos</category>
-    <desc lang="pt">Maria Beltrão, Rita Batista, Thiago Oliveira e Talitha Morete comandam programa de variedades das manhãs de sábado, ao vivo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031114500 -0300" stop="20261031130000 -0300" channel="GLOBO">
-    <title lang="pt">RJ1</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031132500 -0300" channel="GLOBO">
-    <title lang="pt">Globo Esporte</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Um pouquinho de cada Globo Esporte espalhado pelo Brasil. As principais histórias, notícias, num mosaico leve e informativo.</desc>
-  </programme>
-  <programme start="20261031132500 -0300" stop="20261031140500 -0300" channel="GLOBO">
-    <title lang="pt">Jornal Hoje</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
-  </programme>
-  <programme start="20261031140500 -0300" stop="20261031170000 -0300" channel="GLOBO">
-    <title lang="pt">Taça das Favelas - Finais</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
   <programme start="20261031170000 -0300" stop="20261031183000 -0300" channel="GLOBO">
     <title lang="pt">Caldeirão com Mion</title>
     <category lang="pt">Variedades/Diversos</category>
@@ -129027,8 +128654,8 @@
     </rating>
   </programme>
   <programme start="20261031114500 -0300" stop="20261031130000 -0300" channel="GLOBO SP">
-    <title lang="pt">RJ1</title>
-    <category lang="pt">Jornalismo/Informativo</category>
+    <title lang="pt">SP1</title>
+    <desc lang="pt">Alan Severiano mostra o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo.</desc>
   </programme>
   <programme start="20261031130000 -0300" stop="20261031132500 -0300" channel="GLOBO SP">
     <title lang="pt">Globo Esporte</title>
@@ -129038,13 +128665,22 @@
     <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de Roberto Kovalick.</desc>
   </programme>
-  <programme start="20261031140500 -0300" stop="20261031170000 -0300" channel="GLOBO SP">
-    <title lang="pt">Taça das Favelas - Finais</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20261031140500 -0300" stop="20261031143500 -0300" channel="GLOBO SP">
+    <title lang="pt">Roque Santeiro</title>
+    <desc lang="pt">Ambientada na fictícia Asa Branca, a trama gira em torno de Roque Santeiro, artesão de santos que teria morrido ao defender a cidade do temido bandido Navalhada.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
   </programme>
-  <programme start="20261031170000 -0300" stop="20261031183000 -0300" channel="GLOBO SP">
+  <programme start="20261031143500 -0300" stop="20261031161000 -0300" channel="GLOBO SP">
+    <title lang="pt">Sessão de Sábado: O Último Mestre do Ar</title>
+    <desc lang="pt">A Nação do Fogo está em guerra com as nações da Água, do Ar e da Terra porque pretende dominar o mundo. Aang é o único com o potencial de manipular todos os quatro elementos, vencer a guerra e restaurar o eq...</desc>
+    <rating system="Brazil">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20261031161000 -0300" stop="20261031183000 -0300" channel="GLOBO SP">
     <title lang="pt">Caldeirão com Mion</title>
-    <category lang="pt">Variedades/Diversos</category>
     <desc lang="pt">Apresentado por Marcos Mion, a nova versão do &#x27;Caldeirão&#x27; traz alguns quadros já conhecidos do público e atrações inéditas.</desc>
     <rating system="Brazil">
       <value>10</value>
@@ -134269,10 +133905,33 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261031111400 -0300" stop="20261031135500 -0300" channel="GLOOB">
-    <title lang="pt">Programação do Canal</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20261031104000 -0300" stop="20261031113700 -0300" channel="GLOOB">
+    <title lang="pt">Tara Duncan</title>
+    <desc lang="pt">Magister sequestra a tia de Robin para que ela faça a reforma da fortaleza cinza. Tara e seus amigos precisarão confiar na magia élfica de Robin para libertá-la.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261031113700 -0300" stop="20261031115900 -0300" channel="GLOOB">
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">Tom é akumatizado, e vira um enorme e monstruoso cão-de-guarda que coloca Marinette em uma prisão mágica. Marinette vai conseguir parar o próprio pai?</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261031115900 -0300" stop="20261031122200 -0300" channel="GLOOB">
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">Tom é akumatizado, e vira um enorme e monstruoso cão-de-guarda que coloca Marinette em uma prisão mágica. Marinette vai conseguir parar o próprio pai?</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261031122200 -0300" stop="20261031135500 -0300" channel="GLOOB">
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">Tom é akumatizado, e vira um enorme e monstruoso cão-de-guarda que coloca Marinette em uma prisão mágica. Marinette vai conseguir parar o próprio pai?</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261031135500 -0300" stop="20261031142200 -0300" channel="GLOOB">
     <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
@@ -157939,54 +157598,6 @@
     <desc lang="pt">Um casal do norte do estado de Nova York sonha em comprar uma casa às margens do lago Oneida. Mas encontrar um imóvel acessível com vista para a água e espaçoso o suficiente para sua família grande vai ser difícil.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031112500 -0300" stop="20261031121500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Mistérios Inexplorados Com Danny Trejo</title>
-    <category lang="pt">Documentário/Histórico</category>
-    <desc lang="pt">Diversos segredos relativos à história se recusam a permanecer ocultos. Desde carregamentos ilícitos escondidos em lagos congelados a obras-primas roubadas e até mesmo bordéis clandestinos.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031121500 -0300" stop="20261031130500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Caçadores de Relíquias</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Os rapazes visitam uma casa cheia de bichos embalsamados em Illinois, que é uma mistura entre um Cemitério de Animais e o Museu de História Natural.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031130500 -0300" stop="20261031140000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Grandes Relíquias Da História Com Mike Wolfe</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Desde objetos ligados a missões espaciais e filmes lendários, até detritos orbitais ou inclusive tesouros da ficção científica, Mike e sua equipe revelam algumas das descobertas mais surpreendentes relacionadas ao esp...</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031145000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">As Megamarcas Que Mudaram O Mundo</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Em 1962, três empresas ícones do varejo nasceram nos Estados Unidos, desencadeando uma grande e histórica rivalidade. Com preços realmente baixos, inovação técnica e estratégias disruptivas, redefiniram a ex...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031145000 -0300" stop="20261031154000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Inexplicável</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Lendas urbanas, um folclore moderno baseado em mistério, misturam realidade e ficção em histórias assombrosas que sobrevivem geração após geração.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031154000 -0300" stop="20261031163000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Inexplicável</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">Desde os primórdios da civilização, a humanidade tem estado obcecada em prever nosso próprio desaparecimento. Mas existe algo que possamos fazer para prever o futuro e nos proteger do apocalipse?</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261031163000 -0300" stop="20261031172000 -0300" channel="HISTORY CHANNEL">
@@ -199756,51 +199367,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261031110000 -0300" stop="20261031120000 -0300" channel="REDETV!">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031120000 -0300" stop="20261031130000 -0300" channel="REDETV!">
-    <title lang="pt">Assembléia De Deus Do Brás</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Acompanhe a transmissão de um culto acolhedor, sob a direção de um pastor igualmente acolhedor. A Assembleia de Deus busca os dons espirituais ressaltando sempre a ordem nos cultos.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031140000 -0300" channel="REDETV!">
-    <title lang="pt">A Hora Do Zap</title>
-    <category lang="pt">Variedades/Humor</category>
-    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031150000 -0300" channel="REDETV!">
-    <title lang="pt">Show da Saúde</title>
-    <category lang="pt">Variedades/Televendas</category>
-    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031150000 -0300" stop="20261031160000 -0300" channel="REDETV!">
-    <title lang="pt">A Hora Do Zap</title>
-    <category lang="pt">Variedades/Humor</category>
-    <desc lang="pt">Sequência de vídeos descontraídos com comentários divertidos.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031160000 -0300" stop="20261031170000 -0300" channel="REDETV!">
-    <title lang="pt">Brasil Do Povo</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">O programa BRASIL DO POVO oferece uma cobertura abrangente dos principais acontecimentos no Brasil e no mundo, focando em segurança pública, prestação de serviços e temas que impactam diretamente o cotidiano da popula...</desc>
-  </programme>
   <programme start="20261031170000 -0300" stop="20261031194500 -0300" channel="REDETV!">
     <title lang="pt">Vila Nova x Juventude - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
@@ -203669,27 +203235,6 @@
     <desc lang="pt">Atração que explora dois ingredientes essenciais para uma viagem inesquecível excelente comida combinada a uma hospedagem de qualidade</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031110000 -0300" stop="20261031124000 -0300" channel="SBT">
-    <title lang="pt">SBT Notícias</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">SBT Notícias é um telejornal noturno brasileiro, conta com a apresentação de Cassius Zeilmann e João Fernandes.</desc>
-  </programme>
-  <programme start="20261031124000 -0300" stop="20261031140000 -0300" channel="SBT">
-    <title lang="pt">Clube do Chaves</title>
-    <category lang="pt">Variedades/Humor</category>
-    <desc lang="pt">A atração é um programa que reúne enquetes com personagens criados por Roberto Bolaños, como Chaves, Chapolin e Dr. Chapatin além de toda a turma do Chaves!</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031150000 -0300" channel="SBT">
-    <title lang="pt">Eita Lucas!</title>
-    <category lang="pt">Variedades/Game Show</category>
-    <desc lang="pt">No Lucas Por Aí, ele vai rodar o Brasil atrás de pessoas que fazem a diferença na comunidade.</desc>
-    <rating system="Brazil">
-      <value>12</value>
     </rating>
   </programme>
   <programme start="20261031150000 -0300" stop="20261031174500 -0300" channel="SBT">
@@ -207946,9 +207491,15 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261031110200 -0300" stop="20261031114800 -0300" channel="SPACE">
+  <programme start="20261031104700 -0300" stop="20261031113200 -0300" channel="SPACE">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Horatio e Speedle investigam a morte de uma prostituta que foi encontrada debaixo da cama de uma luxuosa casa de praia, e seu corpo nu foi esfaqueado 23 vezes. Mas a cena do crime tem poucos traços de sangue.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261031113200 -0300" stop="20261031121800 -0300" channel="SPACE">
     <title lang="pt">C.S.I</title>
-    <category lang="pt">Séries/Policial</category>
     <desc lang="pt">O time CSI investiga um roubo e tiroteio com vítima fatal em uma loja que vende maconha para fins medicinais</desc>
     <rating system="Brazil">
       <value>14</value>
@@ -210810,21 +210361,13 @@
     <title lang="pt">Corinthians x Cruzeiro - ao vivo</title>
     <desc lang="pt">Corinthians e Cruzeiro jogam a rodada de ida da Final do Campeonato Brasileiro Sub-17, na Neo Química Arena, em São Paulo (SP).</desc>
   </programme>
-  <programme start="20261031130000 -0300" stop="20261031133000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Atlético-MG x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Remo x Botafogo</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20261031130000 -0300" stop="20261031140000 -0300" channel="SPORTV">
+    <title lang="pt">sportv News - ao vivo</title>
+    <desc lang="pt">Inicie o dia atualizado com as noticias do mundo do esporte. Cada detalhe sobre o seu esporte preferido, Os gols da rodada, as últimas do seu time, o que é notícia no Brasil e no Mundo contado de forma dinâmica por Mariana Fontes.</desc>
   </programme>
   <programme start="20261031140000 -0300" stop="20261031163000 -0300" channel="SPORTV">
     <title lang="pt">Bayern de Munique x Borussia Dortmund - ao vivo</title>
     <desc lang="pt">Bayern de Munique e Borussia Dortmund jogam pela 8ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
-  </programme>
-  <programme start="20261031163000 -0300" stop="20261031170000 -0300" channel="SPORTV">
-    <title lang="pt">VT - Corinthians x Mirassol</title>
-    <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20261031170000 -0300" stop="20261031173000 -0300" channel="SPORTV">
     <title lang="pt">VT - Santos x Palmeiras</title>
@@ -212262,21 +211805,21 @@
     <title lang="pt">De Corpo e Alma: Equilíbrio Mental</title>
     <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
   </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="SPORTV 2">
-    <title lang="pt">De Corpo e Alma</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
+  <programme start="20261031130000 -0300" stop="20261031140000 -0300" channel="SPORTV 2">
+    <title lang="pt">Tênis de Mesa: Montpellier, França - ao vivo</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
   </programme>
   <programme start="20261031140000 -0300" stop="20261031150000 -0300" channel="SPORTV 2">
-    <title lang="pt">Tênis de Mesa - Quartas de Final - Montpellier, França - Ao Vivo</title>
-    <category lang="pt">Esporte/Tênis De Mesa</category>
+    <title lang="pt">Tênis de Mesa: Montpellier, França - ao vivo</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
   </programme>
   <programme start="20261031150000 -0300" stop="20261031160000 -0300" channel="SPORTV 2">
-    <title lang="pt">Tênis de Mesa - Quartas de Final - Montpellier, França - Ao Vivo</title>
-    <category lang="pt">Esporte/Tênis De Mesa</category>
+    <title lang="pt">Tênis de Mesa: Montpellier, França - ao vivo</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
   </programme>
   <programme start="20261031160000 -0300" stop="20261031170000 -0300" channel="SPORTV 2">
-    <title lang="pt">Tênis de Mesa - Quartas de Final - Montpellier, França - Ao Vivo</title>
-    <category lang="pt">Esporte/Tênis De Mesa</category>
+    <title lang="pt">Tênis de Mesa: Montpellier, França - ao vivo</title>
+    <desc lang="pt">Aqui no sportv você confere todas as emoções do Circuito Mundial de Tênis de Mesa.</desc>
   </programme>
   <programme start="20261031170000 -0300" stop="20261031181000 -0300" channel="SPORTV 2">
     <title lang="pt">As Bicampeãs</title>
@@ -213136,19 +212679,13 @@
     <title lang="pt">Lendas: Ayrton Senna</title>
     <desc lang="pt">Quer reviver aquele jogo inesquecível? Saber o que seu ídolo sentiu na hora do gol decisivo? O Baú do Esporte traz diariamente os grandes momentos e personagens que marcaram a história esportiva do Brasil e do mundo.</desc>
   </programme>
-  <programme start="20261031110000 -0300" stop="20261031120000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP da Cidade do México - Treino Livre 1</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
+  <programme start="20261031104000 -0300" stop="20261031113000 -0300" channel="SPORTV 3">
+    <title lang="pt">Alta Fidelidade: As Dez Maiores Torcidas do Mundo - Flamengo</title>
+    <desc lang="pt">Alta Fidelidade é uma série documental em 10 episódios de 45 minutos que revela as origens, a personalidade, o estilo, os símbolos e os rituais de grandes torcidas do mundo atrav és de entrevistas com seus integrantes, ...</desc>
   </programme>
-  <programme start="20261031120000 -0300" stop="20261031130000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP da Cidade do México - Treino Livre 2</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-    <desc lang="pt">Os melhores pilotos do mundo aceleram rumo à vitória em mais uma etapa da temporada.</desc>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031140000 -0300" channel="SPORTV 3">
-    <title lang="pt">Fórmula 1 - GP do Bahrein - Melhores Momentos</title>
-    <category lang="pt">Esporte/Automobilismo</category>
+  <programme start="20261031113000 -0300" stop="20261031140000 -0300" channel="SPORTV 3">
+    <title lang="pt">VT - CONMEBOL Libertadores Feminina</title>
+    <desc lang="pt">Os principais clubes Femininos do continente entram em campo em busca da glória eterna! Acompanhe a Conmebol Libertadores Feminina aqui no sportv!</desc>
   </programme>
   <programme start="20261031140000 -0300" stop="20261031153000 -0300" channel="SPORTV 3">
     <title lang="pt">Fórmula 1: GP da Cidade do México - Treino Livre 3 - ao vivo</title>
@@ -214004,28 +213541,6 @@
   <programme start="20261114192500 -0300" stop="20261114202500 -0300" channel="SPORTV 3">
     <title lang="pt">Programação sportv 3</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20261031103000 -0300" stop="20261031130000 -0300" channel="SPORTV 4">
-    <title lang="pt">Corinthians x Cruzeiro - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">Corinthians e Cruzeiro jogam a rodada de ida da Final do Campeonato Brasileiro Sub-17, na Neo Química Arena, em São Paulo (SP).</desc>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031133000 -0300" channel="SPORTV 4">
-    <title lang="pt">VT - Atlético-MG x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="SPORTV 4">
-    <title lang="pt">VT - Remo x Botafogo</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031163000 -0300" channel="SPORTV 4">
-    <title lang="pt">Bayern de Munique x Borussia Dortmund - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-    <desc lang="pt">Bayern de Munique e Borussia Dortmund jogam pela 8ª rodada do Primeiro Turno da Bundesliga, na Allianz Arena, em Munique, Alemanha.</desc>
-  </programme>
-  <programme start="20261031163000 -0300" stop="20261031170000 -0300" channel="SPORTV 4">
-    <title lang="pt">VT - Corinthians x Mirassol</title>
-    <category lang="pt">Esporte/Futebol</category>
   </programme>
   <programme start="20261031170000 -0300" stop="20261031173000 -0300" channel="SPORTV 4">
     <title lang="pt">VT - Santos x Palmeiras</title>
@@ -217253,54 +216768,6 @@
     <title lang="pt">Natal em Viena</title>
     <category lang="pt">Filme/Romance</category>
   </programme>
-  <programme start="20261031113500 -0300" stop="20261031122300 -0300" channel="TBS">
-    <title lang="pt">Um Milagre</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Ali deixa sua cidade natal com memórias dolorosas. Um acidente no aeroporto o impede de chegar a tempo para a reunião mais importante de sua vida.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031122300 -0300" stop="20261031131100 -0300" channel="TBS">
-    <title lang="pt">Um Milagre</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Ali deixa sua cidade natal com memórias dolorosas. Um acidente no aeroporto o impede de chegar a tempo para a reunião mais importante de sua vida.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031131100 -0300" stop="20261031135900 -0300" channel="TBS">
-    <title lang="pt">Um Milagre</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Ali deixa sua cidade natal com memórias dolorosas. Um acidente no aeroporto o impede de chegar a tempo para a reunião mais importante de sua vida.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031135900 -0300" stop="20261031144800 -0300" channel="TBS">
-    <title lang="pt">Iludida</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031144800 -0300" stop="20261031153700 -0300" channel="TBS">
-    <title lang="pt">Iludida</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031153700 -0300" stop="20261031162600 -0300" channel="TBS">
-    <title lang="pt">Iludida</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20261031162600 -0300" stop="20261031171500 -0300" channel="TBS">
     <title lang="pt">Iludida</title>
     <category lang="pt">Séries/Drama</category>
@@ -219933,30 +219400,6 @@
     <title lang="pt">Será Isso Amor?</title>
     <category lang="pt">Séries/Drama</category>
     <desc lang="pt">Alptekin conta a Aydan sobre algo que aconteceu no passado. Serkan quer falar cara a cara com Eda pela última vez antes de ela partir e, por sua vez, Eda diz a Selin algo importante sobre ele.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031101700 -0300" stop="20261031121400 -0300" channel="TCM">
-    <title lang="pt">Núpcias de Escândalo</title>
-    <category lang="pt">Filme/Comédia</category>
-    <desc lang="pt">Pouco depois de seu casamento, a milionária herdeira Tracy põe seu marido C.K. Dexter Haven, playboy e quase alcoólatra, para fora de casa. Dois anos depois, Tracy se prepara para casar, mas muitas confusões estão para aco...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031121400 -0300" stop="20261031135100 -0300" channel="TCM">
-    <title lang="pt">O Jovem Kieslowski</title>
-    <category lang="pt">Filme/Drama</category>
-    <desc lang="pt">Brian Kieslowski conhece Leslie Mallard, os dois são estudantes na CalTech e são virgens, eles fazem sexo no apartamento dela depois de ficarem bêbados em uma festa.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031135100 -0300" stop="20261031152900 -0300" channel="TCM">
-    <title lang="pt">As Leis de Familia</title>
-    <category lang="pt">Filme/Comédia</category>
-    <desc lang="pt">Ariel Perelman é um jovem advogado que ainda não se encontrou na vida. Seu pai, também advogado, tem uma rotina de trabalho metódica e é um homem respeitado e respeitoso.</desc>
     <rating system="Brazil">
       <value>10</value>
     </rating>
@@ -235174,86 +234617,6 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261031112600 -0300" stop="20261031113700 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031113700 -0300" stop="20261031114700 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031114700 -0300" stop="20261031115700 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031115700 -0300" stop="20261031120900 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031120900 -0300" stop="20261031122000 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031122000 -0300" stop="20261031123100 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031123100 -0300" stop="20261031125400 -0300" channel="TOONCAST">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031125400 -0300" stop="20261031131700 -0300" channel="TOONCAST">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031131700 -0300" stop="20261031133900 -0300" channel="TOONCAST">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031133900 -0300" stop="20261031140100 -0300" channel="TOONCAST">
-    <title lang="pt">Scooby-Doo! Mistério S/A</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031140100 -0300" stop="20261031142800 -0300" channel="TOONCAST">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20261031142800 -0300" stop="20261031145500 -0300" channel="TOONCAST">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
-  <programme start="20261031145500 -0300" stop="20261031152100 -0300" channel="TOONCAST">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031152100 -0300" stop="20261031154800 -0300" channel="TOONCAST">
-    <title lang="pt">Os Flintstones</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031154800 -0300" stop="20261031155800 -0300" channel="TOONCAST">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20261031155800 -0300" stop="20261031160700 -0300" channel="TOONCAST">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031160700 -0300" stop="20261031161900 -0300" channel="TOONCAST">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031161900 -0300" stop="20261031162900 -0300" channel="TOONCAST">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20261031162900 -0300" stop="20261031164100 -0300" channel="TOONCAST">
-    <title lang="pt">Corrida Maluca</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261031164100 -0300" stop="20261031170600 -0300" channel="TOONCAST">
-    <title lang="pt">Thundercats</title>
-    <category lang="pt">Infantil/Desenho</category>
-  </programme>
   <programme start="20261031170600 -0300" stop="20261031173000 -0300" channel="TOONCAST">
     <title lang="pt">Thundercats</title>
     <category lang="pt">Infantil/Desenho</category>
@@ -248318,88 +247681,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261031112500 -0300" stop="20261031113800 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Júlio e Verne descobrem que vão mudar de casa. Os irmãos ficam preocupados de perder contato com os amigos, e, junto com Soneca, eles viajam na história para entender como as pessoas se adaptam às mudanças.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031113800 -0300" stop="20261031115100 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Júlio e Verne - Os Irmãos Gemiais</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Júlio e Verne descobrem que vão mudar de casa. Os irmãos ficam preocupados de perder contato com os amigos, e, junto com Soneca, eles viajam na história para entender como as pessoas se adaptam às mudanças.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031115100 -0300" stop="20261031120400 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Iuri constrói um balão de ar quente e tá doido para levar os amigos para um test drive, mas uma nevasca causada pela Ranya ameaça o passeio. Agora os heróis vão precisar derrotar a vilã antes que o balão sej...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031120400 -0300" stop="20261031121700 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Iuri constrói um balão de ar quente e tá doido para levar os amigos para um test drive, mas uma nevasca causada pela Ranya ameaça o passeio. Agora os heróis vão precisar derrotar a vilã antes que o balão sej...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031121700 -0300" stop="20261031122700 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Heroínas Negras Brasileiras</title>
-    <category lang="pt">Documentário/Biografia</category>
-    <desc lang="pt">Professora, escritora e jornalista é a primeira mulher negra deputada do Brasil. Com coragem e determinação, Antonieta luta por igualdade racial, pelos direitos das mulheres e por uma educação de qualidade para todas as pe...</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031122700 -0300" stop="20261031123000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Heroínas Negras Brasileiras</title>
-    <category lang="pt">Documentário/Biografia</category>
-    <desc lang="pt">Professora, escritora e jornalista é a primeira mulher negra deputada do Brasil. Com coragem e determinação, Antonieta luta por igualdade racial, pelos direitos das mulheres e por uma educação de qualidade para todas as pe...</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261031123000 -0300" stop="20261031130000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Cozinha Amazônia</title>
-    <category lang="pt">Variedades/Culinária</category>
-    <desc lang="pt">Programa apresentado por quatro chefs paraenses e um apreciador da boa mesa que traz receitas inusitadas com ingredientes locais e apresenta um pouco da cultura da culinária.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031133000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Xodó de Cozinha</title>
-    <category lang="pt">Variedades/Culinária</category>
-    <desc lang="pt">O foco do programa é a alimentação saudável e com baixo custo, trazendo receitas e soluções criativas para a cozinha com convidados especiais a cada episódio.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031133000 -0300" stop="20261031140000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Duelo de Guitarras</title>
-    <category lang="pt">Séries/Reality Show</category>
-    <desc lang="pt">O primeiro reality show de guitarristas.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031144500 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Brasil Esportes</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Um programa que reune jornalismo esportivo, debates e reportagens, trazendo uma abordagem única sobre esporte, saúde e bem-estar. Uma atração de revista eletrônica.</desc>
-  </programme>
-  <programme start="20261031144500 -0300" stop="20261031170000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Palmeiras x Corinthians - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol Feminino</category>
-    <desc lang="pt">O Campeonato Paulista de Futebol Feminino Sub-20 é uma competição oficial de categorias de base organizada pela Federação Paulista de Futebol (FPF) para atletas com até 20 anos de idade.</desc>
-  </programme>
   <programme start="20261031170000 -0300" stop="20261031180000 -0300" channel="TV BRASIL 2">
     <title lang="pt">Docs Brasil - Carbon Free</title>
     <category lang="pt">Filme/Documentário</category>
@@ -253036,86 +252317,6 @@
     <title lang="pt">Cena Musical</title>
     <category lang="pt">Séries/Musical</category>
     <desc lang="pt">Cena Musical é um programa de televisão brasileiro transmitido em rede nacional, que traça um painel sobre o cenário musical brasileiro.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031113000 -0300" stop="20261031120000 -0300" channel="TV CULTURA">
-    <title lang="pt">Arquivo SP</title>
-    <category lang="pt">Documentário/Cultural</category>
-    <desc lang="pt">A série Arquivo SP apresenta a história do Estado de São Paulo a partir de seus prédios públicos emblemáticos, tomando a arquitetura como porta de entrada para compreender os processos de crescimento econômico.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031120000 -0300" stop="20261031123000 -0300" channel="TV CULTURA">
-    <title lang="pt">Opinião</title>
-    <category lang="pt">Variedades/Entrevista</category>
-    <desc lang="pt">A cada edição, o programa recebe entrevistados que tratam de temas de interesse nacional, como política, economia, educação, saúde, comportamento, entre outros.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031123000 -0300" stop="20261031130000 -0300" channel="TV CULTURA">
-    <title lang="pt">Agrocultura</title>
-    <category lang="pt">Variedades/Ecologia</category>
-    <desc lang="pt">A atração é uma produção da emissora em parceria com sua rede de afiliadas e tem como proposta viajar o Brasil para mostrar o universo do homem do campo por meio de suas tradições locais e trabalho nas áreas...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031130000 -0300" stop="20261031131500 -0300" channel="TV CULTURA">
-    <title lang="pt">Cocoricó Conta Clássicos</title>
-    <category lang="pt">Filme/Infantil</category>
-    <desc lang="pt">A Turma da Fazenda mais divertida do Brasil resolveu interpretar alguns clássicos infantis para a criançada. Como se isso não bastasse, Júlio e seus amigos ainda deram uma leve mexida nas histórias.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031131500 -0300" stop="20261031132500 -0300" channel="TV CULTURA">
-    <title lang="pt">Jacarelvis e Amigos</title>
-    <category lang="pt">Séries/Infantil</category>
-    <desc lang="pt">Prepare-se para cantar e dançar muito! Jacarelvis e seus amigos alegram cada momento do seu dia com canções muito divertidas. Tem rock, blues, reggae e muito mais.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031132500 -0300" stop="20261031133000 -0300" channel="TV CULTURA">
-    <title lang="pt">Léo, O Caminhão</title>
-    <category lang="pt">Infantil/Animação</category>
-    <desc lang="pt">Léo é um caminhãozinho inteligente e alegre. Junto com seus amigos Lea, o Escavador Skoop, a Empilhadeira Lifty e alguns robôs engraçados, ele aprende a importância da amizade e de ajudar os outros.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031133000 -0300" stop="20261031150000 -0300" channel="TV CULTURA">
-    <title lang="pt">Matinê Cultura: Além da Lenda - O Filme</title>
-    <category lang="pt">Filme/Animação</category>
-    <desc lang="pt">Um livro sagrado reúne todas as lendas do folclore brasileiro, e é mantido em segredo e escondido na Montanha Coração do Brasil, que só é revelada uma vez por ano, justamente no dia 31 de outubro, dia do Saci.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031150000 -0300" stop="20261031162000 -0300" channel="TV CULTURA">
-    <title lang="pt">Matinê Cultura: Teca e Tuti - Uma Noite na Biblioteca</title>
-    <category lang="pt">Filme/Animação</category>
-    <desc lang="pt">A pequena traça Teca vive com sua família e seu fiel ácaro de estimação Tuti numa caixa de costura. Quando Teca aprende a ler, percebe que os livros não podem ser comidos, afinal eles guardam as histórias que ela...</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031162000 -0300" stop="20261031163000 -0300" channel="TV CULTURA">
-    <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e toda a turminha mais famosa dos quadrinhos te esperam aqui, na TV Cultura!</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031163000 -0300" stop="20261031170000 -0300" channel="TV CULTURA">
-    <title lang="pt">Quintal no Interior</title>
-    <category lang="pt">Infantil/Programa</category>
-    <desc lang="pt">Os personagens do quintal da cultura vão viver aventuras em cidades brasileiras.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -272973,54 +272174,6 @@
     <title lang="pt">Senadoc</title>
     <category lang="pt">Documentário/Diversos</category>
   </programme>
-  <programme start="20261031113000 -0300" stop="20261031122000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">A tensão cresce quando o batalhão responde a um chamado na penitenciária Cook County. Enquanto isso, Shay se sente otimista com o resultado de sua inseminação artificial.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031122000 -0300" stop="20261031131000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">Enquanto o Batalhão 51 está sendo investigado e com a ameaça de fechar, o tenente Severide é alvo de um incendiário e precisa lidar com as suspeitas de que não é o pai do filho de Reneé.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031131000 -0300" stop="20261031140000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">Casey enfrenta dificuldades com as novas responsabilidades. Enquanto isso, Severide teme o próximo ataque do incendiário e tem que confrontar Reneé sobre suas suspeitas em relação à paternidade.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031140000 -0300" stop="20261031145000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">Severide tenta provar a identidade do incendiário, enquanto Casey se acostuma com o novo estilo de vida.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031145000 -0300" stop="20261031154000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">Severide está ansioso para indiciar o incendiário. As suspeitas de que Clarke é um espião aumentam e Mounch ganha o apoio de Isabella na campanha para presidente do sindicato.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031154000 -0300" stop="20261031163000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago Fire</title>
-    <category lang="pt">Séries/Ação</category>
-    <desc lang="pt">A consultora McLeod pressiona o comandante Boden para que ele se aposente mais cedo. Enquanto isso, a vida social de Shay melhora e Arthur continua a pegar dinheiro do Molly&#x27;s.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20261031163000 -0300" stop="20261031172000 -0300" channel="UNIVERSAL CHANNEL">
     <title lang="pt">Chicago Fire</title>
     <category lang="pt">Séries/Ação</category>
@@ -282880,54 +282033,6 @@
     <desc lang="pt">Danny e Baez investigam um professor universitário envolvido em um questionável programa escolar. Enquanto isso, Danny descobre que está sendo investigado e seu pai não falou nada.</desc>
     <rating system="Brazil">
       <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031112000 -0300" stop="20261031120500 -0300" channel="VIVA">
-    <title lang="pt">O Cravo E A Rosa</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Joaquim e Serafim se aliam contra Petruchio. Kiki descobre que Petruchio está preso. Catarina decide alfabetizar Buscapé. Dinorá recebe flores. Batista surpreende Petruchio.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261031120500 -0300" stop="20261031125000 -0300" channel="VIVA">
-    <title lang="pt">Tropicaliente</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Amanda revela a Letícia que está apaixonada por François. Serena se recusa a falar com Ramiro e Açucena fica preocupada. Amanda pede conselhos a Letícia para conquistar François.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031125000 -0300" stop="20261031135400 -0300" channel="VIVA">
-    <title lang="pt">Belíssima</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Júlia diz que André a confundiu para que ela fosse seu álibi no caso de Valdete. Edmilson debocha da gagueira de Fladson. Todos aguardam Mônica na igreja, que recebe um envelope.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031135400 -0300" stop="20261031144600 -0300" channel="VIVA">
-    <title lang="pt">Vale Tudo</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Em Vale Tudo, César acusa Fátima. Fátima descobre as acusações de César, mas decide não revelar seu álibi para proteger Ivan. Helena procura Ivan. Olavo descobre aliança entre César e Marco Aur...</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261031144600 -0300" stop="20261031153100 -0300" channel="VIVA">
-    <title lang="pt">O Profeta</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Ruth e Clóvis fecham um acordo. Marcos ajuda Camilo a encontrar a luz e ele faz um último pedido ao Profeta. Arlindo confessa o que fez contra Moreira.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261031153100 -0300" stop="20261031162100 -0300" channel="VIVA">
-    <title lang="pt">Rock Story</title>
-    <category lang="pt">Variedades/Novela</category>
-    <desc lang="pt">Guilherme afirma, em público, que Lázaro roubou a música &quot;Sonha Comigo&quot;. Gordo tenta descobrir quem o caluniou para Eva. Lorena e Alex se preparam para um assalto.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261031162100 -0300" stop="20261031172800 -0300" channel="VIVA">
