@@ -28,6 +28,8 @@ UA = "Mozilla/5.0 (APSKY Data Builder)"
 TZ = "-0300"
 
 VIVO_CALL_LETTER_ALIASES = {
+    "GLOBO SP": "HDGLO",
+    "GLOBO": "HDGLO",
     "PREMIERE CLUBES": "HDPR1",
     "ESPN 1": "ESPN",
     "SONY CHANNEL": "HDSNY",
