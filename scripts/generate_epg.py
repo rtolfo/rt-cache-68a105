@@ -258,6 +258,10 @@ def build_vivo_items(channels, fallback_items, vivo_channels):
         call_letter = channel.get("vivo_call_letter") or VIVO_CALL_LETTER_ALIASES.get(name)
         if call_letter:
             vivo = by_call.get(call_letter.upper())
+        if not vivo and name in ("GLOBO SP", "GLOBO"):
+            regional = by_title.get("globo", []) + by_title.get("globosp", [])
+            if regional:
+                vivo = regional[0]
         else:
             candidates = by_title.get(normalize(name), [])
             if len(candidates) == 1:
