@@ -42703,14 +42703,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110004600 -0300" stop="20261110005800 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Pardo é escalado para um filme sobre um urso pardo! Mas logo percebe que a representação do urso pardo na produção não é o que ele esperava.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20261110005800 -0300" stop="20261110010900 -0300" channel="CARTOON NETWORK">
     <title lang="pt">O Incrível Mundo de Gumball</title>
     <category lang="pt">Infantil/Desenho</category>
@@ -134969,10 +134961,6 @@
     <title lang="pt">Tropa GE TV - ao vivo</title>
     <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
   </programme>
-  <programme start="20261109231500 -0300" stop="20261110005500 -0300" channel="GLOBO">
-    <title lang="pt">Tela Quente: Não! Não Olhe!</title>
-    <category lang="pt">Filme/Terror</category>
-  </programme>
   <programme start="20261110005500 -0300" stop="20261110014500 -0300" channel="GLOBO">
     <title lang="pt">Jornal da Globo</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -138688,9 +138676,23 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261109231500 -0300" stop="20261110005500 -0300" channel="GLOBO SP">
-    <title lang="pt">Tela Quente: Não! Não Olhe!</title>
-    <category lang="pt">Filme/Terror</category>
+  <programme start="20261109223500 -0300" stop="20261110000500 -0300" channel="GLOBO SP">
+    <title lang="pt">Criança Esperança</title>
+    <desc lang="pt">O Show da Esperança foi pensado como uma noite para reunir diferentes gerações em torno da música, da emoção e da fantasia, com canções populares ligadas à infância em novos arranjos e participa...</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261109223500 -0300" stop="20261110000500 -0300" channel="GLOBO SP">
+    <title lang="pt">Criança Esperança</title>
+    <desc lang="pt">O Show da Esperança foi pensado como uma noite para reunir diferentes gerações em torno da música, da emoção e da fantasia, com canções populares ligadas à infância em novos arranjos e participa...</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261110000500 -0300" stop="20261110005500 -0300" channel="GLOBO SP">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.</desc>
   </programme>
   <programme start="20261110005500 -0300" stop="20261110014500 -0300" channel="GLOBO SP">
     <title lang="pt">Jornal da Globo</title>
@@ -232580,14 +232582,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110000700 -0300" stop="20261110005600 -0300" channel="TBS">
-    <title lang="pt">Iludida</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20261110005600 -0300" stop="20261110014500 -0300" channel="TBS">
     <title lang="pt">Iludida</title>
     <category lang="pt">Séries/Drama</category>
@@ -251660,10 +251654,6 @@
     <rating system="Brazil">
       <value>14</value>
     </rating>
-  </programme>
-  <programme start="20261110002900 -0300" stop="20261110005200 -0300" channel="TOONCAST">
-    <title lang="pt">Scooby-Doo! Cadê Você?</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20261110005200 -0300" stop="20261110011500 -0300" channel="TOONCAST">
     <title lang="pt">Scooby-Doo! Cadê Você?</title>
