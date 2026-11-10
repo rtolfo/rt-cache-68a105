@@ -26220,11 +26220,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261109233500 -0300" stop="20261110000000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Boa Vontade Notícias</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Orientações de Utilidade Pública e os principais destaques do dia para ficar bem informado</desc>
-  </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="BOA VONTADE">
     <title lang="pt">Vamos Falar Com Deus</title>
     <category lang="pt">Variedades/Religião</category>
@@ -35482,8 +35477,11 @@
     </rating>
   </programme>
   <programme start="20261109223000 -0300" stop="20261110000000 -0300" channel="CANAL DO BOI">
-    <title lang="pt">Trilha Indomável</title>
-    <category lang="pt">Filme/Western</category>
+    <title lang="pt">Fugitivos do Barulho</title>
+    <desc lang="pt">Um cowboy e um advogado indígena são injustamente acusados de roubar um bingo. Para provar sua inocência, a singular dupla tem de enfrentar um segurança, um policial desonesto e descobrir a identidade do verdadeiro culpado.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110025000 -0300" channel="CANAL DO BOI">
     <title lang="pt">O Fantasma Voador</title>
@@ -42701,38 +42699,6 @@
   <programme start="20261111233000 -0300" stop="20261112000000 -0300" channel="CANÇÃO NOVA">
     <title lang="pt">Sorrindo pra Vida</title>
     <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261109234800 -0300" stop="20261109235900 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Clarêncio, o Otimista</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Depois de sem querer trocar a carta preferida de beisebol de Chadão, Clarêncio precisa recuperá-la! Disposto a se tornar um expert, ele se transforma num vendedor habilidoso e parte para encarar a negociação suprema.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261109235900 -0300" stop="20261110001000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para conseguir dormir um pouco, os Ursos ajudam um pássaro irritante a arrumar uma namorada.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110001000 -0300" stop="20261110002300 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para conseguir dormir um pouco, os Ursos ajudam um pássaro irritante a arrumar uma namorada.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110002300 -0300" stop="20261110003400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Ursos Sem Curso</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Para conseguir dormir um pouco, os Ursos ajudam um pássaro irritante a arrumar uma namorada.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -66353,11 +66319,6 @@
     <title lang="pt">WW</title>
     <desc lang="pt">O time de analistas CNN debatem os temas mais relevantes e complexos que ocupam as manchetes do Brasil e do mundo de maneira objetiva e aprofundada, de compreender a realidade, a partir de múltiplos pontos de vista.</desc>
   </programme>
-  <programme start="20261109220000 -0300" stop="20261110000000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">The Source with Kaitlan Collins</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Kaitlan Collins vai direto à fonte para obter as melhores reportagens sobre as maiores histórias do dia.</desc>
-  </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="CNN INTERNACIONAL">
     <title lang="pt">Laura Coates Live</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -70323,8 +70284,12 @@
     <desc lang="pt">FMS Fight Night 12 integra o calendário do Fight Music Show e reúne atletas profissionais de MMA e boxe em confrontos que mesclam competitividade, desenvolvimento de novos talentos e entretenimento.</desc>
   </programme>
   <programme start="20261109220000 -0300" stop="20261110000000 -0300" channel="COMBATE">
-    <title lang="pt">Boxe - Baumgardner x Turhan</title>
-    <category lang="pt">Esporte/Luta</category>
+    <title lang="pt">VT - Boxe</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20261109220000 -0300" stop="20261110000000 -0300" channel="COMBATE">
+    <title lang="pt">VT - Boxe</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110020000 -0300" channel="COMBATE">
     <title lang="pt">Bare Knuckle 96</title>
@@ -119829,11 +119794,6 @@
     <category lang="pt">Jornalismo/Esportivo</category>
     <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
   </programme>
-  <programme start="20261109230000 -0300" stop="20261110000000 -0300" channel="ESPN 1">
-    <title lang="pt">Resenha da Rodada - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">Resenha com jogadores e ex-jogadores de futebol em um ambiente descontraído e cheio de histórias imperdíveis.</desc>
-  </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="ESPN 1">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -137111,11 +137071,6 @@
     <title lang="pt">Liderança S/A GloboNews</title>
     <desc lang="pt">Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa.</desc>
   </programme>
-  <programme start="20261109233000 -0300" stop="20261110000000 -0300" channel="GLOBO NEWS">
-    <title lang="pt">GloboNews Especial</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Reportagens especiais com linguagem documental sobre algum tema associado ao factual ou de relevância para a sociedade.</desc>
-  </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="GLOBO NEWS">
     <title lang="pt">Jornal GloboNews - Edição Da Meia-Noite - Ao Vivo</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -145259,14 +145214,18 @@
     </rating>
   </programme>
   <programme start="20261109233800 -0300" stop="20261110000100 -0300" channel="GLOOB">
-    <title lang="pt">Programação do Canal</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">A repórter Nadia Chamack se transforma na Rainha Repórter e tenta fazer Ladybug e Cat Noir admitirem, ao vivo, que eles estão apaixonados.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
-  <programme start="20261110000100 -0300" stop="20261110002300 -0300" channel="GLOOB">
-    <title lang="pt">Programação do Canal</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+  <programme start="20261109233800 -0300" stop="20261110000100 -0300" channel="GLOOB">
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">A repórter Nadia Chamack se transforma na Rainha Repórter e tenta fazer Ladybug e Cat Noir admitirem, ao vivo, que eles estão apaixonados.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261110002300 -0300" stop="20261110004600 -0300" channel="GLOOB">
     <title lang="pt">Programação do Canal</title>
@@ -214319,19 +214278,6 @@
     <category lang="pt">Jornalismo/Informativo</category>
     <desc lang="pt">Notícias da Igreja no Brasil e no Mundo. A atualidade, o dinamismo e a valorização dos acontecimentos primordiais da Igreja Católica em todo o mundo. Meio importantíssimo de promoção e divulgação dos fa...</desc>
   </programme>
-  <programme start="20261109224500 -0300" stop="20261110000000 -0300" channel="REDETV!">
-    <title lang="pt">Sensacional</title>
-    <category lang="pt">Variedades/Diversos</category>
-    <desc lang="pt">Com seu jeito carismático, Daniela Albuquerque te leva em uma jornada para conhecer curiosidades do mundo e ficar por dentro da vida das personalidades mais influentes do Brasil. Tudo isso de forma leve e espontânea.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110000000 -0300" stop="20261110003000 -0300" channel="REDETV!">
-    <title lang="pt">Leitura Dinâmica</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Com originalidade e muita informação, o LEITURA DINÂMICA apresenta o que foi destaque no dia e o que será manchete amanhã. O jornal aborda ainda o universo da moda e cultura.</desc>
-  </programme>
   <programme start="20261110003000 -0300" stop="20261110030000 -0300" channel="REDETV!">
     <title lang="pt">Madrugada Animada</title>
     <category lang="pt">Variedades/Humor</category>
@@ -218060,14 +218006,6 @@
     <desc lang="pt">Atração que explora dois ingredientes essenciais para uma viagem inesquecível excelente comida combinada a uma hospedagem de qualidade</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261109230000 -0300" stop="20261110000000 -0300" channel="SBT">
-    <title lang="pt">Galvão F.C.</title>
-    <category lang="pt">Variedades/Diversos</category>
-    <desc lang="pt">A atração, focada no público esportivo, mistura debates, análises, convidados especiais e premiações, indo ao ar às noites de segunda-feira.</desc>
-    <rating system="Brazil">
-      <value>12</value>
     </rating>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="SBT">
@@ -232661,14 +232599,6 @@
     <desc lang="pt">Quando a vida amorosa e a carreira profissional parecem estar fora de controle, Noelle passa por uma curiosa experiência na noite de Natal capaz de transformar algumas de suas prioridades.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261109231800 -0300" stop="20261110000700 -0300" channel="TBS">
-    <title lang="pt">Iludida</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">A trama acompanha a médica Asya, que tem sua vida perfeita virada de cabeça para baixo após descobrir a traição do marido, Volkan.</desc>
-    <rating system="Brazil">
-      <value>14</value>
     </rating>
   </programme>
   <programme start="20261110000700 -0300" stop="20261110005600 -0300" channel="TBS">
@@ -251751,22 +251681,6 @@
     <rating system="Brazil">
       <value>14</value>
     </rating>
-  </programme>
-  <programme start="20261109234400 -0300" stop="20261109235600 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261109235600 -0300" stop="20261110000600 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261110000600 -0300" stop="20261110001600 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261110001600 -0300" stop="20261110002900 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20261110002900 -0300" stop="20261110005200 -0300" channel="TOONCAST">
     <title lang="pt">Scooby-Doo! Cadê Você?</title>
@@ -271555,14 +271469,6 @@
     <title lang="pt">Sem Censura</title>
     <category lang="pt">Variedades/Debate</category>
     <desc lang="pt">Cissa Guimarães recebe em sua bancada convidados para conversar sobre os mais variados assuntos: serviço, cultura, saúde, educação, economia e tudo que ajude na representatividade e diversidade do país.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261109233000 -0300" stop="20261110000000 -0300" channel="TV CULTURA">
-    <title lang="pt">Metrópolis</title>
-    <category lang="pt">Variedades/Talk Show</category>
-    <desc lang="pt">O Metrópolis é dedicado ao mundo da arte e da cultura, abordando música, cinema, teatro, artes plásticas, moda, games e comportamento.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -292334,14 +292240,6 @@
     <desc lang="pt">Cobertura da atividade legislativa das comissões permanentes, temporárias e especiais do Senado Federal.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261109231000 -0300" stop="20261110000000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Chicago P.D.</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Torres tenta interromper o ciclo de violência depois que um adolescente é morto em um ato de vingança.</desc>
-    <rating system="Brazil">
-      <value>16</value>
     </rating>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110005000 -0300" channel="UNIVERSAL CHANNEL">
