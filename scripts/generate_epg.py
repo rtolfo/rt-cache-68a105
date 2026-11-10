@@ -4,6 +4,7 @@ import bisect
 import difflib
 import html
 import json
+import os
 import re
 import sys
 import time
@@ -11,16 +12,35 @@ import unicodedata
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 CHANNELS_FILE = ROOT / "config" / "channels.json"
 OUT_FILE = ROOT / "data" / "payload.xml"
 CLARO_MEUGUIA_OUT_FILE = ROOT / "data" / "payload-claro-meuguia.xml"
+VIVO_OUT_FILE = ROOT / "data" / "payload-vivo.xml"
+VIVO_SOURCE_FILE = Path(os.environ.get("VIVO_SOURCE_FILE", "/tmp/vivo-source.json"))
 
 MEUGUIA_BASE = "https://meuguia.tv/programacao/canal/"
 CLARO_XML = "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml"
 UA = "Mozilla/5.0 (APSKY Data Builder)"
 TZ = "-0300"
+
+VIVO_CALL_LETTER_ALIASES = {
+    "PREMIERE CLUBES": "HDPR1",
+    "ESPN 1": "ESPN",
+    "SONY CHANNEL": "HDSNY",
+    "WARNER CHANNEL": "HDWAR",
+    "HISTORY CHANNEL": "HDHIS",
+    "HISTORY CHANNEL 2": "HDH2",
+    "UNIVERSAL CHANNEL": "HDUNV",
+    "TV CULTURA": "HDCLT2",
+    "TV GAZETA SP": "HDGAZSP",
+    "PRIME BOX BRASIL": "HDPBB",
+    "MUSIC BOX BRASIL": "HDMBB",
+    "SABOR E ARTE": "HDSEA",
+}
 
 
 def fetch_text(url, timeout=30):
@@ -179,6 +199,98 @@ def clone_meuguia_items(channel, page_cache):
     return items
 
 
+def vivo_program_image(url):
+    if not url:
+        return ""
+    return (
+        "https://spotlight-br.cdn.telefonica.com/customer/v1/source?image="
+        + quote(url, safe="")
+        + "&width=455&height=256&resize=CROP&format=WEBP"
+    )
+
+
+def load_vivo_channels():
+    if not VIVO_SOURCE_FILE.exists():
+        print(f"aviso: fonte Vivo ausente: {VIVO_SOURCE_FILE}", file=sys.stderr)
+        return []
+    try:
+        data = json.loads(VIVO_SOURCE_FILE.read_text(encoding="utf-8"))
+        return data.get("channels", [])
+    except Exception as exc:
+        print(f"aviso: nao consegui ler fonte Vivo: {exc}", file=sys.stderr)
+        return []
+
+
+def vivo_channel_title(channel):
+    contents = channel.get("contents") or []
+    if contents:
+        return (contents[0].get("liveChannel") or {}).get("title") or ""
+    return channel.get("title") or ""
+
+
+def vivo_datetime(timestamp):
+    if not timestamp:
+        return None
+    return dt.datetime.fromtimestamp(
+        int(timestamp), tz=dt.timezone.utc
+    ).astimezone(ZoneInfo("America/Sao_Paulo")).replace(tzinfo=None)
+
+
+def build_vivo_items(channels, fallback_items, vivo_channels):
+    by_call = {str(item.get("callLetter", "")).upper(): item for item in vivo_channels}
+    by_title = {}
+    for item in vivo_channels:
+        key = normalize(vivo_channel_title(item))
+        if key:
+            by_title.setdefault(key, []).append(item)
+
+    fallback_by_channel = {}
+    for item in fallback_items:
+        fallback_by_channel.setdefault(item["channel"], []).append(item)
+
+    output = []
+    matched = 0
+    for channel in channels:
+        name = channel["name"]
+        vivo = None
+        call_letter = channel.get("vivo_call_letter") or VIVO_CALL_LETTER_ALIASES.get(name)
+        if call_letter:
+            vivo = by_call.get(call_letter.upper())
+        else:
+            candidates = by_title.get(normalize(name), [])
+            if len(candidates) == 1:
+                vivo = candidates[0]
+
+        converted = []
+        if vivo:
+            for program in vivo.get("contents") or []:
+                emission = program.get("emissionDate") or {}
+                start = vivo_datetime(emission.get("start"))
+                stop = vivo_datetime(emission.get("end"))
+                title = clean_text(program.get("title") or "")
+                if not title or not start or not stop or stop <= start:
+                    continue
+                rating = (program.get("ageRating") or {}).get("code") or ""
+                image = (program.get("image") or {}).get("url") or ""
+                converted.append({
+                    "channel": name,
+                    "start": start,
+                    "stop": stop,
+                    "title": title,
+                    "category": clean_text(", ".join(program.get("genres") or [])),
+                    "desc": clean_text(program.get("description") or program.get("shortDescription") or ""),
+                    "rating": clean_text(str(rating)),
+                    "icon": vivo_program_image(image),
+                })
+        if converted:
+            matched += 1
+            output.extend(converted)
+        else:
+            output.extend(fallback_by_channel.get(name, []))
+    print(f"Vivo: {matched}/{len(channels)} canais com correspondencia exata")
+    return output
+
+
 def title_matches(left, right):
     left_key = normalize(left)
     right_key = normalize(right)
@@ -328,6 +440,8 @@ def write_xml(channels, items, out_file=OUT_FILE):
             lines.append('    <rating system="Brazil">')
             lines.append(f'      <value>{xml_escape(item["rating"])}</value>')
             lines.append("    </rating>")
+        if item.get("icon"):
+            lines.append(f'    <icon src="{xml_escape(item["icon"])}"/>')
         lines.append("  </programme>")
     lines.append("</tv>")
     out_file.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -348,6 +462,13 @@ def main():
     with_desc = sum(1 for item in claro_meuguia_items if item.get("desc"))
     print(f"ok claro+meuguia: {len(channels)} canais, {len(claro_meuguia_items)} programas, {with_desc} com sinopse")
     print(CLARO_MEUGUIA_OUT_FILE)
+
+    vivo_channels = load_vivo_channels()
+    vivo_items = build_vivo_items(channels, all_items, vivo_channels)
+    write_xml(channels, vivo_items, VIVO_OUT_FILE)
+    with_images = sum(1 for item in vivo_items if item.get("icon"))
+    print(f"ok Vivo: {len(channels)} canais, {len(vivo_items)} programas, {with_images} com imagem")
+    print(VIVO_OUT_FILE)
 
 
 if __name__ == "__main__":
