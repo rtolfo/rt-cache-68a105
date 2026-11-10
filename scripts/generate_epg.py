@@ -245,6 +245,9 @@ def build_vivo_items(channels, fallback_items, vivo_channels):
         key = normalize(vivo_channel_title(item))
         if key:
             by_title.setdefault(key, []).append(item)
+        if key.startswith("globo") and not any(blocked in key for blocked in ("globonews", "globoplay", "globoportugal")):
+            image_count = sum(1 for program in item.get("contents") or [] if (program.get("image") or {}).get("url"))
+            print(f'Vivo Globo candidata: {item.get("callLetter", "")} | {vivo_channel_title(item)} | {image_count} imagens')
 
     fallback_by_channel = {}
     for item in fallback_items:
