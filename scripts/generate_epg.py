@@ -144,6 +144,7 @@ def load_claro_programs():
 
 def clone_claro_channel(channel, claro_programs):
     source_key = normalize(channel.get("claro_id") or channel.get("name"))
+    shift = dt.timedelta(minutes=int(channel.get("time_shift_minutes", 0)))
     items = []
     for program in claro_programs:
         if program["channel_key"] != source_key:
@@ -152,8 +153,8 @@ def clone_claro_channel(channel, claro_programs):
             continue
         items.append({
             "channel": channel["name"],
-            "start": program["start"],
-            "stop": program["stop"],
+            "start": program["start"] + shift,
+            "stop": program["stop"] + shift,
             "title": program["title"],
             "category": "",
             "desc": program["desc"],

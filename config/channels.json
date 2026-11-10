@@ -220,10 +220,8 @@
     },
     {
       "name": "SPORTV 4",
-      "meuguia_id": "SPO",
-      "meuguia_name": "SporTV",
-      "match_score": 0.923,
-      "match_method": "auto",
+      "match_score": 0.0,
+      "match_method": "sem-fonte-exata",
       "group": "Mais vistos"
     },
     {
@@ -284,11 +282,9 @@
     },
     {
       "name": "PREMIERE 8",
-      "match_score": 1.0,
-      "match_method": "manual-claro",
-      "group": "Mais vistos",
-      "claro_id": "PREMIERE CLUBES HD",
-      "claro_name": "PREMIERE CLUBES HD"
+      "match_score": 0.0,
+      "match_method": "sem-fonte-exata",
+      "group": "Mais vistos"
     },
     {
       "name": "COMBATE",
@@ -889,6 +885,7 @@
       "name": "PREMIERE CLUBES",
       "claro_id": "PREMIERE CLUBES HD",
       "claro_name": "PREMIERE CLUBES HD",
+      "time_shift_minutes": -30,
       "match_score": 1.0,
       "match_method": "manual-claro-strong",
       "group": "Mais vistos"
