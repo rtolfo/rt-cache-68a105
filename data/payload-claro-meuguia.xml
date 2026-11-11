@@ -9403,8 +9403,11 @@
     </rating>
   </programme>
   <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="ARTE 1">
-    <title lang="pt">Insight</title>
-    <category lang="pt">Séries/Cultural</category>
+    <title lang="pt">Insight: Patricia Anastassiadis</title>
+    <desc lang="pt">Seguindo suas raízes gregas, Patricia Anastassiadis desenvolve projetos que combinam o clássico e o moderno, e é conhecida por obras que unem identidade e propósito.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111004500 -0300" channel="ARTE 1">
     <title lang="pt">Arte 1 Documenta: Andy Warhol - Um Sonho Americano</title>
@@ -24200,22 +24203,6 @@
   <programme start="20261114230000 -0300" stop="20261115010000 -0300" channel="BM&amp;C">
     <title lang="pt">BM&amp;C Doc</title>
     <desc lang="pt">Faixa Documentária do Canal BM&amp;C News.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110220500 -0300" stop="20261110230000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Cortando Estradas com Jesus</title>
-    <category lang="pt">Variedades/Musical</category>
-    <desc lang="pt">Com alto astral traz música legionária, conteúdo dedicado aos caminhoneiros as famílias, mostra as atividades das Igrejas Familiares da Religião de Divina e traz a palavra ecumênica do Irmão Paiva Netto.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110231000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -40079,30 +40066,6 @@
     <desc lang="pt">Momento de louvor, oração e animação com canções ministradas por músicos católicos. Os shows são televisionados e transmitidos diretamente da Comunidade Canção Nova, em Cachoeira Paulista.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110224800 -0300" stop="20261110230000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas Um Show</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Os Discmasters precisam acabar com a Guerra dos Formatos de uma vez por todas.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110231100 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Steven Universo</title>
-    <category lang="pt">Séries/Animação</category>
-    <desc lang="pt">Lars finalmente deixa Steven entrar.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261110231100 -0300" stop="20261110232400 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Steven Universo</title>
-    <category lang="pt">Séries/Animação</category>
-    <desc lang="pt">Lars finalmente deixa Steven entrar.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261110232400 -0300" stop="20261110233500 -0300" channel="CARTOON NETWORK">
@@ -63794,11 +63757,6 @@
     <title lang="pt">CNN Money News - ao vivo</title>
     <desc lang="pt">Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">The Source with Kaitlan Collins</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Kaitlan Collins vai direto à fonte para obter as melhores reportagens sobre as maiores histórias do dia.</desc>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="CNN INTERNACIONAL">
     <title lang="pt">CNN NewsNight</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -67555,11 +67513,6 @@
   <programme start="20261110181500 -0300" stop="20261110201500 -0300" channel="COMBATE">
     <title lang="pt">VT - Boxe: Baumgardner x Turhan</title>
     <desc lang="pt">Boxe - Baumgardner X Turhan</desc>
-  </programme>
-  <programme start="20261110204000 -0300" stop="20261110230500 -0300" channel="COMBATE">
-    <title lang="pt">Boxing Pro Combat 3</title>
-    <category lang="pt">Esporte/Luta</category>
-    <desc lang="pt">Um evento de boxe que reúne atletas de destaque nacional e internacional. Essa edição traz disputas de títulos importantes.</desc>
   </programme>
   <programme start="20261110230500 -0300" stop="20261111010000 -0300" channel="COMBATE">
     <title lang="pt">Boxe - Baumgardner x Turhan</title>
@@ -112544,11 +112497,6 @@
     <category lang="pt">Jornalismo/Esportivo</category>
     <desc lang="pt">O telejornal esportivo mais assistido no mundo! Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor.</desc>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="ESPN 1">
-    <title lang="pt">Bola da Vez: Jackson Follmann e Marco Aurélio Souza</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-    <desc lang="pt">O principal programa de entrevistas dos canais ESPN recebe grandes nomes do esporte nacional e internacional, que respondem às perguntas da bancada de entrevistadores.</desc>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="ESPN 1">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -123505,8 +123453,11 @@
     </rating>
   </programme>
   <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="FUTURA">
-    <title lang="pt">Àgbára Dúdú 2ª Temporada</title>
-    <category lang="pt">Séries/Diversos</category>
+    <title lang="pt">Àgbára Dúdú</title>
+    <desc lang="pt">Ashanti: Tambor, Coroa e Encantamento - Na Festa do Divino, Mãe Kabeca conduz cantos e toques. Fé, festa e memória revelam um dos terreiros centrais do Maranhão.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="FUTURA">
     <title lang="pt">Programação do Canal</title>
@@ -204426,14 +204377,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110231500 -0300" channel="SBT">
-    <title lang="pt">Programa do Ratinho</title>
-    <category lang="pt">Variedades/Diversos</category>
-    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261110231500 -0300" stop="20261111001500 -0300" channel="SBT">
     <title lang="pt">SBT Repórter</title>
     <category lang="pt">Jornalismo/Informativo</category>
@@ -217473,14 +217416,6 @@
     <desc lang="pt">Jornalistas rivais competindo pela mesma promoção ficam presos no Alasca depois que seu avião é forçado a fazer um pouso de emergência.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110223000 -0300" stop="20261110231800 -0300" channel="TBS">
-    <title lang="pt">Será Isso Amor?</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Serkan e Eda explicam às suas famílias como é seu relacionamento, mas Ayfer e Aydan têm algumas condições a respeito.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261110231800 -0300" stop="20261111000700 -0300" channel="TBS">
@@ -235401,14 +235336,6 @@
     <rating system="Brazil">
       <value>14</value>
     </rating>
-  </programme>
-  <programme start="20261110225300 -0300" stop="20261110230600 -0300" channel="TOONCAST">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20261110230600 -0300" stop="20261110231700 -0300" channel="TOONCAST">
-    <title lang="pt">As Trapalhadas de Flapjack</title>
-    <category lang="pt">Infantil/Desenho</category>
   </programme>
   <programme start="20261110231700 -0300" stop="20261110232900 -0300" channel="TOONCAST">
     <title lang="pt">As Trapalhadas de Flapjack</title>
@@ -274495,14 +274422,6 @@
     <desc lang="pt">Cobertura da atividade legislativa das comissões permanentes, temporárias e especiais do Senado Federal.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110222000 -0300" stop="20261110231000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Law &amp; Order</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Após o corpo de uma mulher ser encontrado dentro de uma mala, Price e Maroun discordam sobre as acusações que devem ser feitas contra o principal suspeito.</desc>
-    <rating system="Brazil">
-      <value>16</value>
     </rating>
   </programme>
   <programme start="20261110231000 -0300" stop="20261111000000 -0300" channel="UNIVERSAL CHANNEL">

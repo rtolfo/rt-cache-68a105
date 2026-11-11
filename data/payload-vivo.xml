@@ -477,15 +477,6 @@
   <channel id="SPORTYNET 3">
     <display-name lang="pt">SPORTYNET 3</display-name>
   </channel>
-  <programme start="20261110220000 -0300" stop="20261110225000 -0300" channel="A&amp;E">
-    <title lang="pt">El Chapo</title>
-    <category lang="pt">Ação, Drama, Policial</category>
-    <desc lang="pt">Don Sol continua escalando posições em sua carreira política; ele fica encarregado de interrogar Joaquín El Chapo Guzmán; os dois tentam fazer um acordo, negociando informações valiosas.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577124_91e5097f7599829077f5e18cc92cfd3f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110225000 -0300" stop="20261110234000 -0300" channel="A&amp;E">
     <title lang="pt">Palavra de Assassino : Van Brett Watkins - Assassino de Aluguel</title>
     <category lang="pt">Policial</category>
@@ -557,24 +548,6 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F81%2F23810274_039cd66036f27883a470881b397127c8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110222300 -0300" stop="20261110224700 -0300" channel="ADULT SWIM">
-    <title lang="pt">Rick and Morty : Pulverizadores de Mente do Morty</title>
-    <category lang="pt">Ação, Comédia, Aventura</category>
-    <desc lang="pt">Morty pede a Rick para apagar uma memória ruim de sua mente. Com isso, Rick o leva para a sala dos &quot;Pulverizadores de Mente&quot;, uma coleção de memórias que Morty não sabe que existe.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577122_1d02311aab8b4586abc9f9b94c42f9cc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224700 -0300" stop="20261110230900 -0300" channel="ADULT SWIM">
-    <title lang="pt">Genndy Tartakovsky&#x27;s Primal : O Eco da Eternidade</title>
-    <category lang="pt">Ação, Aventura</category>
-    <desc lang="pt">Spear se envolve em uma batalha épica para apaziguar a sede de sangue do Povo do Rio Negro.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F52%2F28520369_8037d22749bb9cf5b8644857df7ac464.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230900 -0300" stop="20261110233200 -0300" channel="ADULT SWIM">
     <title lang="pt">Harley Quinn : Finding Mr. Right</title>
@@ -719,6 +692,24 @@
       <value>10</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577085_9295399ced809070fa30c8c4489108ac.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111044600 -0300" stop="20261111051100 -0300" channel="ADULT SWIM">
+    <title lang="pt">One Piece : Batalha nas Ruínas! Um Nervoso Zoro vs. Eric!</title>
+    <category lang="pt">Aventura, Anime, Ação</category>
+    <desc lang="pt">A tripulação encontra somente ruínas na ilha; o dragão se lembra onde realmente ficava sua casa; Zoro lida com Eric enquanto os outros acompanham o dragão.</desc>
+    <rating system="Brazil">
+      <value>10</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577321_9175cdc5584e46fb6678c5b3e4e317d9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051100 -0300" stop="20261111053500 -0300" channel="ADULT SWIM">
+    <title lang="pt">Dragon Ball Z : Ghosts From Tomorrow</title>
+    <category lang="pt">Anime, Ação, Infantil</category>
+    <desc lang="pt">Trunks é assombrado por visões apocalípticas do futuro e está determinado a derrotar Cell de uma vez por todas.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577377_8956e54c75711810d72471870a0fe997.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="AGROMAIS">
     <title lang="pt">Sabor &amp; Arte</title>
@@ -1518,15 +1509,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F40%2F28406972_69dd6da0c8b96c58b557366aeb0ebeda.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220700 -0300" stop="20261110225300 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Extinto ou Não? : Pica-pau-bico-de-marfim</title>
-    <category lang="pt">Pets</category>
-    <desc lang="pt">Forrest está determinado a descobrir se o pica-pau-bico-de-marfim ainda existe. Os pântanos infestados de jacarés e cobras venenosas da Louisiana são desafiadores, mas ele está preparado para tudo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577260_a5787b09e44ee35223a79ede2a928ec4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110225300 -0300" stop="20261110234100 -0300" channel="ANIMAL PLANET">
     <title lang="pt">O Vínculo : A Cabra Viajante</title>
     <category lang="pt">Outros</category>
@@ -1599,14 +1581,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570954_5f8e02efb37f391f884d1c8e7510a209.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="ARTE 1">
-    <title lang="pt">Insight : Patrícia Anastassiadis</title>
-    <category lang="pt">Moda</category>
-    <desc lang="pt">Patrícia Anastassiadis desenvolve projetos onde o clássico e o moderno se encontram em harmonia, consolidando-se no mercado com obras que exibem identidade e propósito.</desc>
+  <programme start="20261111050300 -0300" stop="20261111060000 -0300" channel="ANIMAL PLANET">
+    <title lang="pt">Patrulheiros da Natureza : Foras da Lei</title>
+    <category lang="pt">Pets, Reality Show</category>
+    <desc lang="pt">Matt Kiel e Michael Serbanic investigam um bizarro acampamento na beira de um lago. Um dia na praia acaba mal quando os patrulheiros flagram pescadores ilegais. Matt Maloney combate invasores na cidade fronteiriça de Del Rio.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>10</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F59%2F28592577_31d6ed9a49e2befe158db5a0170377fb.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570947_5c884cdc69837b591a5ea6e28a58013a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111004500 -0300" channel="ARTE 1">
     <title lang="pt">Andy Warhol - Um Sonho Americano</title>
@@ -1652,15 +1634,6 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F59%2F28592546_190598556d523adb3701a01c25693217.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110221000 -0300" stop="20261110230000 -0300" channel="AXN">
-    <title lang="pt">Hudson &amp; Rex : A Man of Consequence</title>
-    <category lang="pt">Drama, Policial</category>
-    <desc lang="pt">Charlie e Rex descobrem que um criminoso procurado vive em St. John&#x27;s sob uma identidade falsa há 20 anos, mas ele acaba entrando na mira quando seu passado começa a vir à tona.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577328_c627a712506544c6960a82924a3ffbfe.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110235500 -0300" channel="AXN">
     <title lang="pt">Estranho Amor</title>
@@ -1724,6 +1697,15 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F77%2F20775845_AA9746870EF34283.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051000 -0300" stop="20261111060000 -0300" channel="AXN">
+    <title lang="pt">NCIS : Head of the Snake</title>
+    <category lang="pt">Ação, Drama, Aventura</category>
+    <desc lang="pt">A cruzada de Gibbs e Fornell para encontrar o chefe do narcotráfico responsável pela overdose da filha de Fornell atinge seu clímax; Gibbs e Vance finalmente informam a equipe sobre um caso que tem implicações perigosas.</desc>
+    <rating system="Brazil">
+      <value>16</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F77%2F20779246_E55E227788216401.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110223000 -0300" stop="20261111003000 -0300" channel="BAND">
     <title lang="pt">MasterChef Profissionais</title>
@@ -1842,14 +1824,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F28%2F21285741_83C48510A41449A6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="BAND SPORTS">
-    <title lang="pt">Papo de Paddock</title>
-    <category lang="pt">Esporte</category>
-    <desc lang="pt">O jornalista Ale Speitzzer traz uma visão única e privilegiada do mundo do automobilismo, combinando análise aprofundada e curiosidades fascinantes por meio de entrevistas exclusivas com pilotos, especialistas e personalidades de diversas categorias.</desc>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal Terraviva</title>
+    <category lang="pt">Reportagem</category>
+    <desc lang="pt">Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
     <rating system="Brazil">
       <value>SC</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F27%2F21279127_401E342B2118EBE2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F13%2F04%2F13040945_A8DF65A287240019.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110234500 -0300" channel="BAND SPORTS">
     <title lang="pt">Fórmula 4 Brasil - Etapa de Interlagos - Corrida 3 : Etapa de Interlagos - Corrida 3</title>
@@ -1932,15 +1914,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F37%2F28373331_836b59335faf3c1ecb6a9195364cba42.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220300 -0300" stop="20261110230500 -0300" channel="BIS">
-    <title lang="pt">Hangout Music Festival 2016 : Highlights</title>
-    <category lang="pt">Musica</category>
-    <desc lang="pt">Confira os melhores momentos do Hangout Festival de 2016.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F78%2F18786351_C4CAB516918D06F9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230500 -0300" stop="20261111000700 -0300" channel="BIS">
     <title lang="pt">Hangout Music Festival 2016 : Highlights</title>
     <category lang="pt">Musica</category>
@@ -2004,15 +1977,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F00%2F23001887_fe472fc11f31471eca86ac4e0e5102d9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="BM&amp;C">
-    <title lang="pt">Manhatan Connection</title>
-    <category lang="pt">Relações Públicas, Política, Social</category>
-    <desc lang="pt">O programa fala sobre política, economia e cultura, além de dicas sobre Nova York.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F68%2F23686371_3df163c2f464afbe779b011325aa0d16.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111010000 -0300" channel="BM&amp;C">
     <title lang="pt">BM&amp;C.DOC</title>
     <category lang="pt">Notícias, Negócios</category>
@@ -2039,22 +2003,6 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F77%2F17773436_4E75AA96DA2B36CB.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110220500 -0300" stop="20261110230000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Cortando Estradas com Jesus</title>
-    <category lang="pt">Variedades/Musical</category>
-    <desc lang="pt">Com alto astral traz música legionária, conteúdo dedicado aos caminhoneiros as famílias, mostra as atividades das Igrejas Familiares da Religião de Divina e traz a palavra ecumênica do Irmão Paiva Netto.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110231000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Momento Ecumênico de Oração</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
   </programme>
   <programme start="20261110231000 -0300" stop="20261110233000 -0300" channel="BOA VONTADE">
     <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
@@ -8297,6 +8245,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577447_d85be3d9f743e60e6041a6c97acf0058.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111045500 -0300" stop="20261111061000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Fim de uma Era</title>
+    <category lang="pt">Drama</category>
+    <desc lang="pt">Quatro pessoas se lembram do passado para tentar compreender a inexplicável experiência que tiveram.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F62%2F19621863_9982DD4BD1BE0784.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110190000 -0300" stop="20261111000000 -0300" channel="CANAL DO BOI">
     <title lang="pt">Leilão Nelore DP Tradição e Ciência - ETAPA TOUROS</title>
     <category lang="pt">Variedades/Diversos</category>
@@ -11745,6 +11702,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F81%2F11815864_347D58A4B70BA706.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="CANAL RURAL">
+    <title lang="pt">Podcast Giro do Boi</title>
+    <category lang="pt">Reportagem, Talk Show</category>
+    <desc lang="pt">Jornalístico destaca cotações de mercado do boi gordo em regiões do país, apresentadas por consultores e especialistas no assunto, além de temas referentes à pecuária de corte.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F28%2F23283418_c0324f8f961f9c64db5723e3b1ebebd3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261109233000 -0300" stop="20261110003000 -0300" channel="CANAL UOL">
     <title lang="pt">Pole Position</title>
     <desc lang="pt">O universo da Fórmula 1 com quem entende: análises e entrevistas no Pole Position.</desc>
@@ -12438,33 +12404,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F69%2F19697319_BC26576C0811249A.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223500 -0300" stop="20261110224600 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show : Guerra dos Formatos 2</title>
-    <category lang="pt">Aventura, Animação, Comédia</category>
-    <desc lang="pt">Os Discmasters precisam acabar com a Guerra dos Formatos de uma vez por todas.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577161_f4875de08bab47431679bd94072afb89.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224600 -0300" stop="20261110225800 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show : Acampar Pode Ser Legal</title>
-    <category lang="pt">Aventura, Animação, Comédia</category>
-    <desc lang="pt">Mordecai e Rigby planejam acampar e Margaret lhes diz que nunca acampou antes. Eles a convidam e Eileen também os acompanha. Assim, todos partem para as montanhas, ao cantinho secreto dos dois, onde está escrito &quot;restrito&quot;.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577140_d3552993e49ffb96851929513b4813c5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110225800 -0300" stop="20261110231000 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Apenas um Show : Bagunceiro</title>
-    <category lang="pt">Aventura, Animação, Comédia</category>
-    <desc lang="pt">Mordecai e Rigby precisam fazer uma bela arrumação no quarto. Benson dá uma bronca neles porque o lixo espalhado pelo quarto pode se tornar um perigo químico.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577544_204fc475e22dad3f94fb0a42bac0004c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110231000 -0300" stop="20261110232200 -0300" channel="CARTOON NETWORK">
     <title lang="pt">Steven Universo : A Cabeça do Lars</title>
     <category lang="pt">Aventura, Animação, Ação</category>
@@ -12726,41 +12665,32 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F36%2F28363564_6ade7209839c51d0a11cf65702f90707.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223900 -0300" stop="20261110224700 -0300" channel="CARTOONITO">
-    <title lang="pt">Pocoyo : É Você!</title>
-    <category lang="pt">Animação, Educativo, Infantil</category>
-    <desc lang="pt">Bia solta um personagem brigão de videogame. Os amigos tentam ensiná-lo a jogar sem brigar.</desc>
+  <programme start="20261111045100 -0300" stop="20261111050200 -0300" channel="CARTOON NETWORK">
+    <title lang="pt">O Mundo de Greg : Tribunal do Vi Primeiro</title>
+    <category lang="pt">Aventura, Animação, Comédia</category>
+    <desc lang="pt">Um garoto reivindica seus direitos sobre o toco e Greg decide levar o caso ao tribunal.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F53%2F28530004_add391e92cf8d6479347f8f2affc2b87.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F43%2F28437012_8fa33561b5b810ab4cfb8fdd7d26d8b9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110224700 -0300" stop="20261110225400 -0300" channel="CARTOONITO">
-    <title lang="pt">Pocoyo : Acampamento de Verão</title>
-    <category lang="pt">Animação, Educativo, Infantil</category>
-    <desc lang="pt">Pocoyo, Pato e Nina fazem uma excursão ao topo da montanha para escapar do calor.</desc>
+  <programme start="20261111050200 -0300" stop="20261111051300 -0300" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação : Cavaleiro da TV 3</title>
+    <category lang="pt">Aventura, Animação, Comédia</category>
+    <desc lang="pt">Batman prefere assistir TV em vez de ir à sua própria festa de aniversário.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620222_62a6ca3c63c9f96eb705e10d0b96d54c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F38%2F28381992_150ff51d8070f38cf95fe199d6a57bbd.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110225400 -0300" stop="20261110230100 -0300" channel="CARTOONITO">
-    <title lang="pt">Pocoyo : Piratas</title>
-    <category lang="pt">Animação, Educativo, Infantil</category>
-    <desc lang="pt">Pocoyo e Pato duelam para ver quem vai conseguir hastear sua bandeira pirata em um navio.</desc>
+  <programme start="20261111051300 -0300" stop="20261111052400 -0300" channel="CARTOON NETWORK">
+    <title lang="pt">Os Jovens Titãs em Ação : Uma Farsa</title>
+    <category lang="pt">Aventura, Animação, Comédia</category>
+    <desc lang="pt">Irmão Sangue leva os Titãs ao tribunal por destruírem Jump City.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F27%2F22271006_02d3678faa500c9e49b878207f8fba4b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230100 -0300" stop="20261110230900 -0300" channel="CARTOONITO">
-    <title lang="pt">Lucas, a Aranha : Dr. Lucas na Área</title>
-    <category lang="pt">Animação, Infantil</category>
-    <desc lang="pt">Doutor Lucas tenta fazer todos os seus amigos se sentirem melhor, mas também precisa ser tratado.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F28%2F28284561_c58a2cc6691666a43f090f5eead48296.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F28%2F28281920_f8d9a750d9bf87d8a3a045f7fd8948f2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230900 -0300" stop="20261110231700 -0300" channel="CARTOONITO">
     <title lang="pt">Lucas, a Aranha : Fã da Abacate</title>
@@ -13157,6 +13087,42 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F38%2F28389895_e0a01de7e04e34e6d9ad363a4748a2ac.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111044900 -0300" stop="20261111045400 -0300" channel="CARTOONITO">
+    <title lang="pt">Pocoyo - Músicas Infantis : Dez na Cama</title>
+    <category lang="pt">Infantil, Entretenimento, Musica</category>
+    <desc lang="pt">Divirta-se com Pocoyo e seus amigos cantando &quot;Dez na Cama&quot;.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F53%2F28530011_6f2e3ca8d17a357a9044f95ff3f5d04a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045400 -0300" stop="20261111050100 -0300" channel="CARTOONITO">
+    <title lang="pt">Pocoyo : Vamos Organizar!</title>
+    <category lang="pt">Animação, Educativo, Infantil</category>
+    <desc lang="pt">Pato acaba de arrumar seu quarto quando Elly e Pocoyo chegam para brincar; depois de tirar todos os brinquedos e livros do lugar, eles correm para o parque sem arrumar o lugar.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F51%2F28515563_9ff3d0cb58097dbbd983cfc9eec0249f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050100 -0300" stop="20261111050800 -0300" channel="CARTOONITO">
+    <title lang="pt">Pocoyo : Hora de dormir</title>
+    <category lang="pt">Educativo, Infantil</category>
+    <desc lang="pt">Pato veste o pijama, pega o ursinho de pelúcia e se prepara para dormir. Mas Pocoyo continua brincando e não lhe deixa descansar.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F66%2F23665399_5b4920a97c4a8af0e69a4175eb4ada22.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050800 -0300" stop="20261111053100 -0300" channel="CARTOONITO">
+    <title lang="pt">A Casa Mágica da Gabby : Gabby, Encolhi os Gatinhos!</title>
+    <category lang="pt">Infantil</category>
+    <desc lang="pt">Gabby e Pandy tomam uma poção da sereia e ficam minúsculos. Agora, eles precisam dos ingredientes certos para voltar ao tamanho normal.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620472_324f98cc5de601844e8564b5fe7bd6b6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110002800 -0300" channel="CBI">
     <title lang="pt">Desc. da Meia Noite</title>
@@ -14803,15 +14769,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577302_209afe1fabac6f7ceb4a3582572c5cc9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="CNN BRASIL">
-    <title lang="pt">WW</title>
-    <category lang="pt">Política, Talk Show, Negócios</category>
-    <desc lang="pt">O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana.</desc>
-    <rating system="Brazil">
-      <value>SC</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F97%2F20973340_E69A6C587094A990.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261110234500 -0300" channel="CNN BRASIL">
     <title lang="pt">O Grande Debate</title>
     <category lang="pt">Política, Negócios</category>
@@ -15396,11 +15353,6 @@
   <programme start="20261114201800 -0300" stop="20261115004800 -0300" channel="CNN BRASIL MONEY">
     <title lang="pt">CNN Money News - ao vivo</title>
     <desc lang="pt">Acompanha os principais assuntos econômicos do dia e a reação do mercado financeiro. No centro do poder, repórteres em Brasília acompanham o dia e os bastidores no Banco Central, Ministério da Fazenda, Congresso e Exe...</desc>
-  </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="CNN INTERNACIONAL">
-    <title lang="pt">The Source with Kaitlan Collins</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Kaitlan Collins vai direto à fonte para obter as melhores reportagens sobre as maiores histórias do dia.</desc>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="CNN INTERNACIONAL">
     <title lang="pt">CNN NewsNight</title>
@@ -17799,15 +17751,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28574340_0074ac484e27a64e16a5053aba876e1d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="CURTA!">
-    <title lang="pt">Van Gogh, a Criação de um Mestre</title>
-    <category lang="pt">Especial</category>
-    <desc lang="pt">O documentário redescobre a obra de Vincent van Gogh por meio de Johanna Bonger van Gogh, sua cunhada e herdeira de seus bens. Embora o conhecesse apenas durante os últimos dois meses de sua vida, ela dedicou sua vida a divulgar sua pintura ao mundo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F58%2F18586123_E2A18C072F2492CD.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="CURTA!">
     <title lang="pt">As Aventuras da Arte Moderna : Meia-Noite em Paris</title>
     <category lang="pt">Séries</category>
@@ -17870,6 +17813,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570876_c43555c5420edff9d0513c2ff19caac3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="CURTA!">
+    <title lang="pt">Fluxo Azul : Flores que Salvam Águas</title>
+    <category lang="pt">Outros</category>
+    <desc lang="pt">A Mata Atlântica é uma das florestas mais ricas em biodiversidade do planeta. É lá, mais precisamente em Nazaré Paulista, onde fica situado o Sítio Primavera.</desc>
+    <rating system="Brazil">
+      <value>10</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570785_f636f865aa15d76741e3783d286fabb9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110222600 -0300" stop="20261111000200 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">Largados e Pelados - A Tribo : Carrapatos e Gritos</title>
@@ -17934,14 +17886,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F52%2F21523062_0C2C0687C4B97543.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220700 -0300" stop="20261110225900 -0300" channel="DISCOVERY HOME &amp; HEALTH">
-    <title lang="pt">Dra. Sandra Lee - A Rainha dos Cravos : Irmãs no Infortúnio</title>
-    <category lang="pt">Outros, Reality Show</category>
-    <desc lang="pt">Amber tem centenas de nódulos no rosto; Antonio tem um tumor na coluna e teme que não seja possível removê-lo; as irmãs Cheri e Janice têm nódulos praticamente iguais; Tatiana tem um constrangedor calombo na nádega.</desc>
+  <programme start="20261111051200 -0300" stop="20261111060000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Rumo ao Desconhecido : Fuga de Alcatraz</title>
+    <category lang="pt">Turismo, Aventura, Mistério</category>
+    <desc lang="pt">Josh refaz a fuga de Alcatraz ocorrida em 1962 e novas pistas o levam de São Francisco ao Brasil, onde ele encontra testemunhas e evidências que reescrevem a versão do FBI da história.</desc>
     <rating system="Brazil">
-      <value>14</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577388_a9d6a1b018de87165f124886d252c26e.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F45%2F28459883_cd35741c7189090f220fab53fd069e12.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110225900 -0300" stop="20261110232600 -0300" channel="DISCOVERY HOME &amp; HEALTH">
     <title lang="pt">A Rainha do Bisturi com a Dra. Carol Brandão : Alta Costura</title>
@@ -18005,24 +17957,6 @@
       <value>14</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577419_fb709beaad3e79e4bdf5ed9934e9416e.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110223700 -0300" stop="20261110230100 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Peppa : Emily Elefante; Amigo Faz de...</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">Peppa conhece uma nova amiguinha, a elefanta Emily; a amiga de Peppa tem um amigo imaginário; Peppa e George vão até a casa da coelha Rebecca.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F58%2F18584760_B102F3A7BF1CC158.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230100 -0300" stop="20261110231300 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Super Wish : Três É Demais</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">Ao atravessar um cânion, os amigos devem fazer uma corrida de três pernas. Jesse não consegue se decidir entre Sadie ou Zander e acaba escolhendo Maylin. Mas os dois fazem uma péssima dupla, pois ambos querem liderar.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F27%2F86%2F27862648_52f15e2bfdb5b5ccafa07000a104e899.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231300 -0300" stop="20261110232400 -0300" channel="DISCOVERY KIDS">
     <title lang="pt">Super Wish : Jogo da Imitação</title>
@@ -18303,14 +18237,23 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F01%2F16016678_6D4DDFDCA7273D59.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110222400 -0300" stop="20261110231200 -0300" channel="DISCOVERY SCIENCE">
-    <title lang="pt">Códigos e Conspirações : Las Vegas</title>
-    <category lang="pt">Séries</category>
-    <desc lang="pt">Conheça os segredos sórdidos de Las Vegas, onde os cassinos mantêm seus clientes jogando e perdendo. Saiba por que a cidade foi alvo de uma sabotagem nazista e de testes nucleares.</desc>
+  <programme start="20261111045900 -0300" stop="20261111051000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo do Barney : Rodas Maiores</title>
+    <category lang="pt">Animação, Educativo, Infantil</category>
+    <desc lang="pt">David não consegue se desfazer de sua bicicleta, mesmo tendo crescido. Barney leva as crianças em uma aventura, onde David ajuda um caranguejo eremita a encontrar uma concha que lhe sirva melhor, além de aceitar que é hora de uma nova bicicleta.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F18%2F23185194_ef8788a35005463750c5a879fe9ecaf2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F25%2F27%2F25270461_f56add893d067a5a3c8cab17caca9173.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051000 -0300" stop="20261111052100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo do Barney : Cada Coisinha</title>
+    <category lang="pt">Animação, Educativo, Infantil</category>
+    <desc lang="pt">As crianças percebem que Grady está triste e Barney mostra a elas que atos simples de gentileza podem fazer a diferença.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577258_34f2a43124195cfd7a6c5bc147c1ce19.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231200 -0300" stop="20261111000000 -0300" channel="DISCOVERY SCIENCE">
     <title lang="pt">Megaconstruções : Montanha de Aço</title>
@@ -18375,14 +18318,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F52%2F28526848_7676b1835c4af48ad499a90d6f874f46.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110222400 -0300" stop="20261110231200 -0300" channel="DISCOVERY THEATER">
-    <title lang="pt">Caçadores de Pítons : Vale dos Ossos</title>
-    <category lang="pt">Ao ar livre, Pets, Reality Show</category>
-    <desc lang="pt">Dusty e a equipe tentam capturar uma cobra enorme que devora cabeças de gado; a equipe se aventura em uma fábrica abandonada para conter a proliferação de pítons invasoras na Flórida.</desc>
+  <programme start="20261111044800 -0300" stop="20261111053600 -0300" channel="DISCOVERY SCIENCE">
+    <title lang="pt">Explodindo Tudo</title>
+    <category lang="pt">Ciência, Educativo</category>
+    <desc lang="pt">Tory e Tommy conferem os bastidores de uma das maiores empresas de fogos de artifício do mundo para revelar os segredos explosivos e as inovações de ponta desses especialistas em pirotecnia.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577088_7026a8de498ff5a8688282ae1770dd5c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F60%2F20606083_6D73CB1CC633B1DB.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231200 -0300" stop="20261111000000 -0300" channel="DISCOVERY THEATER">
     <title lang="pt">Caçadores de Pítons : Ponto de Estrangulamento</title>
@@ -18456,14 +18399,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571287_79981e00289e2c36a6074e7c0eed22c4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110221200 -0300" stop="20261110225900 -0300" channel="DISCOVERY TURBO">
-    <title lang="pt">Carros dos Sonhos com Robert Downey Jr. : Muito Off Road</title>
-    <category lang="pt">Reality Show</category>
-    <desc lang="pt">Pensando em meios de transporte alternativos, Robert decide fazer várias modificações no Chevy El Camino para facilitar um estilo de vida off-road sustentável. Susan Downey se junta a ele no passeio de inauguração.</desc>
+  <programme start="20261111044800 -0300" stop="20261111053600 -0300" channel="DISCOVERY THEATER">
+    <title lang="pt">World&#x27;s Biggest Shipbuilders : Lançamento</title>
+    <category lang="pt">Tecnologia</category>
+    <desc lang="pt">O casco do rebocador chega à Noruega. Na Coreia do Sul, o Tânger logo fará sua viagem inaugural. A plataforma irmã da XLE4, a Maersk Integrator, embarca em uma viagem épica para o Mar do Norte.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577573_a12a138e5d41f719ac3f8caa7d49fa33.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570948_ffebd02373dd1a75ea3a6fd5f1b36a26.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110225900 -0300" stop="20261110234600 -0300" channel="DISCOVERY TURBO">
     <title lang="pt">Texas Metal : Maior e Mais Irado</title>
@@ -18537,14 +18480,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577069_20266a306805c030a772bb64ddddb1a0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110224800 -0300" channel="DISCOVERY WORLD">
-    <title lang="pt">Trailers Incríveis : Clássico Restaurado</title>
-    <category lang="pt">Turismo</category>
-    <desc lang="pt">No Texas, a Foretravel Motorcoach constrói um trailer de 1,2 milhão de dólares; em Indiana, a empresa American Coach constrói um trailer luxuoso para festas para uma empresa de marketing esportivo; um Airfloat Landyacht 1957 é restaurado na Flórida.</desc>
+  <programme start="20261111050700 -0300" stop="20261111052900 -0300" channel="DISCOVERY TURBO">
+    <title lang="pt">Custom Club Argentina</title>
+    <category lang="pt">Aventura</category>
+    <desc lang="pt">Ao abastecerem, os pilotos encontram um motociclista que pede ajuda com uma moto alemã de 1971; novos amigos aparecem no trajeto até Cuesta de Miranda; o grupo vai até uma escola em Aicuña para realizar uma nova doação.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>12</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F03%2F23036291_046bfc0483c49d90fb357f8bfcd1cc15.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577420_21b0e9382260b7fdb2d8078752e1ec16.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110224800 -0300" stop="20261110233600 -0300" channel="DISCOVERY WORLD">
     <title lang="pt">Italianos Made in India</title>
@@ -18653,6 +18596,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F17%2F23171332_6be2decd3b34b6877091a4aaaa2c2844.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051200 -0300" stop="20261111053600 -0300" channel="DISCOVERY WORLD">
+    <title lang="pt">O Poder dos Alimentos : A Fonte da Juventude</title>
+    <category lang="pt">Culinária, Biografia</category>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F17%2F21175311_0FFED2D58F307054.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110060000 -0300" channel="DOG TV">
     <title lang="pt">Programação Dog TV</title>
@@ -18793,87 +18745,6 @@
     <rating system="Brazil">
       <value>L</value>
     </rating>
-  </programme>
-  <programme start="20261110223700 -0300" stop="20261110224800 -0300" channel="DUMDUM">
-    <title lang="pt">PH Explica : Visita ao Museu da Imaginação</title>
-    <category lang="pt">Educativo, Entretenimento</category>
-    <desc lang="pt">PH Explica como funciona o Museu da Imaginação, descomplicando e informando muitas curiosidades das exposições que estão por lá.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F28%2F23284246_1df561ca44d560a4cbf3ed66f5a99c58.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224800 -0300" stop="20261110230000 -0300" channel="DUMDUM">
-    <title lang="pt">PH Explica : Animais e Suas Casas</title>
-    <category lang="pt">Educativo, Entretenimento</category>
-    <desc lang="pt">PH Explica casas de animais, com foco especial no curioso formigueiro das formigas.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F13%2F23134336_f6c55c5487b7316f4409792b0afe2d55.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110230200 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Leão</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Com sua juba majestosa e rugido poderoso, este animal adora a savana e desafia os pequenos a adivinharem a sua identidade.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22233215_7e3a272523f60b47614e102eecb78a8c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230200 -0300" stop="20261110230300 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Elefante</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Com orelhas gigantes e uma tromba poderosa, este grandalhão é o maior animal terrestre.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22233177_3c618a4e81cf3755d12403441a94e62a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230300 -0300" stop="20261110230500 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Girafa</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Alta e elegante, ela tem o pescoço longo e adora alcançar as folhas no topo das árvores.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F45%2F21450264_1C35F66ADC7E04A0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230500 -0300" stop="20261110230600 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Tamanduá</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Com uma língua bem comprida e gosto especial por formigas, este animal curioso é um desafio divertido para os pequenos.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22233229_4a5937de82e9072128bed1d477f33b92.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230600 -0300" stop="20261110230800 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Mico Leão Dourado</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Pequeno e ágil, ele salta entre as árvores da Mata Atlântica com sua bela pelagem dourada.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22233232_b68ca58315383b4d52df3c5f60656fe5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230800 -0300" stop="20261110230900 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Papagaio</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Colorido e falante, ele adora repetir o que ouve e é conhecido por sua inteligência.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F99%2F20997967_0914CEC7BF85085C.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230900 -0300" stop="20261110231100 -0300" channel="DUMDUM">
-    <title lang="pt">Que Animal É Esse? : Onça-Pintada</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Majestosa e ágil, esta fera tem manchas que a ajudam a se camuflar na floresta.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22233206_33540bb8d8a4edcbdccf074f88e04edb.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231100 -0300" stop="20261110231500 -0300" channel="DUMDUM">
     <title lang="pt">Que Animal É Esse? : Jabuti</title>
@@ -19181,14 +19052,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F42%2F23424595_5b5e21660d88484f73d23577dc871b3d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110221000 -0300" stop="20261110230000 -0300" channel="E!">
-    <title lang="pt">Botched - Desastres do Bisturi : Pesadelo Necrótico</title>
-    <category lang="pt">Outros, Reality Show</category>
-    <desc lang="pt">Uma australiana obcecada por preenchimento quer que o Dr. Dubrow aumente o tamanho dos seus peitos; enquanto uma cirurgia na República Dominicana deixou uma paciente no pronto-socorro e com apenas um seio.</desc>
+  <programme start="20261111044800 -0300" stop="20261111060000 -0300" channel="DUMDUM">
+    <title lang="pt">Boa Noite, Dumdum</title>
+    <category lang="pt">Educativo, Musica, Aventura</category>
+    <desc lang="pt">Encerre o dia com histórias e músicas suaves, cultivando valores como respeito, amizade, companheirismo, vida saudável e consciência ecológica. Um momento de calma e aprendizado para sonhar com um mundo melhor.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F58%2F28587273_97a8079ff61bbddf55c5846558138358.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F42%2F23424595_5b5e21660d88484f73d23577dc871b3d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110235500 -0300" channel="E!">
     <title lang="pt">Love Island</title>
@@ -19253,15 +19124,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F58%2F28587313_6c9b1d2211e8351cb805fd1c28e28254.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="ESPN">
-    <title lang="pt">Bola da Vez</title>
-    <category lang="pt">Esporte</category>
-    <desc lang="pt">Grandes personalidades do esporte nacional e internacional são colocadas no &quot;paredão&quot; e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F92%2F12928712_9D9DC4A02E196C53.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="ESPN">
     <title lang="pt">SportsCenter</title>
     <category lang="pt">Séries</category>
@@ -19298,14 +19160,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577139_26b8cb98d3ee474bbc74f211263c6c51.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="ESPN 1">
-    <title lang="pt">Bola da Vez</title>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="ESPN">
+    <title lang="pt">Resenha ESPN : Lê e Toró</title>
     <category lang="pt">Esporte</category>
-    <desc lang="pt">Grandes personalidades do esporte nacional e internacional são colocadas no &quot;paredão&quot; e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral.</desc>
+    <desc lang="pt">Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F92%2F12928712_9D9DC4A02E196C53.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F46%2F28469004_c239700136e98830f18a845e0f375624.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="ESPN 1">
     <title lang="pt">SportsCenter</title>
@@ -19342,6 +19204,15 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577139_26b8cb98d3ee474bbc74f211263c6c51.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="ESPN 1">
+    <title lang="pt">Resenha ESPN : Lê e Toró</title>
+    <category lang="pt">Esporte</category>
+    <desc lang="pt">Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F46%2F28469004_c239700136e98830f18a845e0f375624.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110223000 -0300" stop="20261110233000 -0300" channel="ESPN 2">
     <title lang="pt">San Francisco 49ers x Las Vegas Raiders - NFL : San Francisco 49ers x Las Vegas Raiders</title>
@@ -19387,15 +19258,6 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F58%2F28589455_f5d8b1f9a51822c5722261827d1be4e0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110210000 -0300" stop="20261110230000 -0300" channel="ESPN 3">
-    <title lang="pt">Michigan State x Duke - Basquete Universitário : Michigan State x Duke</title>
-    <category lang="pt">Basquete</category>
-    <desc lang="pt">Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos.</desc>
-    <rating system="Brazil">
-      <value>SC</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F58%2F28589493_8b5a5cbb7df45b0c6195ab8199bc6c6b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="ESPN 3">
     <title lang="pt">NBA Action</title>
@@ -19532,6 +19394,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571185_c37adc7f063933748acd8f02dc5df91a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111050000 -0300" stop="20261111070000 -0300" channel="ESPN 5">
+    <title lang="pt">Masters de Paris de Tênis Masculino 2026 - Final : Final</title>
+    <category lang="pt">Tênis</category>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F54%2F28545269_e896e15c96abe21590c3a54454426247.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110210000 -0300" stop="20261110233000 -0300" channel="ESPN 6">
     <title lang="pt">NASCAR Craftsman Truck Series - GP de Homestead-Miami : GP de Homestead-Miami</title>
     <category lang="pt">Corrida</category>
@@ -19576,15 +19446,6 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F77%2F11775781_7C201100F81405C7.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="FASHIONTV">
-    <title lang="pt">Drag Ataque</title>
-    <category lang="pt">Reality Show</category>
-    <desc lang="pt">Entre tecidos e pechinchas no Mercadão de Recife, Charlotte Delfina e Joanne Versace criam looks icônicos para um desfile de moda drag com os conselhos de Danni Bodega.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F55%2F28559969_b1f786bf18426f347939fa951c34757d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="FASHIONTV">
     <title lang="pt">Grandes Fotógrafos, Pequenos Formatos : Tecnologia</title>
@@ -20000,14 +19861,41 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F53%2F28536348_e667f7114c4207a42a4820335cc58d8b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220500 -0300" stop="20261110225500 -0300" channel="FILM&amp;ARTS">
-    <title lang="pt">Síndrome de Helsinque : Segunda-Feira</title>
-    <category lang="pt">Drama</category>
-    <desc lang="pt">Os jornalistas precisam de mais informações para publicar a história; Elias pede que outras vítimas compartilhem seus relatos.</desc>
+  <programme start="20261111050000 -0300" stop="20261111050500 -0300" channel="FASHIONTV">
+    <title lang="pt">Box Brazil Play News : Tainá Baldez</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">Apresenta a história de Pené, Tainá e Thiago, casal que abandonou a vida convencional para viajar pelo mundo em kombi, compartilhando aventuras em família.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577316_ee72b95fcd2dba7a71dd3a05edf17bd4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23148947_c0a687ee5fac82930bec73e89cc8d06c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050500 -0300" stop="20261111051000 -0300" channel="FASHIONTV">
+    <title lang="pt">Box Brazil Play News</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">O mundo do audiovisual brasileiro e suas curiosidades e bastidores.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23148947_c0a687ee5fac82930bec73e89cc8d06c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051000 -0300" stop="20261111051500 -0300" channel="FASHIONTV">
+    <title lang="pt">Box Brazil Play News</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">O mundo do audiovisual brasileiro e suas curiosidades e bastidores.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23148947_c0a687ee5fac82930bec73e89cc8d06c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111052000 -0300" channel="FASHIONTV">
+    <title lang="pt">Box Brazil Play News</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">O mundo do audiovisual brasileiro e suas curiosidades e bastidores.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23148947_c0a687ee5fac82930bec73e89cc8d06c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110225500 -0300" stop="20261110234500 -0300" channel="FILM&amp;ARTS">
     <title lang="pt">Síndrome de Helsinque : Terça-Feira</title>
@@ -20063,14 +19951,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577463_eee9d5bde9721ac9f1adcf89cea8414b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="FISH TV">
-    <title lang="pt">Slow Fishing : Pescaria Inesquecível no Pantanal...</title>
-    <category lang="pt">Outros</category>
-    <desc lang="pt">Com foco nas vivências de cada viagem, o programa vem para dar uma desacelerada na pescaria. Cauê Ogata mostra que o importante não é a modalidade na qual se pesca, e sim sair para a aventura. Afinal, a pescaria é muito mais do que o peixe.</desc>
+  <programme start="20261111051000 -0300" stop="20261111060000 -0300" channel="FILM&amp;ARTS">
+    <title lang="pt">Hunters</title>
+    <category lang="pt">Drama</category>
+    <desc lang="pt">Sob o pretexto de querer revelar onde uma vítima de assassinato está enterrada, um prisioneiro foge.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>12</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F13%2F06%2F13063010_151CFB203C2513D8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F56%2F21562221_CE5974982EB9AD02.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="FISH TV">
     <title lang="pt">Pura Pesca : Tal Pai, Tal Filho - Gigantes do...</title>
@@ -20171,24 +20059,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F54%2F28544921_3e72181fa80d16108edc7a7c5417e0dd.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110222600 -0300" stop="20261110224700 -0300" channel="FOOD NETWORK">
-    <title lang="pt">Sabores da Itália : Conforto Italiano</title>
-    <category lang="pt">Culinária, Faça Você Mesmo</category>
-    <desc lang="pt">Giada ensina a cozinhar comida reconfortante à moda da Itália, com alguns de seus pratos italianos favoritos: risoto de abóbora manteiga com baunilha e ossobuco de peru com gremolata de salsa e alecrim.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F52%2F28526815_b73d0f5515289f499d0ff0126e0e7da9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224700 -0300" stop="20261110230900 -0300" channel="FOOD NETWORK">
-    <title lang="pt">Kitchen Boss : Refeição Inesquecível</title>
-    <category lang="pt">Culinária, Reality Show</category>
-    <desc lang="pt">Buddy decide homenagear seu pai preparando todos os pratos preferidos dele, tais como o caranguejo do hotel Park Casino, berinjela recheada, risoto de salmão defumado e musse de chocolate.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F53%2F28536210_90fe987dae99df5bbc419393ddcdf88f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230900 -0300" stop="20261110233100 -0300" channel="FOOD NETWORK">
     <title lang="pt">Selena + Restaurante : Selena + Lemon Grove</title>
     <category lang="pt">Culinária</category>
@@ -20279,14 +20149,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F05%2F28051668_6ce46a1f8aba7bb613c38b297ec2d6b2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="FUTURA">
-    <title lang="pt">Agbara Dudu - Narrativas Negras : Casa Fanti-Ashanti, Tambor, Coroa e Encantamento</title>
-    <category lang="pt">Séries</category>
-    <desc lang="pt">Na festa do Divino, Mãe Kabeca conduz cantos, toques. Fé, festa, memória revelam terreiros centrais.</desc>
+  <programme start="20261111050900 -0300" stop="20261111060000 -0300" channel="FOOD NETWORK">
+    <title lang="pt">Drinques pelo Mundo : A Excêntrica Flórida</title>
+    <category lang="pt">Turismo</category>
+    <desc lang="pt">Jack revela o esquisitão dentro de si nas terras da Flórida. Ele participa de uma rebelião bizarra, toma uísque na cabeça de um jacaré morto, aventura-se em uma cerimônia de vodu haitiano, navega em um Bar Tiki flutuante e curte a vibe do Miami Vice.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>10</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577386_d71df6da3b9b68581fc7a29bffb333b0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577587_58c4249cb188c4e5d509a1aa7879a884.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="FUTURA">
     <title lang="pt">Amazônia Urbana - Belém Entre Dois Mundos</title>
@@ -20413,6 +20283,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F50%2F23505586_0a07360d024ce2c645bf1a6e13e638bb.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111053000 -0300" channel="FUTURA">
+    <title lang="pt">Entrevista - Bem Viver : A Disciplina do Bem Viver</title>
+    <category lang="pt">Entrevista, Relações Públicas, Social</category>
+    <desc lang="pt">Monja Coen fala sobre a disciplina do bem viver, seus conceitos e ramificações.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577089_d54d75e4fd3557295ea969e1fca4f178.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110020000 -0300" channel="GE TV">
     <title lang="pt">Vasco x Palmeiras</title>
@@ -22847,6 +22726,15 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F61%2F17618447_C80946571A54B203.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="GLOBO NEWS">
+    <title lang="pt">Jornal GloboNews - Edição das 5 Horas</title>
+    <category lang="pt">Reportagem</category>
+    <desc lang="pt">Os principais fatos que acontecem no Brasil e no mundo.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F39%2F18394465_A44084B4F8D0A6F2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110224000 -0300" stop="20261110233500 -0300" channel="GLOBO SP">
     <title lang="pt">Chef de Alto Nível</title>
@@ -27208,15 +27096,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F65%2F22656138_a81b58913f595de3e8afc67ea61fb6f5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223100 -0300" stop="20261110225400 -0300" channel="GLOOB">
-    <title lang="pt">A Árvore Familiar dos Croods : Os Jogos do Trovão</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">A Avó anuncia que é hora de escolher uma nova Rainha das Irmãs do Trovão. Ugga assume que ela sabe que vai vencer. No entanto, depois de uma série de desafios, fica claro que a Avó pode não estar pronta para deixar o cargo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F32%2F18322146_BD4989582620206F.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110225400 -0300" stop="20261110231700 -0300" channel="GLOOB">
     <title lang="pt">A Árvore Familiar dos Croods : Surpresas Esperadas</title>
     <category lang="pt">Aventura, Animação, Infantil</category>
@@ -27397,41 +27276,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F44%2F28445560_42716fe4854512d767cb125246b58ab8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110224000 -0300" stop="20261110225000 -0300" channel="GLOOBINHO">
-    <title lang="pt">Alice &amp; Lewis : Chiclebol</title>
-    <category lang="pt">Aventura, Animação, Comédia</category>
-    <desc lang="pt">Alice chega ao País das Maravilhas ansiosa para fazer Lewis experimentar suas novas gomas de mascar, mas o coelho engole uma e agora, toda vez que fala, saem bolhas da sua boca.</desc>
+  <programme start="20261111045100 -0300" stop="20261111051600 -0300" channel="GLOOB">
+    <title lang="pt">Dragões - Pilotos de Berk : O que Vive Embaixo</title>
+    <category lang="pt">Aventura, Animação, Ação</category>
+    <desc lang="pt">Um dragão perigoso aparece em Berk, detonando a aldeia. Ele tem a missão de encontrar Banguela e acertar as contas. Apesar dos esforços de Soluço para ajudar, Banguela insiste em enfrentar o dragão sozinho.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F38%2F28389855_d7d6578c77b27db57e4282b30926c0be.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110225000 -0300" stop="20261110230000 -0300" channel="GLOOBINHO">
-    <title lang="pt">Alice &amp; Lewis : Hora do Chá, de Novo e de Novo</title>
-    <category lang="pt">Aventura, Animação, Comédia</category>
-    <desc lang="pt">O País das Maravilhas está preso em um loop temporal e apenas Alice e Lewis estão cientes disso. Ter que repetir a hora do chá a cada dois minutos pode ser muito incômodo.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571203_8b7d20a5ade3be54cec965a8a2ec4755.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110230600 -0300" channel="GLOOBINHO">
-    <title lang="pt">As Aventuras do Bob Zoom : O Túnel</title>
-    <category lang="pt">Aventura, Animação, Educativo</category>
-    <desc lang="pt">A turminha resolve procurar trevinhos num antigo túnel do jardim. No entanto, Lola descobre que tem medo do escuro e agora cabe a Bob Zoom e Alex ajudar a amiga a superar seu medo por meio de um divertido jogo de sombras.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F85%2F11858664_4CB2835F0F64923B.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110230600 -0300" stop="20261110231200 -0300" channel="GLOOBINHO">
-    <title lang="pt">As Aventuras do Bob Zoom : Vovó Zoom</title>
-    <category lang="pt">Aventura, Animação, Educativo</category>
-    <desc lang="pt">Vovó Zoom vem visitar para um almoço, mas Bob Zoom está ansioso para uma aventura em busca de trevinhos. Confuso, ele quer estar em dois lugares ao mesmo tempo. Até que Vovó Zoom percebe e ensina o neto que é preciso fazer uma coisa de cada vez.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F82%2F11829554_DDCE7CCC74976BD5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F45%2F28451023_1057db16a67b2b8b8642c226c4da9cf3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231200 -0300" stop="20261110232000 -0300" channel="GLOOBINHO">
     <title lang="pt">As Aventuras do Bob Zoom : Cuidado! Tinta Fresca</title>
@@ -27802,14 +27654,50 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570870_367820cb54485bcc88d429bc4fe3b4ce.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110214500 -0300" stop="20261110230500 -0300" channel="GNT">
-    <title lang="pt">Que História É Essa, Porchat? : Samuel Rosa, Luiz Fernando...</title>
-    <category lang="pt">Entretenimento, Talk Show</category>
-    <desc lang="pt">Porchat leva para a roda Luiz Fernando Guimarães, Samuel Rosa e Xanddy. Na plateia, a vingança de Mariana que rendeu uma grana extra.</desc>
+  <programme start="20261111044600 -0300" stop="20261111045000 -0300" channel="GLOOBINHO">
+    <title lang="pt">Cocomelon : Eu Vou Voltar</title>
+    <category lang="pt">Animação, Educativo, Entretenimento</category>
+    <desc lang="pt">Mamãe e Papai ajudam Cody a entender que um Adeus não é para sempre.</desc>
     <rating system="Brazil">
-      <value>14</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F91%2F23911519_1d63bcc14159c1936c9a0b1c39eb07a5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577389_559022b1747890e8b47a9a51e5630867.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045000 -0300" stop="20261111050000 -0300" channel="GLOOBINHO">
+    <title lang="pt">Vovó Tatá : A Casa Ideal</title>
+    <category lang="pt">Aventura, Animação, Infantil</category>
+    <desc lang="pt">Pedro e Jane deixam crianças com Vovó Tatá durante reforma da casa; no Brinca-Mundo, turma explora diferentes casas e decidem que não há lugar melhor do que Casa da Vovó Tatá.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F17%2F21177999_C6AC9DD37C1341B6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111050500 -0300" channel="GLOOBINHO">
+    <title lang="pt">Conta Comigo : Mobi Espantalho</title>
+    <category lang="pt">Educativo</category>
+    <desc lang="pt">Na fazenda do tio Abel, Mobi cuida para que os corvos não comam as sementes recém-plantadas. Mas ele quer brincar com seus amigos, e juntos eles precisam fazer um espantalho.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571144_06679a6816567b2d838485ede8173dfd.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050500 -0300" stop="20261111051000 -0300" channel="GLOOBINHO">
+    <title lang="pt">Conta Comigo : Quem Quer Bolo?</title>
+    <category lang="pt">Educativo</category>
+    <desc lang="pt">Mindy aparece com três bolos no quintal onde Mel está com os meninos. Eles têm dificuldades para descobrir como dividir entre os quatro. Um passarinho guloso acaba ajudando.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571179_55ed219431d54437ac294488f31cf46b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051000 -0300" stop="20261111051700 -0300" channel="GLOOBINHO">
+    <title lang="pt">Vamos Brincar com a Turma da Mônica : O Tesouro e a Lua</title>
+    <category lang="pt">Aventura, Comédia, Educativo</category>
+    <desc lang="pt">Cascão, Milena e Cebolinha brincam de piratas, até que Cascão percebe Mônica e Magali se divertindo no quintal fingindo serem astronautas. Animado, ele decide participar secretamente das duas brincadeiras.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F38%2F28389660_27470e610e0c6f61f3128f264dcc70f6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230500 -0300" stop="20261110235100 -0300" channel="GNT">
     <title lang="pt">Dog House Brasil : Xaxado</title>
@@ -28072,15 +27960,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F25%2F21%2F25212857_d3e7c588e7ec6501f7f3965ee8897aa7.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220200 -0300" stop="20261110230000 -0300" channel="HBO POP">
-    <title lang="pt">A Idade Dourada</title>
-    <category lang="pt">Drama, Histórico</category>
-    <desc lang="pt">Bertha recebe uma acolhida fria. As aspirações de Peggy entram em conflito com a alta sociedade de Newport. Agnes aceita dar uma entrevista.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F64%2F28640759_a45de4948bae0dd2cc00614a4e56c264.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111004500 -0300" channel="HBO POP">
     <title lang="pt">O Turista</title>
     <category lang="pt">Ação, Romance, Suspense</category>
@@ -28116,15 +27995,6 @@
       <value>12</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F49%2F28491187_8d6c6f91b2905f37b76b4885e001c191.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110222800 -0300" stop="20261110225900 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Câmera Entre Balas : Samuel Aranda</title>
-    <category lang="pt">Séries</category>
-    <desc lang="pt">Samuel Aranda é fotojornalista e foi o vencedor do World Press Photo 2012 por sua cobertura no Iêmen. Ele desvenda histórias de guerras e reflete profundamente sobre o papel da mídia e o poder das imagens.</desc>
-    <rating system="Brazil">
-      <value>16</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23149207_aa1fa883f80acad2068487b419597379.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110225900 -0300" stop="20261110232600 -0300" channel="HBO SIGNATURE">
     <title lang="pt">Câmera Entre Balas : Anna Surinyach</title>
@@ -28215,24 +28085,6 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F28%2F22284449_273302af26bf7146b40f3055912a14a6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110222500 -0300" stop="20261110224700 -0300" channel="HGTV">
-    <title lang="pt">Em Busca da Casa Perfeita - Mundo</title>
-    <category lang="pt">Outros, Reality Show, Turismo</category>
-    <desc lang="pt">Um casal norte-americano procura opções imobiliárias econômicas em Dublin.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577189_9affabe934aab750c956915214716db1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224700 -0300" stop="20261110230700 -0300" channel="HGTV">
-    <title lang="pt">Vida no Paraíso - Montanhas : Em Busca de um Lar em Sedona</title>
-    <category lang="pt">Outros, Reality Show</category>
-    <desc lang="pt">Um casal de Ohio precisa tomar uma decisão rápida sobre uma casa nas montanhas ao se mudar para Sedona, no Arizona, devido a um emprego.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F14%2F77%2F14770940_F842AD38D668A399.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230700 -0300" stop="20261110232800 -0300" channel="HGTV">
     <title lang="pt">Vida no Paraíso - Montanhas : Um Lar nas Montanhas de Stowe</title>
@@ -28333,14 +28185,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F74%2F19740465_274D55088AC5E009.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110221800 -0300" stop="20261110230100 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Caçadores de Relíquias : O Rei das Placas</title>
-    <category lang="pt">Coletânea, Reality Show</category>
-    <desc lang="pt">Robbie mostra sua enorme garagem retrô; os irmãos Wolfe percorrem as estradas mais afastadas dos Estados Unidos e descobrem o rei dos letreiros. Já no sul da Califórnia, a dupla encontra o Santo Graal dos letreiros 3D.</desc>
+  <programme start="20261111050700 -0300" stop="20261111060000 -0300" channel="HGTV">
+    <title lang="pt">Casas Exóticas : De Cabeça para Baixo, Onda, Espaçonave</title>
+    <category lang="pt">Casa e Decoração</category>
+    <desc lang="pt">Descubra como foi construída uma casa de cabeça para baixo no Brasil; conheça uma residência em forma de onda e uma casa semelhante a uma espaçonave.</desc>
     <rating system="Brazil">
-      <value>10</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F61%2F28616608_0fa78c55a8585f906f59674757f519a3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F37%2F18375348_45DB2FCD04A0104D.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230100 -0300" stop="20261110234900 -0300" channel="HISTORY CHANNEL">
     <title lang="pt">Caçadores de Relíquias : A Magia do Cinema</title>
@@ -28414,14 +28266,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F61%2F28616542_a0cc12de7f24784691e87cedc89972c0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110221900 -0300" stop="20261110230600 -0300" channel="HISTORY CHANNEL 2">
-    <title lang="pt">Histórias Secretas da Segunda Guerra Mundial : O Dia D</title>
-    <category lang="pt">Guerra</category>
-    <desc lang="pt">Relatos pungentes, reconstituições e entrevistas com especialistas sobre o Dia D em 1944, abordando o ataque das Forças Aliadas contra as forças alemãs na costa da Normandia, na França.</desc>
+  <programme start="20261111045400 -0300" stop="20261111053700 -0300" channel="HISTORY CHANNEL">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne : O Mortal Triângulo das Bermudas</title>
+    <category lang="pt">Mistério</category>
+    <desc lang="pt">Durante séculos, uma área de pouco mais de um milhão de quilômetros quadrados no Oceano Atlântico chamou a atenção do planeta como o local onde navios, aviões e viajantes desavisados desaparecem sem deixar rastro algum.</desc>
     <rating system="Brazil">
-      <value>10</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577303_28298f531161fb507b418f15e349c06f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F61%2F28616671_976b13344514bce28059f4d22b5c2486.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230600 -0300" stop="20261111000600 -0300" channel="HISTORY CHANNEL 2">
     <title lang="pt">Caçadores de Ditadores : Joseph Stalin</title>
@@ -29829,6 +29681,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F89%2F22898213_e2cdbe8b3961ade436c9337d462b89f8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111050000 -0300" stop="20261111070000 -0300" channel="JOVEM PAN NEWS">
+    <title lang="pt">Jornal da Manhã - 1ª Edição</title>
+    <category lang="pt">Reportagem</category>
+    <desc lang="pt">O time de comentaristas da Jovem Pan analisa os principais assuntos do dia.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F35%2F23351351_18d1f786076b6f19c847b53a2cf11275.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110220000 -0300" stop="20261110233500 -0300" channel="LIFETIME">
     <title lang="pt">Aviões Trens e Árvores de Natal</title>
     <category lang="pt">Romance, Natal</category>
@@ -30049,15 +29910,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110210000 -0300" stop="20261110231000 -0300" channel="MEGAPIX">
-    <title lang="pt">Queima de Arquivo</title>
-    <category lang="pt">Ação</category>
-    <desc lang="pt">Agente do governo especializado, John Kruger é encarregado de proteger uma testemunha-chave que sabe tudo sobre uma empresa de armas que pretende vender um fuzil revolucionário no mercado negro.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F08%2F23085802_6362fe9bdd61fb60a159aa922779d4b6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110231000 -0300" stop="20261110232000 -0300" channel="MEGAPIX">
     <title lang="pt">Stone Heart</title>
     <category lang="pt">Aventura</category>
@@ -30093,24 +29945,6 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F89%2F12895208_DA36307F8D3106BA.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110222000 -0300" stop="20261110224600 -0300" channel="MODO VIAGEM">
-    <title lang="pt">Mundo Visto de Cima : Brasil - De Cabo Frio a Brasília</title>
-    <category lang="pt">Turismo</category>
-    <desc lang="pt">Cabo Frio e suas muitas ilhas e penínsulas atraem milhares de brasileiros durante o verão.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F40%2F28400889_ec3a74a5296429b46566c036b1d8bcf5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224600 -0300" stop="20261110231200 -0300" channel="MODO VIAGEM">
-    <title lang="pt">Mundo Visto de Cima : Suíça - De St. Moritz ao Mont Blanc</title>
-    <category lang="pt">Turismo</category>
-    <desc lang="pt">Esta viagem pelos Alpes cruza a Suíça e também toca as fronteiras da Itália e da França. Começamos em St Moritz, um dos centros turísticos mais famosos da Suíça, antes de subir para os Alpes.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F40%2F28401087_f283446a0d81a9e90a31f14bae37f5c2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231200 -0300" stop="20261110233500 -0300" channel="MODO VIAGEM">
     <title lang="pt">Sabores do Mundo</title>
@@ -30229,14 +30063,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F55%2F28553622_6ccecb2fba2c41a483d383f91737ab00.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="MULTISHOW">
-    <title lang="pt">Volte Sempre</title>
-    <category lang="pt">Comédia</category>
-    <desc lang="pt">Waldir acredita ser Forrest Gump, Zuenir enfrenta um fiscal, Carlinhos entra para uma tribo, Narcisa ostenta riqueza, Pereira enfrenta um lobo e Janete aparece pintada de oncinha.</desc>
+  <programme start="20261111050100 -0300" stop="20261111052900 -0300" channel="MODO VIAGEM">
+    <title lang="pt">Partiu Camping : Conhecendo Soldados Sebold - Santa Catarina</title>
+    <category lang="pt">Turismo</category>
+    <desc lang="pt">A montanha Soldados Siebold, destino de Ivan na companhia de Manu, é também destino do casal Yana e João em um acampamento à beira do cânion com vista exclusiva para a cachoeira.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>10</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577147_e0ec499506c539ff3b4c5001ceb6e97a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571280_1ffe63b0c2c4d5d065296f5b76895bbf.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="MULTISHOW">
     <title lang="pt">Atenção para o Refrão : Paixão</title>
@@ -30327,6 +30161,15 @@
       <value>12</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F43%2F28430469_c7376bc88230152ae2d420da5a48fb62.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="MULTISHOW">
+    <title lang="pt">Voz da Consciência : Karol Conká e Luedji Luna</title>
+    <category lang="pt">Entrevista, Musica, Talk Show</category>
+    <desc lang="pt">Péricles recebe Karol Conká e Luedji Luna para dialogar sobre raízes, trajetórias e legado cultural. O encontro presta tributo à obra de Clara Nunes, articulando referências artísticas e aproximando diferentes gerações da música brasileira.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28629108_1a8e9cf5663b226b04073785eb301cb3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110222000 -0300" stop="20261111000000 -0300" channel="MUSIC BOX BRASIL">
     <title lang="pt">Jukebox</title>
@@ -31056,6 +30899,87 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F82%2F11820930_388E99A70AD64954.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111044900 -0300" stop="20261111045000 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Performances do Music : Alemão Ronaldo: Festival Recomeço - Campo Minado</title>
+    <category lang="pt">Musica</category>
+    <desc lang="pt">Curta recortes de musicais, trechos de refrões de hits do momento e de clássicos do canal.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F28%2F17281643_3E29DC08A73A75C0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045000 -0300" stop="20261111045200 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Quem Produz?</title>
+    <category lang="pt">Entretenimento, Musica</category>
+    <desc lang="pt">Conteúdos documentais que retratam diferentes historias da cena musical brasileira.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F81%2F23814905_15917d525c8b3e16d363c54e70bef0bc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045200 -0300" stop="20261111045600 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Music Drops : Rodriguinho - Travessos 25 Anos</title>
+    <category lang="pt">Entrevista, Musica</category>
+    <desc lang="pt">O programa vai até o show de Rodriguinho com Os Travessos, que comemoram 25 anos de carreira.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F43%2F28430827_6f9ea49f3d696a20e2cbeb099fbe9a67.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045600 -0300" stop="20261111045700 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">João Rock 2017 : Emicida</title>
+    <category lang="pt">Entretenimento, Musica</category>
+    <desc lang="pt">Os melhores momentos do Festival João Rock que, desde 2002, reúne os maiores nomes do rock nacional e seus ritmos parceiros.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F43%2F28430942_4772a295cb365a5872d7cd840eb42c4e.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045700 -0300" stop="20261111045900 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Cortes do Music : Inocentes - 30 Anos</title>
+    <category lang="pt">Musica</category>
+    <desc lang="pt">Recortes da programação do Music Box com temas e fatos importantes do mundo da música.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F93%2F20937699_D768998644EE417A.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045900 -0300" stop="20261111050700 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Music Drops : Vitor Kley 2023</title>
+    <category lang="pt">Entrevista, Musica</category>
+    <desc lang="pt">Veja uma conversa com o artista em um dos maiores eventos da região metropolitana de Porto Alegre.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F82%2F11820930_388E99A70AD64954.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050700 -0300" stop="20261111050800 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Performances do Music : Prime Rock Curitiba - Jota Quest - Do Seu Lado</title>
+    <category lang="pt">Musica</category>
+    <desc lang="pt">Curta recortes de musicais, trechos de refrões de hits do momento e de clássicos do canal.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F28%2F17281643_3E29DC08A73A75C0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050800 -0300" stop="20261111051000 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Lenha, Brasa e Bronca - A História de Jacildo &amp; Seus Rapazes</title>
+    <category lang="pt">Musica</category>
+    <desc lang="pt">A história da primeira banda de rock de Mato Grosso, Jacildo e Seus Rapazes, emblemática nos anos 1960 durante a Jovem Guarda e que fez sucesso em toda a América Latina.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F54%2F20543614_8783C2176D228CE2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051000 -0300" stop="20261111051900 -0300" channel="MUSIC BOX BRASIL">
+    <title lang="pt">Music Drops : Carol Biazin</title>
+    <category lang="pt">Entrevista, Musica</category>
+    <desc lang="pt">Carol Biazin fala sobre a carreira e parcerias.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F62%2F23629827_f8c1c0b9dcf0fcc45c1064ac24b4f37d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110010000 -0300" channel="NOVO TEMPO">
     <title lang="pt">Consultório de Família</title>
@@ -32300,15 +32224,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110220100 -0300" stop="20261110230000 -0300" channel="OFF">
-    <title lang="pt">Aventura em Foco : Pelas Lentes de Thiago Diz</title>
-    <category lang="pt">Outros, Aventura</category>
-    <desc lang="pt">Thiago Diz é um fotógrafo que roda o mundo e registra diferentes esportes de aventura. No Deserto do Atacama, Chile, ele tem a missão de fotografar uma corrida de 250 km.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577589_6fcb3a6108ca06935513f7a8bfa3673b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111001500 -0300" channel="OFF">
     <title lang="pt">Latitude 70</title>
     <category lang="pt">Aventura, Documentario</category>
@@ -32407,6 +32322,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F37%2F28370439_909d23b9d44916035905b56776c2ffd4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045300 -0300" stop="20261111052200 -0300" channel="OFF">
+    <title lang="pt">Skate a Mais de 100 : Ladeiras do Rio Grande do Sul</title>
+    <category lang="pt">Aventura</category>
+    <desc lang="pt">Nossos campeões chegam ao Rio Grande do Sul, mas com vento contra, tempo fechado e buracos na pista, eles precisam se concentrar para não se machucar e conseguir bater os 100 quilômetros por hora.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570952_28dda963fca06e996678ebc48723fba1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110030000 -0300" channel="PARAMOUNT+ 01">
     <title lang="pt">Libertadores e Sulamericana</title>
@@ -33072,15 +32996,6 @@
     <title lang="pt">UFC 334: Gane x Hokit - ao vivo</title>
     <desc lang="pt">O UFC 334: Gane x Hokit acontecerá no sábado, 14 de novembro de 2026, no lendário Madison Square Garden, em Nova York, Estados Unidos.</desc>
   </programme>
-  <programme start="20261110214500 -0300" stop="20261110230000 -0300" channel="PLAY TV">
-    <title lang="pt">Operação Zenkai</title>
-    <category lang="pt">Entretenimento</category>
-    <desc lang="pt">Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F98%2F22986813_1b7709b29b0283edef8a97afcb538ac9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="PLAY TV">
     <title lang="pt">1001 Noites</title>
     <category lang="pt">Séries</category>
@@ -33577,15 +33492,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F85%2F11859166_CE4DC88F81BF32D1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110224300 -0300" stop="20261110231100 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">Flamengo x Grêmio - Campeonato Brasileiro : Flamengo x Grêmio</title>
-    <category lang="pt">Futebol</category>
-    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
-    <rating system="Brazil">
-      <value>SC</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570957_c7330d0a676580ce2b7e0d2b7c8f18da.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110231100 -0300" stop="20261110234100 -0300" channel="PREMIERE CLUBES">
     <title lang="pt">Athletico-PR x Vasco - Campeonato Brasileiro : Athletico-PR x Vasco</title>
     <category lang="pt">Futebol</category>
@@ -33684,6 +33590,15 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F58%2F28589167_4b180427f045f952fdee953cce48ee74.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="PREMIERE CLUBES">
+    <title lang="pt">São Paulo x Corinthians - Campeonato Brasileiro : São Paulo x Corinthians</title>
+    <category lang="pt">Futebol</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F56%2F28567571_f8cd344bc1a41b5d229aa74ca658d5f4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110220000 -0300" stop="20261110232500 -0300" channel="PRIME BOX BRASIL">
     <title lang="pt">Inconscientes Revelados</title>
@@ -33901,14 +33816,41 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F72%2F23723123_57630b0d423c77b035783e94e6759f69.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="RECORD NEWS">
-    <title lang="pt">Mulheres Positivas</title>
-    <category lang="pt">Notícias, Negócios</category>
-    <desc lang="pt">Histórias de mulheres inspiradoras que se destacam em suas áreas de atuação.</desc>
+  <programme start="20261111045000 -0300" stop="20261111045500 -0300" channel="PRIME BOX BRASIL">
+    <title lang="pt">Box Brazil Play News</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">O mundo do audiovisual brasileiro e suas curiosidades e bastidores.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F40%2F23409034_8adc267c5df38cacb86f67b9157546d8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F14%2F23148947_c0a687ee5fac82930bec73e89cc8d06c.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045500 -0300" stop="20261111045700 -0300" channel="PRIME BOX BRASIL">
+    <title lang="pt">Bastidores Prime</title>
+    <category lang="pt">Especial, Entretenimento</category>
+    <desc lang="pt">As luzes se voltam para o que acontece além das gravações neste programa de bastidores.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F15%2F44%2F15447987_D9A6104D1A26DA50.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045700 -0300" stop="20261111050000 -0300" channel="PRIME BOX BRASIL">
+    <title lang="pt">Em Cartaz</title>
+    <category lang="pt">Entretenimento</category>
+    <desc lang="pt">Fique por dentro das grandes estreias do cinema nacional e internacional.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F83%2F11832732_5D2591FB88AC868D.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111052100 -0300" channel="PRIME BOX BRASIL">
+    <title lang="pt">Fragmentos ao Vento: 1945</title>
+    <category lang="pt">Drama, Histórico</category>
+    <desc lang="pt">Senhorinha é uma mulher negra que vive em uma colônia alemã no sul do Brasil em 1945. No meio de uma ditadura que persegue qualquer um que não fala português, ela tenta sobreviver na tensão entre soldados repressores e imigrantes marginalizados.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F23%2F22231159_fb7358bb9f7614f164cdc93ff35bc273.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="RECORD NEWS">
     <title lang="pt">Aldeia News</title>
@@ -34838,15 +34780,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="REDE VIDA">
-    <title lang="pt">Kerigma</title>
-    <category lang="pt">Religioso, Reportagem</category>
-    <desc lang="pt">Um resumo geral que mostra as ações e notícias da Igreja ao redor do mundo. O público pode acompanhar a visão oficial do Vaticano e o anúncio de seus ensinamentos sobre o cristianismo.</desc>
-    <rating system="Brazil">
-      <value>SC</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11861103_4290C4CC22EE0605.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="REDE VIDA">
     <title lang="pt">JCTV</title>
     <category lang="pt">Religioso, Reportagem</category>
@@ -34955,6 +34888,24 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F85%2F11855552_9F1089C3DE6AA981.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111045000 -0300" stop="20261111050000 -0300" channel="REDE VIDA">
+    <title lang="pt">Meditação da Palavra</title>
+    <category lang="pt">Religioso</category>
+    <desc lang="pt">Meditação sobre a palavra do Senhor com o Frei Gilson.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F43%2F21435133_9F7FA3D884A80BC2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="REDE VIDA">
+    <title lang="pt">Juntos com São Miguel</title>
+    <category lang="pt">Religioso</category>
+    <desc lang="pt">Um encontro de oração, esperança e fortalecimento da fé para acompanhar quem está acordado nas primeiras horas do dia.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F25%2F08%2F25089591_cb7b199ff1d2f0c505bd517a3437fead.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110223000 -0300" stop="20261111003000 -0300" channel="REDETV!">
     <title lang="pt">Cuiabá x Chapada FC - Copa da Federação Mato-Grossense : Cuiabá x Chapada FC</title>
     <category lang="pt">Futebol</category>
@@ -34990,14 +34941,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F85%2F11856844_3D37FCE4A3CE0668.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="SABOR E ARTE">
-    <title lang="pt">Dose Dupla</title>
-    <category lang="pt">Culinária, Talk Show</category>
-    <desc lang="pt">Talk-show fala sobre gastronomia, cultura, arte e comportamento.</desc>
+  <programme start="20261111050000 -0300" stop="20261111083000 -0300" channel="REDETV!">
+    <title lang="pt">Igreja Internacional da Graça de Deus</title>
+    <category lang="pt">Religioso</category>
+    <desc lang="pt">Acompanhe a programação da Igreja Universal da Graça de Deus.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F50%2F23503035_343decbb13de93d4701b046b73e421f1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F77%2F11776158_7A0F0CFE48794BAE.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110234500 -0300" channel="SABOR E ARTE">
     <title lang="pt">Adega Sabor &amp; Arte : Hernane</title>
@@ -35107,6 +35058,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F50%2F23503035_343decbb13de93d4701b046b73e421f1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111050000 -0300" stop="20261111054500 -0300" channel="SABOR E ARTE">
+    <title lang="pt">Adega Sabor &amp; Arte : Hernane</title>
+    <category lang="pt">Culinária</category>
+    <desc lang="pt">Apresentadores e influenciadores trazem informação e entretenimento de alto nível sobre vinhos.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F16%2F42%2F16428526_5B87D727CB9D5288.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110220000 -0300" stop="20261110231500 -0300" channel="SBT">
     <title lang="pt">Programa do Ratinho</title>
     <category lang="pt">Entretenimento</category>
@@ -35152,15 +35112,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F77%2F21779011_B8C33D4ADBAF34E4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110203000 -0300" stop="20261110230000 -0300" channel="SBT NEWS">
-    <title lang="pt">News Noite</title>
-    <category lang="pt">Reportagem</category>
-    <desc lang="pt">Balanço analítico dos principais acontecimentos do dia na política e na economia.</desc>
-    <rating system="Brazil">
-      <value>SC</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F16%2F23161649_ab2168301e9176614ead0888d385e1e3.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="SBT NEWS">
     <title lang="pt">SBT Brasil</title>
     <category lang="pt">Reportagem</category>
@@ -35187,15 +35138,6 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F77%2F21779011_B8C33D4ADBAF34E4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="SONY CHANNEL">
-    <title lang="pt">Shark Tank Brasil - Negociando com Tubarões</title>
-    <category lang="pt">Notícias, Reality Show, Negócios</category>
-    <desc lang="pt">Empreendedores apresentam ideias inovadoras sobre viagens, maternidade, ensino de música e bem-estar do sono em negociações com grandes investidores.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F50%2F28506740_947a3574db8ea1f532cf4e535c9af14d.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110235000 -0300" channel="SONY CHANNEL">
     <title lang="pt">Shaking the Bar : Eles Precisam Reposicionar uma...</title>
@@ -35269,14 +35211,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571005_78d303267685615e12307b10cd5a3362.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110221400 -0300" stop="20261110230000 -0300" channel="SPACE">
-    <title lang="pt">CSI Investigação Criminal : Até que a Morte...</title>
-    <category lang="pt">Ação, Drama, Policial</category>
-    <desc lang="pt">A equipe CSI investiga o assassinato de um advogado rico, morto no casamento de seu filho, mas o caso fica comprometido quando o carro de Nick é roubado juntamente com todas as provas do crime.</desc>
+  <programme start="20261111051000 -0300" stop="20261111060000 -0300" channel="SONY CHANNEL">
+    <title lang="pt">The Night Shift : Blood Brothers</title>
+    <category lang="pt">Outros, Ação, Drama</category>
+    <desc lang="pt">TC e Topher tratam do único sobrevivente de um acidente de avião enquanto tentam evitar um intimidante oficial da lei; Paul fica encantado com uma dançarina exótica machucada; Krista tenta ajudar uma adolescente com transtorno alimentar.</desc>
     <rating system="Brazil">
       <value>14</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571102_b155f57b7009bbf3378914fdd3135dfc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577536_af3c10d8b470833e2ff684b07e300b18.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110232500 -0300" channel="SPACE">
     <title lang="pt">Operação Fronteira - Brasil : Tanque Cheio</title>
@@ -35359,6 +35301,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571032_ac895a4962f0d869a5eb55ffdb4c26cc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111045200 -0300" stop="20261111053600 -0300" channel="SPACE">
+    <title lang="pt">CSI: Miami : Reação em Cadeia</title>
+    <category lang="pt">Ação, Drama, Policial</category>
+    <desc lang="pt">A investigação do assassinato de uma modelo envia Horácio de volta à prisão, onde ele precisa trabalhar com um ex-inimigo para limpar o nome de seu filho.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577209_b82ee93a7cbaef2acfc175649d04e694.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110223500 -0300" stop="20261110233000 -0300" channel="SPORTV">
     <title lang="pt">Vasco x Palmeiras - Copa do Brasil : Vasco x Palmeiras</title>
     <category lang="pt">Futebol</category>
@@ -35431,14 +35382,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570957_c7330d0a676580ce2b7e0d2b7c8f18da.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110204000 -0300" stop="20261110231000 -0300" channel="SPORTV 2">
-    <title lang="pt">Norde Vôlei x Cruzeiro - Superliga Masculina de Vôlei : Norde Vôlei x Cruzeiro</title>
-    <category lang="pt">Vôlei</category>
-    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="SPORTV">
+    <title lang="pt">Botafogo x Atlético-MG - Campeonato Brasileiro : Botafogo x Atlético-MG</title>
+    <category lang="pt">Futebol</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
     <rating system="Brazil">
       <value>SC</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620248_5de463a887f27ddab6217d93718bed50.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F56%2F28567570_9c4b23fd3084603b74e808dee03cd3de.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231000 -0300" stop="20261111010000 -0300" channel="SPORTV 2">
     <title lang="pt">Sesi Bauru x Pinheiros - Superliga Feminina de Vôlei : Sesi Bauru x Pinheiros</title>
@@ -35466,6 +35417,15 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620189_0579d64518030f451d03cbdcd2f609ea.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111070000 -0300" channel="SPORTV 2">
+    <title lang="pt">Campinas x Sesi Bauru - Superliga Masculina de Vôlei : Campinas x Sesi Bauru</title>
+    <category lang="pt">Vôlei</category>
+    <desc lang="pt">Todas as emoções da principal competição de vôlei masculino entre equipes brasileiras.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620506_50ce97eceabe65fef81f98b003f9768b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110223000 -0300" stop="20261110233000 -0300" channel="SPORTV 3">
     <title lang="pt">Na Ponta dos Dedos</title>
@@ -35511,6 +35471,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F23%2F17239836_3FF9C36600D387A1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111045500 -0300" stop="20261111070000 -0300" channel="SPORTV 3">
+    <title lang="pt">Fórmula 1 - GP de Singapura : GP de Singapura</title>
+    <category lang="pt">Corrida</category>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F12%2F22123595_cd3bbe969660ee6479460b2090362108.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110030000 -0300" channel="SPORTYNET 1">
     <title lang="pt">Programação Esportiva</title>
@@ -36040,14 +36009,6 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F56%2F28562845_9dbda604a360641f0f7bcab79598a1bd.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110223000 -0300" stop="20261110231800 -0300" channel="TBS">
-    <title lang="pt">Será Isso Amor?</title>
-    <category lang="pt">Séries/Drama</category>
-    <desc lang="pt">Serkan e Eda explicam às suas famílias como é seu relacionamento, mas Ayfer e Aydan têm algumas condições a respeito.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
   </programme>
   <programme start="20261110231800 -0300" stop="20261111000700 -0300" channel="TBS">
     <title lang="pt">Iludida</title>
@@ -38669,6 +38630,15 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F79%2F23791862_65b982172e8512335191d08af2dafda6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111045500 -0300" stop="20261111053000 -0300" channel="TCM">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Entretenimento, Talk Show</category>
+    <desc lang="pt">Entrevistas com celebridades.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11861047_8A0645108E725866.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110220000 -0300" stop="20261110234500 -0300" channel="TELECINE ACTION">
     <title lang="pt">57 Segundos</title>
     <category lang="pt">Ação, Suspense</category>
@@ -38704,6 +38674,15 @@
       <value>16</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F49%2F19496023_B0F2FDDB07C725C2.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111071000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Máquina Mortífera</title>
+    <category lang="pt">Ação, Suspense</category>
+    <desc lang="pt">Após perder a esposa, o detetive Martin Riggs torna-se temerário e suicida. Transferido, entra em conflito com Roger Murtaugh, veterano do departamento. Juntos, descobrem um cartel de drogas e formam um vínculo em situações perigosas.</desc>
+    <rating system="Brazil">
+      <value>16</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F94%2F23946776_9e94cf1614093d40a863c02302205ea4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110220000 -0300" stop="20261111000000 -0300" channel="TELECINE CULT">
     <title lang="pt">O Demolidor</title>
@@ -38812,6 +38791,15 @@
       <value>18</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577458_8b134ee94977a1e52982e79d6cb555da.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111061500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Aurora</title>
+    <category lang="pt">Terror</category>
+    <desc lang="pt">Durante uma visita a um imóvel, um jovem casal (Carolina Dieckmann e Humberto Carrão) e uma corretora (Marjorie Estiano) veem a casa ser invadida por um idoso e sua neta, que pedem ajuda, alegando estar em perigo.</desc>
+    <rating system="Brazil">
+      <value>16</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577412_42dc2aee483d71a76e3d8eca9abcf053.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110220000 -0300" stop="20261111001500 -0300" channel="TELECINE PREMIUM">
     <title lang="pt">Velozes e Furiosos 8</title>
@@ -38948,14 +38936,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F25%2F23259255_4346e18dcc74e6f5db34a96ee8f5af5b.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110224000 -0300" stop="20261110230800 -0300" channel="TLC">
-    <title lang="pt">Mapa do Pop : Os Filmes da Capital Americana</title>
-    <category lang="pt">Entretenimento, Turismo</category>
-    <desc lang="pt">Carol Ribeiro mostra o poder e a beleza de Washington D.C., capital dos Estados Unidos e cidade que se tornou cenário de muitos filmes que atravessam gerações, como &quot;Independence Day&quot;, &quot;Forrest Gump&quot; e &quot;Uma Noite no Museu&quot;.</desc>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="TERRA VIVA">
+    <title lang="pt">Fish TV</title>
+    <category lang="pt">Ao ar livre</category>
+    <desc lang="pt">Conteúdos especiais voltados para o turismo rural, a pesca esportiva e a produção no campo.</desc>
     <rating system="Brazil">
-      <value>12</value>
+      <value>SC</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F27%2F04%2F27042584_e145417859554d38b9cdbb5190efe341.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F36%2F28368860_3da4436c58badf73bb11ca92a1f215ea.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230800 -0300" stop="20261110233200 -0300" channel="TLC">
     <title lang="pt">Passeio Completo : Alentejo</title>
@@ -39038,23 +39026,23 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F32%2F28321627_fc7b023e0cc1bd41406854ce112ad3a4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110210100 -0300" stop="20261110225000 -0300" channel="TNT">
-    <title lang="pt">Rampage - Destruição Total</title>
-    <category lang="pt">Ação, Aventura</category>
-    <desc lang="pt">Davis Okoye vive cuidando de George, um gorila muito inteligente. Quando um experimento genético faz os animais se transformarem em monstros que destroem tudo em seu caminho, Okoye precisa impedir que seu amigo provoque uma catástrofe global.</desc>
+  <programme start="20261111045200 -0300" stop="20261111051400 -0300" channel="TLC">
+    <title lang="pt">Eu Não Sabia que Estava Grávida : Bebê a Bordo</title>
+    <category lang="pt">Outros, Reality Show</category>
+    <desc lang="pt">Durante um fim de semana, uma mulher sofre com uma cólica abdominal terrível e está longe da costa, no barco do seu namorado.</desc>
     <rating system="Brazil">
-      <value>14</value>
+      <value>12</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577270_fbda2866e5a334d23efe6f1641446a71.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F36%2F28365927_3bb4bf55f54f39a978d1f1aa838d1292.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110225000 -0300" stop="20261110231300 -0300" channel="TNT">
-    <title lang="pt">Todo Mundo Odeia o Chris : Piloto</title>
-    <category lang="pt">Sitcom</category>
-    <desc lang="pt">A família Rock se muda para Bed-Stuy, um distrito nova-iorquino do Brooklyn; Chris é matriculado em uma escola de maioria branca, onde conhece seu novo melhor amigo, Greg, e passa a ser constantemente atormentado pelo valentão da escola, Joey.</desc>
+  <programme start="20261111051400 -0300" stop="20261111060000 -0300" channel="TLC">
+    <title lang="pt">O Vestido Ideal : Você Foi de Barra de Chocolate para Caviar</title>
+    <category lang="pt">Moda, Reality Show</category>
+    <desc lang="pt">Kerry quer estar uma delícia no dia de seu casamento, mas seu grupo fica querendo roubar o show; Gretchen precisa de um vestido que suas quatro irmãs amem; Alex volta para a prova, mas não sabe se fez a escolha certa.</desc>
     <rating system="Brazil">
-      <value>10</value>
+      <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F66%2F23667619_631ef11cdc79b7f505c4f6f626791017.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620138_e20e3533e3c32f48952fd3e087cf51e6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231300 -0300" stop="20261110233500 -0300" channel="TNT">
     <title lang="pt">Todo Mundo Odeia o Chris : Todo Mundo Odeia Linguiça</title>
@@ -39138,6 +39126,15 @@
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F40%2F28406972_69dd6da0c8b96c58b557366aeb0ebeda.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261111042500 -0300" stop="20261111050000 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Entretenimento, Talk Show</category>
+    <desc lang="pt">Entrevistas com celebridades.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F86%2F11861047_8A0645108E725866.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111053500 -0300" channel="TNT">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Entretenimento, Talk Show</category>
     <desc lang="pt">Entrevistas com celebridades.</desc>
@@ -39299,32 +39296,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571216_250c350dcc3cd0144ca94bef597ba97f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223500 -0300" stop="20261110224600 -0300" channel="TOONCAST">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">Pasteur se concentra na invenção de bebidas de frutas.</desc>
+  <programme start="20261111050800 -0300" stop="20261111055100 -0300" channel="TNT SERIES">
+    <title lang="pt">Law &amp; Order: Special Victims Unit : Rage</title>
+    <category lang="pt">Ação, Drama, Policial</category>
+    <desc lang="pt">Stabler se esforça para manter suas emoções sob controle quando ele interroga um homem, Gordon Rickett, suspeito no assassinato de uma adolescente. Um homem que ele anteriormente deixou escapar por acusações semelhantes.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>14</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F21%2F13%2F21135985_C3E801BD5C313EAC.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110224600 -0300" stop="20261110225900 -0300" channel="TOONCAST">
-    <title lang="pt">Esquadrão do Tempo</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">Alfred Nobel quer premiar os grandes malfeitores.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F45%2F28457686_55eacebdaa6a80d2f67432e4787678f9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
-  <programme start="20261110225900 -0300" stop="20261110231100 -0300" channel="TOONCAST">
-    <title lang="pt">As Trapalhadas de Flapjack : Willy</title>
-    <category lang="pt">Aventura, Animação, Infantil</category>
-    <desc lang="pt">Flapjack tem que capturar Willy-Oito-Braços para provar ser um aventureiro de verdade.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F45%2F28457666_0d02611b29ddba5165452be9c74400b8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F84%2F23842205_9c8e78f81ffadb65631f04d855e8ddf8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231100 -0300" stop="20261110232300 -0300" channel="TOONCAST">
     <title lang="pt">As Trapalhadas de Flapjack : Cuidem da Loja, Mas Não Olhem na Gaveta</title>
@@ -39515,14 +39494,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F89%2F23891226_e7ff3e6fe7fabf5593f855632498c681.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="TV APARECIDA">
-    <title lang="pt">Aparecida Debate</title>
-    <category lang="pt">Relações Públicas, Talk Show, Social</category>
-    <desc lang="pt">O programa traz discussões de temas atuais com a participação de especialistas. São abordados assuntos relacionados a política, economia, sociedade, comportamento, entre outros, para deixar o telespectador bem informado.</desc>
+  <programme start="20261111050100 -0300" stop="20261111052300 -0300" channel="TOONCAST">
+    <title lang="pt">ThunderCats</title>
+    <category lang="pt">Aventura, Animação, Ação</category>
+    <desc lang="pt">Chacal monta seu próprio exército e rouba as armas dos mutantes.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>10</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F12%2F88%2F12880602_A479A20E7AB6CF81.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28620576_899a0a6fcdfe6ed4da575f6d435db406.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110231500 -0300" channel="TV APARECIDA">
     <title lang="pt">Devotos Mirins Show</title>
@@ -39586,14 +39565,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F84%2F20844394_9C3DA7C327A7968F.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="TV BRASIL">
-    <title lang="pt">Economia e Futuro : Inovação em Saúde</title>
-    <category lang="pt">Notícias, Negócios</category>
-    <desc lang="pt">Luciana Barreto recebe o presidente do BNDES, Aloizio Mercadante, e o médico psiquiatra Jorge Alberto Costa e Silva para discutir como ciência, pesquisa, indústria e inovação estão fortalecendo a capacidade brasileira de desenvolver vacinas.</desc>
+  <programme start="20261111050000 -0300" stop="20261111060000 -0300" channel="TV APARECIDA">
+    <title lang="pt">Ciência sem Limites</title>
+    <category lang="pt">Tecnologia, Relações Públicas, Social</category>
+    <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F24%2F74%2F24746826_971a6426df537437b448889aa61f10ab.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F19%2F38%2F19383585_31A5E5B470A99CC0.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="TV BRASIL">
     <title lang="pt">Como Nascem os Heróis : Bárbara de Alencar (1766-1832)</title>
@@ -39649,13 +39628,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F62%2F28629957_7c42962163507a512fa4e0e8c25a5012.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Economia e Futuro</title>
-    <category lang="pt">Variedades/Diversos</category>
-    <desc lang="pt">O mundo corre contra o tempo para enfrentar as mudanças climáticas, reduzir as emissões de gases de efeito estufa e frear o aquecimento global.</desc>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="TV BRASIL">
+    <title lang="pt">Faróis do Brasil : Farol Garcia D&#x27;Ávila</title>
+    <category lang="pt">Séries</category>
+    <desc lang="pt">Desde o século XX, o farol localizado na paradisíaca Praia do Forte, no litoral norte baiano, orienta os barcos que chegam nessa bela e perigosa região, repleta de recifes que podem prejudicar a navegação.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F95%2F23955752_83ac25b62c4b8fb05b1842136e6935bc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="TV BRASIL 2">
     <title lang="pt">Como Nascem os Heróis</title>
@@ -54276,11 +54256,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="TV JUSTICA">
-    <title lang="pt">Hora Extra</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-    <desc lang="pt">Em cada edição, reportagens enfocam a Justiça do Trabalho, bem como direitos dos empregados e empregadores.</desc>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="TV JUSTICA">
     <title lang="pt">Via Justiça</title>
     <category lang="pt">Variedades/Debate</category>
@@ -58293,15 +58268,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110220000 -0300" stop="20261110230000 -0300" channel="TV RA-TIM-BUM">
-    <title lang="pt">Teatro Rá Tim Bum : O Tesouro do Balacobaco</title>
-    <category lang="pt">Aventura, Infantil</category>
-    <desc lang="pt">Peças de histórias infantis como Rapunzel e Os Três Porquinhos, que levam o teatro até a casa do telespectador.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F27%2F86%2F27863000_fa1d3b831db5be360cc059e305731861.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110230000 -0300" stop="20261111003000 -0300" channel="TV RA-TIM-BUM">
     <title lang="pt">Era uma Vez no Quintal : O Avesso do Avessus</title>
     <category lang="pt">Comédia, Infantil</category>
@@ -58526,6 +58492,15 @@
       <value>L</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F14%2F20%2F14207993_A9D14EBB744195DD.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111053000 -0300" channel="TV RA-TIM-BUM">
+    <title lang="pt">Cocoricó : Um, Dois, Três e... Jáááááá</title>
+    <category lang="pt">Aventura, Educativo, Infantil</category>
+    <desc lang="pt">Após brincar com a bola, Júlio ensina algumas modalidades de esporte praticadas sem bola. O último deles é uma corrida. Dito e Feito saem para procurar a bola que foi perdida por Júlio.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F36%2F28365346_823d1d9af70956f69ddb90e81f1cce91.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110000000 -0300" stop="20261110003000 -0300" channel="TV REDE GOSPEL">
     <title lang="pt">Live Bispa Fernanda Hernandes</title>
@@ -61658,15 +61633,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110222000 -0300" stop="20261110231000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Law &amp; Order : A Cruel Brincadeira do Destino</title>
-    <category lang="pt">Drama, Policial, Mistério</category>
-    <desc lang="pt">Após o corpo de uma mulher ser encontrado dentro de uma mala, Price e Maroun discordam sobre as acusações que devem ser feitas contra o principal suspeito.</desc>
-    <rating system="Brazil">
-      <value>14</value>
-    </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577517_a41d7f84266712db19858a2ac61eabd6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
-  </programme>
   <programme start="20261110231000 -0300" stop="20261111000000 -0300" channel="UNIVERSAL CHANNEL">
     <title lang="pt">Law &amp; Order: Organized Crime : Casaca Vermelha</title>
     <category lang="pt">Ação, Drama, Policial</category>
@@ -61729,6 +61695,15 @@
       <value>14</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571021_84054fc3b07a9d64f435e40643ef33c5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050500 -0300" stop="20261111060000 -0300" channel="UNIVERSAL CHANNEL">
+    <title lang="pt">Law &amp; Order: Special Victims Unit : Impostor</title>
+    <category lang="pt">Ação, Drama, Policial</category>
+    <desc lang="pt">Homem usa identidade falsa para levar mulher casada para cama. Barba acredita que as evidências apontam para estupro.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577410_1bb292be407f22ac334c6ea4f2246b04.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110222000 -0300" stop="20261110231500 -0300" channel="UNIVERSAL PREMIERE">
     <title lang="pt">Barras Invisíveis : Sambando na Cara Deles</title>
@@ -61919,14 +61894,23 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570735_8f5006b480325cf7ff776b7b3718b63f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110222000 -0300" stop="20261110231000 -0300" channel="UNIVERSAL TV">
-    <title lang="pt">Law &amp; Order : A Cruel Brincadeira do Destino</title>
-    <category lang="pt">Drama, Policial, Mistério</category>
-    <desc lang="pt">Após o corpo de uma mulher ser encontrado dentro de uma mala, Price e Maroun discordam sobre as acusações que devem ser feitas contra o principal suspeito.</desc>
+  <programme start="20261111045500 -0300" stop="20261111051500 -0300" channel="UNIVERSAL REALITY">
+    <title lang="pt">Chrisley Knows Best : Arruinando o Natal</title>
+    <category lang="pt">Entretenimento, Comédia, Reality Show</category>
+    <desc lang="pt">Neste Natal, os Chrisley precisam que um milagre aconteça depois que o comportamento de Todd ameaça arruinar o grande dia.</desc>
     <rating system="Brazil">
       <value>14</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577517_a41d7f84266712db19858a2ac61eabd6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577212_b14e3803c6d7c9de9a261d7f211c7852.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111054000 -0300" channel="UNIVERSAL REALITY">
+    <title lang="pt">Chrisley Knows Best : Churrasco em 4 de Julho</title>
+    <category lang="pt">Entretenimento, Comédia, Reality Show</category>
+    <desc lang="pt">Todd ofende Faye durante um concurso de jardinagem; Chase desempenha seu melhor papel como mestre da grelha para o churrasco de 4 de julho.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577239_34eca878c590afb0f32ea7f4342705f6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231000 -0300" stop="20261111000000 -0300" channel="UNIVERSAL TV">
     <title lang="pt">Law &amp; Order: Organized Crime : Casaca Vermelha</title>
@@ -61991,14 +61975,14 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571021_84054fc3b07a9d64f435e40643ef33c5.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110222000 -0300" stop="20261110231000 -0300" channel="USA">
-    <title lang="pt">Blue Bloods : O Poder da Imprensa</title>
+  <programme start="20261111050500 -0300" stop="20261111060000 -0300" channel="UNIVERSAL TV">
+    <title lang="pt">Law &amp; Order: Special Victims Unit : Impostor</title>
     <category lang="pt">Ação, Drama, Policial</category>
-    <desc lang="pt">Frank tem que enfrentar a reação negativa da população depois que a câmera de um policial falha por causa de uma discussão com um civil; Danny e Baez lutam para proteger um informante que foi retirado do programa de proteção à testemunha.</desc>
+    <desc lang="pt">Homem usa identidade falsa para levar mulher casada para cama. Barba acredita que as evidências apontam para estupro.</desc>
     <rating system="Brazil">
       <value>14</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577342_e7d68b9345e8341dfee2203ca290959a.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577410_1bb292be407f22ac334c6ea4f2246b04.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110231000 -0300" stop="20261111000000 -0300" channel="USA">
     <title lang="pt">Blue Bloods : Sob Pressão</title>
@@ -62043,6 +62027,15 @@
       <value>14</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571200_c35cb51071f34613becc94a1e84cbd97.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111060000 -0300" channel="USA">
+    <title lang="pt">The Rookie : Madrinho de Casamento</title>
+    <category lang="pt">Ação, Drama, Policial</category>
+    <desc lang="pt">Harper e Nolan chegam em um banco que está sendo assaltado e percebem que os motivos do ladrão são muito mais profundos do que apenas precisar de dinheiro.</desc>
+    <rating system="Brazil">
+      <value>14</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571305_d290f7fdd625219600aa226c8128a389.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110224000 -0300" stop="20261110234400 -0300" channel="VIVA">
     <title lang="pt">Amor À Vida</title>
@@ -65248,14 +65241,23 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571044_6275d9ee9e905f35642f4d2f52566ed8.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261110230000 -0300" channel="WOOHOO">
-    <title lang="pt">Som na Lata</title>
-    <category lang="pt">Entretenimento, Musica</category>
-    <desc lang="pt">Acústicos com novos talentos da cena musical nacional. Um ponto de encontro essencial para artistas que buscam visibilidade e para aqueles ávidos não apenas pela música, mas pela diversidade e inovação no cenário artístico contemporâneo.</desc>
+  <programme start="20261111045400 -0300" stop="20261111051400 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">The Big Bang Theory : The Graduation Transmission</title>
+    <category lang="pt">Sitcom</category>
+    <desc lang="pt">A boa vida de Raj é ameaçada quando ele é excluído do testamento da família; um cancelamento de voo quase impede Leonard de dar um discurso no seu ex-colégio.</desc>
     <rating system="Brazil">
-      <value>L</value>
+      <value>12</value>
     </rating>
-    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F25%2F18250779_3F0C21E9A41504CC.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28570916_127c26ecba476446221f47d8dc7f66b4.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051400 -0300" stop="20261111053600 -0300" channel="WARNER CHANNEL">
+    <title lang="pt">2 Broke Girls : And the Pastry Porn</title>
+    <category lang="pt">Sitcom</category>
+    <desc lang="pt">Max decide se matricular em uma escola de culinária de Manhattan e prepara uma torta na prova inicial.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571316_9f418f0a86d2a92ce4ec9c19ecf929ed.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
   <programme start="20261110230000 -0300" stop="20261111030000 -0300" channel="WOOHOO">
     <title lang="pt">1001 Noites</title>
@@ -65365,6 +65367,33 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F58%2F18585238_0B0151E023BCE28F.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
+  <programme start="20261111045000 -0300" stop="20261111050000 -0300" channel="WOOHOO">
+    <title lang="pt">Projeto Califa</title>
+    <category lang="pt">Séries</category>
+    <desc lang="pt">Boletim sobre os melhores picos de surfe da Califórnia.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F18%2F70%2F18709805_0D4E3D27A9DC3DB6.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111051500 -0300" channel="WOOHOO">
+    <title lang="pt">Woohoo Music</title>
+    <category lang="pt">Musica</category>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F20%2F45%2F20452429_30F0367A79031D3D.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111051500 -0300" stop="20261111053000 -0300" channel="WOOHOO">
+    <title lang="pt">Onboarding Tribos</title>
+    <category lang="pt">Séries</category>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+    <rating system="Brazil">
+      <value>12</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F11%2F98%2F11985120_6682EA477B678FF9.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
   <programme start="20261110221500 -0300" stop="20261111000000 -0300" channel="XSPORTS">
     <title lang="pt">Le Mans x Monaco - Campeonato Francês : Le Mans x Monaco</title>
     <category lang="pt">Futebol</category>
@@ -65400,5 +65429,14 @@
       <value>SC</value>
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F61%2F22612372_2c4765abd6009c1a6c293b0fc331ef37.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
+  </programme>
+  <programme start="20261111050000 -0300" stop="20261111070000 -0300" channel="XSPORTS">
+    <title lang="pt">Diamond League - Décima Quarta Etapa: Zurique, Suíça : Décima Quarta Etapa: Zurique, Suíça</title>
+    <category lang="pt">Esporte</category>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+    <rating system="Brazil">
+      <value>SC</value>
+    </rating>
+    <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F88%2F23884109_b0cd552821d512fd2559e2adfb911514.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
 </tv>
