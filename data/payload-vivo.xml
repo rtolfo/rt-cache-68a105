@@ -2004,14 +2004,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F17%2F77%2F17773436_4E75AA96DA2B36CB.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110231000 -0300" stop="20261110233000 -0300" channel="BOA VONTADE">
-    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
-    <category lang="pt">Variedades/Religião</category>
-    <desc lang="pt">Exibe as atividades fraternas da Legião da Boa Vontade, que há mais de 70 anos trabalha por um Brasil melhor e por uma Humanidade mais feliz, educando com Espiritualidade Ecumênica.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20261110233000 -0300" stop="20261110233500 -0300" channel="BOA VONTADE">
     <title lang="pt">Mensagem de Paiva Netto</title>
     <category lang="pt">Variedades/Religião</category>
@@ -20158,7 +20150,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577587_58c4249cb188c4e5d509a1aa7879a884.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110230000 -0300" stop="20261111000000 -0300" channel="FUTURA">
+  <programme start="20261110230100 -0300" stop="20261111000300 -0300" channel="FUTURA">
     <title lang="pt">Amazônia Urbana - Belém Entre Dois Mundos</title>
     <category lang="pt">Documentario</category>
     <desc lang="pt">Histórias, resistências e desigualdades da capital amazônica. Guiado pela voz do rio, documentário expõe a luta periférica por dignidade em Belém, que se prepara para ser palco da COP 30.</desc>
@@ -20167,7 +20159,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F56%2F28562554_bc4615c11ec6abf8b71e8601d65d81e1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111000000 -0300" stop="20261111003000 -0300" channel="FUTURA">
+  <programme start="20261111000300 -0300" stop="20261111003600 -0300" channel="FUTURA">
     <title lang="pt">Mutirão Saúde : João Pedro</title>
     <category lang="pt">Saúde</category>
     <desc lang="pt">João Pedro, 30 anos, publicitário, luta para equilibrar sua saúde física e mental. Com histórico de compulsão e sobrepeso, enfrenta dificuldades em manter uma rotina saudável e estável.</desc>
@@ -20176,7 +20168,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F55%2F28553463_b325db700745243232648511cf42c1c1.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111003000 -0300" stop="20261111004500 -0300" channel="FUTURA">
+  <programme start="20261111003600 -0300" stop="20261111005600 -0300" channel="FUTURA">
     <title lang="pt">Conversas que Inspiram : Diversidade nas Empresas</title>
     <category lang="pt">Educativo</category>
     <desc lang="pt">A importância de dar voz às histórias LGBTQIA+ nas periferias e empresas. Conversas sobre como tornar a sociedade um lugar cada vez mais inclusivo.</desc>
@@ -20185,7 +20177,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F22%2F24%2F22246882_8ab694777b4678fd8c30a97a4e3cf981.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111004500 -0300" stop="20261111011500 -0300" channel="FUTURA">
+  <programme start="20261111005600 -0300" stop="20261111011500 -0300" channel="FUTURA">
     <title lang="pt">Conexão : Especial Abdias do Nascimento</title>
     <category lang="pt">Educativo, Entrevista</category>
     <desc lang="pt">O especial celebra o legado de Abdias do Nascimento, pioneiro na luta pelos direitos dos negros no Brasil. O Conexão destaca sua trajetória como intelectual e político, a criação do Teatro Experimental do Negro e sua luta contra o racismo.</desc>
@@ -20305,27 +20297,43 @@
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
-  <programme start="20261110060000 -0300" stop="20261110110000 -0300" channel="GE TV">
+  <programme start="20261110060000 -0300" stop="20261110070000 -0300" channel="GE TV">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
-  <programme start="20261110110000 -0300" stop="20261110130000 -0300" channel="GE TV">
+  <programme start="20261110070000 -0300" stop="20261110083000 -0300" channel="GE TV">
+    <title lang="pt">Giro Da Rodada - Brasileirão</title>
+    <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
+  </programme>
+  <programme start="20261110083000 -0300" stop="20261110103000 -0300" channel="GE TV">
+    <title lang="pt">Palmeiras x Fluminense</title>
+    <desc lang="pt">Palmeiras e Fluminense jogam a rodada de volta da Semifinal da Libertadores, no Nubank Parque, em São Paulo (SP).</desc>
+  </programme>
+  <programme start="20261110103000 -0300" stop="20261110123000 -0300" channel="GE TV">
     <title lang="pt">Palmeiras x Vasco</title>
     <desc lang="pt">Palmeiras e Vasco jogam a rodada de ida da Semifinal da Copa do Brasil, no Nubank Parque, em São Paulo (SP).</desc>
   </programme>
-  <programme start="20261110130000 -0300" stop="20261110150000 -0300" channel="GE TV">
+  <programme start="20261110123000 -0300" stop="20261110143000 -0300" channel="GE TV">
     <title lang="pt">Vasco x Palmeiras</title>
     <desc lang="pt">Vasco e Palmeiras jogam a rodada de volta da Semifinal da Copa do Brasil, em São Januário, no Rio de Janeiro (RJ).</desc>
   </programme>
+  <programme start="20261110143000 -0300" stop="20261110150000 -0300" channel="GE TV">
+    <title lang="pt">Pré-Hora: Convocação Seleção Feminina - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+  </programme>
   <programme start="20261110150000 -0300" stop="20261110160000 -0300" channel="GE TV">
+    <title lang="pt">Convocação Seleção Feminina - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
+  </programme>
+  <programme start="20261110160000 -0300" stop="20261110163000 -0300" channel="GE TV">
+    <title lang="pt">Pós-Hora: Convocação Seleção Feminina - ao vivo</title>
+    <desc lang="pt">É hora de analisar. Você confere as últimas informações, escalações, análises táticas, destaques individuais e o clima dentro e fora de campo.</desc>
+  </programme>
+  <programme start="20261110163000 -0300" stop="20261110181500 -0300" channel="GE TV">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
-  <programme start="20261110160000 -0300" stop="20261110180000 -0300" channel="GE TV">
-    <title lang="pt">Minas x Monte Carmelo</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-  </programme>
-  <programme start="20261110180000 -0300" stop="20261110183000 -0300" channel="GE TV">
+  <programme start="20261110181500 -0300" stop="20261110183000 -0300" channel="GE TV">
     <title lang="pt">Pré-Jogo: São José x Montes Claros - ao vivo</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
   </programme>
@@ -20337,69 +20345,68 @@
     <title lang="pt">Monte Carmelo x Suzano</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261111010000 -0300" channel="GE TV">
+  <programme start="20261110223000 -0300" stop="20261111013000 -0300" channel="GE TV">
     <title lang="pt">NFL: Cincinnati Bengals x Atlanta Falcons</title>
     <desc lang="pt">Cincinnati Bengals e Atlanta Falcons jogam pela 9ª rodada da fase Regular da NFL, no Bernabéu, em Madrid, Espanha.</desc>
   </programme>
-  <programme start="20261110223000 -0300" stop="20261111010000 -0300" channel="GE TV">
+  <programme start="20261110223000 -0300" stop="20261111013000 -0300" channel="GE TV">
     <title lang="pt">NFL: Cincinnati Bengals x Atlanta Falcons</title>
     <desc lang="pt">Cincinnati Bengals e Atlanta Falcons jogam pela 9ª rodada da fase Regular da NFL, no Bernabéu, em Madrid, Espanha.</desc>
   </programme>
-  <programme start="20261111010000 -0300" stop="20261111033000 -0300" channel="GE TV">
-    <title lang="pt">Suzano Vôlei x Saneago Goiás Vôlei</title>
-    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+  <programme start="20261111013000 -0300" stop="20261111043000 -0300" channel="GE TV">
+    <title lang="pt">NFL: Green Bay Packers x New England Patriots</title>
+    <desc lang="pt">Green Bay Packers e New England Patriots jogam pela 9ª rodada da fase Regular da NFL, no Gillette Stadium, em Foxborough, EUA.</desc>
   </programme>
-  <programme start="20261111033000 -0300" stop="20261111060000 -0300" channel="GE TV">
-    <title lang="pt">NFL: Carolina Panthers x Green Bay Packers</title>
-    <desc lang="pt">Carolina Panthers e Green Bay Packers jogam pela 8ª rodada da fase Regular da NFL, no Lambeau Field, em Green Bay, EUA.</desc>
+  <programme start="20261111043000 -0300" stop="20261111060000 -0300" channel="GE TV">
+    <title lang="pt">Náutico x Avaí</title>
+    <desc lang="pt">É futebol que não acaba, venha conferir mais um jogão do Brasileirão Masculino Série B!</desc>
   </programme>
   <programme start="20261111060000 -0300" stop="20261111070000 -0300" channel="GE TV">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
-  <programme start="20261111070000 -0300" stop="20261111090000 -0300" channel="GE TV">
-    <title lang="pt">Esporte Clube Pinheiros x Brusque Vôlei</title>
+  <programme start="20261111070000 -0300" stop="20261111093000 -0300" channel="GE TV">
+    <title lang="pt">NFL: Green Bay Packers x New England Patriots</title>
+    <desc lang="pt">Green Bay Packers e New England Patriots jogam pela 9ª rodada da fase Regular da NFL, no Gillette Stadium, em Foxborough, EUA.</desc>
+  </programme>
+  <programme start="20261111093000 -0300" stop="20261111113000 -0300" channel="GE TV">
+    <title lang="pt">Paulistano Barueri x Brusque</title>
     <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
   </programme>
-  <programme start="20261111090000 -0300" stop="20261111110000 -0300" channel="GE TV">
-    <title lang="pt">Gerdau Minas x Brasília Vôlei</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-  </programme>
-  <programme start="20261111110000 -0300" stop="20261111130000 -0300" channel="GE TV">
-    <title lang="pt">Paulistano Barueri x Sesi- Bauru</title>
-    <desc lang="pt">Aqui é casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
-  </programme>
-  <programme start="20261111130000 -0300" stop="20261111150000 -0300" channel="GE TV">
-    <title lang="pt">Monte Carmelo x Suzano</title>
+  <programme start="20261111113000 -0300" stop="20261111133000 -0300" channel="GE TV">
+    <title lang="pt">Minas x Monte Carmelo</title>
     <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
   </programme>
-  <programme start="20261111150000 -0300" stop="20261111160000 -0300" channel="GE TV">
+  <programme start="20261111133000 -0300" stop="20261111153000 -0300" channel="GE TV">
+    <title lang="pt">São José x Montes Claros</title>
+    <desc lang="pt">Aqui é a casa do vôlei e aqui você pode ficar a vontade pra acompanhar as grandes estrelas com aquela transmissão que você já conhece! A Superliga tá em casa!</desc>
+  </programme>
+  <programme start="20261111153000 -0300" stop="20261111163000 -0300" channel="GE TV">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
     <desc lang="pt">Assista agora o Giro da Rodada com os destaques dos Campeonatos de Futebol.</desc>
   </programme>
-  <programme start="20261111160000 -0300" stop="20261111180000 -0300" channel="GE TV">
-    <title lang="pt">Vitória x Athletico-PR</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  <programme start="20261111163000 -0300" stop="20261111183000 -0300" channel="GE TV">
+    <title lang="pt">Corinthians x São Paulo</title>
+    <desc lang="pt">Corinthians e São Paulo jogam pelo Campeonato Brasileiro Feminino.</desc>
   </programme>
-  <programme start="20261111180000 -0300" stop="20261111200000 -0300" channel="GE TV">
-    <title lang="pt">Bahia x São Paulo</title>
-    <desc lang="pt">Aqui no Brasileirão tem coisa pra caramba! Tem a qualidade em 4K, tem o Aquecimento com muito pré-jogo e tem o Super Brasileirão de Sábado com os melhores jogos!</desc>
+  <programme start="20261111183000 -0300" stop="20261111203000 -0300" channel="GE TV">
+    <title lang="pt">São Paulo x Corinthians</title>
+    <desc lang="pt">São Paulo e Corinthians jogam a rodada de volta da Finalª fase do Campeonato Brasileiro Feminino, no Morumbis, em São Paulo (SP).</desc>
   </programme>
-  <programme start="20261111200000 -0300" stop="20261111213000 -0300" channel="GE TV">
-    <title lang="pt">Pré-Jogo: São Paulo x Corinthians - ao vivo</title>
-    <desc lang="pt">São Paulo e Corinthians jogam pela 34ª rodada do Segundo Turno do Brasileirão, no Vila Belmiro, em Santos (SP).</desc>
+  <programme start="20261111203000 -0300" stop="20261111213000 -0300" channel="GE TV">
+    <title lang="pt">Copa do Brasil Feminina de Futebol - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
   <programme start="20261111213000 -0300" stop="20261111233000 -0300" channel="GE TV">
-    <title lang="pt">São Paulo x Corinthians - ao vivo</title>
-    <desc lang="pt">São Paulo e Corinthians jogam pela 34ª rodada do Segundo Turno do Brasileirão, no Vila Belmiro, em Santos (SP).</desc>
+    <title lang="pt">Copa do Brasil Feminina de Futebol - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261111233000 -0300" stop="20261112003000 -0300" channel="GE TV">
-    <title lang="pt">Tropa GE TV - ao vivo</title>
-    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+  <programme start="20261111233000 -0300" stop="20261112000000 -0300" channel="GE TV">
+    <title lang="pt">Copa do Brasil Feminina de Futebol - ao vivo</title>
+    <desc lang="pt">Sinopse não disponível.</desc>
   </programme>
-  <programme start="20261111233000 -0300" stop="20261112003000 -0300" channel="GE TV">
-    <title lang="pt">Tropa GE TV - ao vivo</title>
-    <desc lang="pt">O Tropa Ge TV faz o esquenta ao vivo para a rodada do Campeonato Brasileiro com análises, quadros, informação e diversão, trazendo uma abordagem leve e bem-humorada para os jogos da competição.</desc>
+  <programme start="20261112000000 -0300" stop="20261112003000 -0300" channel="GE TV">
+    <title lang="pt">Programação indisponível</title>
   </programme>
   <programme start="20261112003000 -0300" stop="20261112013000 -0300" channel="GE TV">
     <title lang="pt">Giro Da Rodada - Brasileirão</title>
@@ -30072,7 +30079,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571280_1ffe63b0c2c4d5d065296f5b76895bbf.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="MULTISHOW">
+  <programme start="20261110230000 -0300" stop="20261110233100 -0300" channel="MULTISHOW">
     <title lang="pt">Atenção para o Refrão : Paixão</title>
     <category lang="pt">Musica</category>
     <desc lang="pt">No tema Paixão, Sarah Oliveira examina versos e refrões marcantes do cancioneiro popular. A abordagem investiga como o desejo, o arrebatamento amoroso e a intensidade afetiva inspiram compositores a transformar experiências reais em obras musicais.</desc>
@@ -30081,7 +30088,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F64%2F28647096_bd5d921cf7a73d582b5730779b91c87f.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110233000 -0300" stop="20261111003000 -0300" channel="MULTISHOW">
+  <programme start="20261110233100 -0300" stop="20261111003000 -0300" channel="MULTISHOW">
     <title lang="pt">Blogueirinha Entrevista : Gracyanne Barbosa</title>
     <category lang="pt">Entretenimento, Entrevista</category>
     <desc lang="pt">Depois de encarar o desafio no &quot;Dança dos Famosos&quot;, Gracyanne Barbosa conversa com a Blogueirinha. A modelo e influenciadora fitness participa da quinta temporada da série &quot;Arcanjo Renegado&quot; com sua personagem Ketlyn.</desc>
@@ -30117,7 +30124,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28577340_b4bb81ae9400f846f7156ce89073af20.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111020700 -0300" stop="20261111023200 -0300" channel="MULTISHOW">
+  <programme start="20261111020700 -0300" stop="20261111023300 -0300" channel="MULTISHOW">
     <title lang="pt">Chaves : Posso Não Emprestar o que É Meu,...</title>
     <category lang="pt">Sitcom</category>
     <desc lang="pt">As crianças ficam pegando as coisas do Seu Madruga emprestadas, só que sem pedir autorização. Inclusive um spray de barbear, que a Chiquinha usa para fazer tortinhas de merengue.</desc>
@@ -30126,7 +30133,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571285_f969d0e440a16b633204f8a868cd1925.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111023200 -0300" stop="20261111025600 -0300" channel="MULTISHOW">
+  <programme start="20261111023300 -0300" stop="20261111025700 -0300" channel="MULTISHOW">
     <title lang="pt">Chapolin : O Ventrilouco</title>
     <category lang="pt">Aventura, Entretenimento, Infantil</category>
     <desc lang="pt">Chapolin quebrou o boneco de um ventríloquo e, agora, tem que fazer de conta que é o boneco.</desc>
@@ -30135,7 +30142,7 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F28%2F57%2F28571219_b8b0d12419a71aee64c6a153a7b9fe69.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261111025600 -0300" stop="20261111040100 -0300" channel="MULTISHOW">
+  <programme start="20261111025700 -0300" stop="20261111040100 -0300" channel="MULTISHOW">
     <title lang="pt">Blogueirinha Entrevista : Gracyanne Barbosa</title>
     <category lang="pt">Entretenimento, Entrevista</category>
     <desc lang="pt">Depois de encarar o desafio no &quot;Dança dos Famosos&quot;, Gracyanne Barbosa conversa com a Blogueirinha. A modelo e influenciadora fitness participa da quinta temporada da série &quot;Arcanjo Renegado&quot; com sua personagem Ketlyn.</desc>
@@ -39637,14 +39644,6 @@
     </rating>
     <icon src="https://spotlight-br.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.gvp.telefonica.com%2FstorageArea0%2FIMAGES%2F00%2F23%2F95%2F23955752_83ac25b62c4b8fb05b1842136e6935bc.jpg&amp;width=455&amp;height=256&amp;resize=CROP&amp;format=WEBP"/>
   </programme>
-  <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="TV BRASIL 2">
-    <title lang="pt">Como Nascem os Heróis</title>
-    <category lang="pt">Séries/Documentário</category>
-    <desc lang="pt">A série detalha e traz curiosidades sobre como foram forjadas a ascensão de 10 Heróis da Pátria: Getúlio Vargas, Zumbi dos Palmares, Tiradentes, D. Pedro I, Anita Garibaldi, Duque de Caxias, Deodoro da Fonseca.</desc>
-    <rating system="Brazil">
-      <value>12</value>
-    </rating>
-  </programme>
   <programme start="20261110233000 -0300" stop="20261111013000 -0300" channel="TV BRASIL 2">
     <title lang="pt">Sem Censura</title>
     <category lang="pt">Variedades/Debate</category>
@@ -45183,14 +45182,6 @@
     <desc lang="pt">Cissa Guimarães recebe em sua bancada convidados para conversar sobre os mais variados assuntos: serviço, cultura, saúde, educação, economia e tudo que ajude na representatividade e diversidade do país.</desc>
     <rating system="Brazil">
       <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110223000 -0300" stop="20261110233000 -0300" channel="TV CULTURA">
-    <title lang="pt">Provoca</title>
-    <category lang="pt">Variedades/Entrevista</category>
-    <desc lang="pt">Marcelo Tas comanda esta encarnação do programa que idolatra a dúvida, criação de Antônio Abujamra e Gregório Basic.</desc>
-    <rating system="Brazil">
-      <value>10</value>
     </rating>
   </programme>
   <programme start="20261110233000 -0300" stop="20261111000000 -0300" channel="TV CULTURA">
@@ -51658,8 +51649,8 @@
     </rating>
   </programme>
   <programme start="20261110130000 -0300" stop="20261110133000 -0300" channel="TV CÂMARA">
-    <title lang="pt">Propaganda Eleitoral Obrigatória</title>
-    <desc lang="pt">Propaganda Eleitoral Obrigatória.</desc>
+    <title lang="pt">Programação TV Câmara Nacional</title>
+    <desc lang="pt">Programação TV Câmara Nacional.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -51701,8 +51692,8 @@
     </rating>
   </programme>
   <programme start="20261110203000 -0300" stop="20261110210000 -0300" channel="TV CÂMARA">
-    <title lang="pt">Propaganda Eleitoral Obrigatória</title>
-    <desc lang="pt">Propaganda Eleitoral Obrigatória.</desc>
+    <title lang="pt">Programação TV Câmara Nacional</title>
+    <desc lang="pt">Programação TV Câmara Nacional.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -51814,8 +51805,8 @@
     </rating>
   </programme>
   <programme start="20261111130000 -0300" stop="20261111133000 -0300" channel="TV CÂMARA">
-    <title lang="pt">Propaganda Eleitoral Obrigatória</title>
-    <desc lang="pt">Propaganda Eleitoral Obrigatória.</desc>
+    <title lang="pt">Programação TV Câmara Nacional</title>
+    <desc lang="pt">Programação TV Câmara Nacional.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -51850,8 +51841,8 @@
     </rating>
   </programme>
   <programme start="20261111203000 -0300" stop="20261111210000 -0300" channel="TV CÂMARA">
-    <title lang="pt">Propaganda Eleitoral Obrigatória</title>
-    <desc lang="pt">Propaganda Eleitoral Obrigatória.</desc>
+    <title lang="pt">Programação TV Câmara Nacional</title>
+    <desc lang="pt">Programação TV Câmara Nacional.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
@@ -54252,14 +54243,6 @@
   <programme start="20261114200000 -0300" stop="20261115000000 -0300" channel="TV GAZETA SP">
     <title lang="pt">Igreja Universal</title>
     <desc lang="pt">Programa Religioso exibido de segunda à sábado.</desc>
-    <rating system="Brazil">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261110230000 -0300" stop="20261110233000 -0300" channel="TV JUSTICA">
-    <title lang="pt">Via Justiça</title>
-    <category lang="pt">Variedades/Debate</category>
-    <desc lang="pt">A cada programa, um tema de interesse do mundo jurídico e dos cidadãos é selecionado e levado a debate com estudiosos do assunto.</desc>
     <rating system="Brazil">
       <value>L</value>
     </rating>
