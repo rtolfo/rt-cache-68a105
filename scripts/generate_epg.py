@@ -246,11 +246,21 @@ def load_existing_vivo_images():
 
 def preserve_vivo_images(items, existing_images):
     preserved = 0
+    images_by_channel = {}
+    for (channel, title), icon in existing_images.items():
+        images_by_channel.setdefault(channel, []).append((title, icon))
     for item in items:
         if item.get("icon"):
             continue
-        key = (normalize(item.get("channel", "")), normalize(item.get("title", "")))
+        channel = normalize(item.get("channel", ""))
+        title = normalize(item.get("title", ""))
+        key = (channel, title)
         icon = existing_images.get(key)
+        if not icon and len(title) >= 8:
+            for previous_title, previous_icon in images_by_channel.get(channel, []):
+                if title in previous_title or previous_title in title:
+                    icon = previous_icon
+                    break
         if icon:
             item["icon"] = icon
             preserved += 1
