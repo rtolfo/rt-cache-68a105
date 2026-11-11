@@ -40041,14 +40041,6 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110232400 -0300" stop="20261110233500 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Steven Universo</title>
-    <category lang="pt">Séries/Animação</category>
-    <desc lang="pt">Lars finalmente deixa Steven entrar.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
   <programme start="20261110233500 -0300" stop="20261110234700 -0300" channel="CARTOON NETWORK">
     <title lang="pt">Clarêncio, o Otimista</title>
     <category lang="pt">Infantil/Desenho</category>
@@ -126644,14 +126636,6 @@
     <title lang="pt">NFL: Jacksonville Jaguars x Baltimore Ravens</title>
     <desc lang="pt">Jacksonville Jaguars e Baltimore Ravens jogam pela 9ª rodada da fase Regular da NFL, no M&amp;T Bank Stadium, em Baltimore, EUA.</desc>
   </programme>
-  <programme start="20261110224000 -0300" stop="20261110233500 -0300" channel="GLOBO">
-    <title lang="pt">Chef de Alto Nível</title>
-    <category lang="pt">Variedades/Reality Show</category>
-    <desc lang="pt">As cozinhas do porão, meio e topo voltam a ser ocupadas por 24 cozinheiros divididos nas categorias profissional, da internet e amador.</desc>
-    <rating system="Brazil">
-      <value>10</value>
-    </rating>
-  </programme>
   <programme start="20261110233500 -0300" stop="20261111002500 -0300" channel="GLOBO">
     <title lang="pt">Avisa Lá Que Eu Vou</title>
     <category lang="pt">Séries/Diversos</category>
@@ -136006,9 +135990,11 @@
     </rating>
   </programme>
   <programme start="20261110231800 -0300" stop="20261110234000 -0300" channel="GLOOB">
-    <title lang="pt">Programação do Canal</title>
-    <category lang="pt">Infantil/Desenho</category>
-    <desc lang="pt">Sinopse não Disponível.</desc>
+    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
+    <desc lang="pt">Uma cantora americana é akumatizada e se transforma na Cantora. Com seu microfone mágico, ela quer transformar Paris em um grande musical.</desc>
+    <rating system="Brazil">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261110234000 -0300" stop="20261111000300 -0300" channel="GLOOB">
     <title lang="pt">Programação do Canal</title>
@@ -235281,10 +235267,6 @@
     <rating system="Brazil">
       <value>14</value>
     </rating>
-  </programme>
-  <programme start="20261110232900 -0300" stop="20261110233900 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20261110233900 -0300" stop="20261110235000 -0300" channel="TOONCAST">
     <title lang="pt">Baby Looney Tunes</title>
