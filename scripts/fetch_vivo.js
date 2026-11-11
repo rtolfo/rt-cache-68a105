@@ -8,6 +8,7 @@ const output = process.argv[2] || "/tmp/vivo-source.json";
   const browser = await chromium.launch({ channel: "chrome", headless: true });
   const page = await browser.newPage({ locale: "pt-BR" });
   let settled = false;
+  let channelsUrl = "";
   let resolvePayload;
   const payload = new Promise((resolve) => { resolvePayload = resolve; });
 
@@ -18,8 +19,8 @@ const output = process.argv[2] || "/tmp/vivo-source.json";
       const parsed = JSON.parse(body);
       if (!Array.isArray(parsed.channels) || parsed.channels.length < 20) return;
       settled = true;
-      fs.writeFileSync(output, JSON.stringify(parsed));
-      resolvePayload(parsed.channels.length);
+      channelsUrl = response.url();
+      resolvePayload(parsed);
     } catch (_) {
       // The page may issue the request more than once. Keep waiting for a valid response.
     }
@@ -33,10 +34,45 @@ const output = process.argv[2] || "/tmp/vivo-source.json";
   const timeout = new Promise((_, reject) => {
     setTimeout(() => reject(new Error("Vivo EPG request was not captured")), 60000);
   });
-  const count = await Promise.race([payload, timeout]);
-  console.log(`ok Vivo: ${count} canais`);
+  const initial = await Promise.race([payload, timeout]);
+  const candidates = [initial];
+
+  // The Vivo CDN occasionally serves GitHub runners a reduced channel map that
+  // omits Globo SP (HDGLO), even though channelMap=3 is requested. Retry from
+  // the authenticated page context with a unique URL to bypass that CDN entry.
+  for (let attempt = 0; attempt < 3 && !hasChannel(candidates, "HDGLO"); attempt += 1) {
+    try {
+      const separator = channelsUrl.includes("?") ? "&" : "?";
+      const retryUrl = `${channelsUrl}${separator}_apsky=${Date.now()}-${attempt}`;
+      const retried = await page.evaluate(async (url) => {
+        const response = await fetch(url, { cache: "no-store", credentials: "include" });
+        if (!response.ok) throw new Error(`Vivo retry returned ${response.status}`);
+        return response.json();
+      }, retryUrl);
+      if (Array.isArray(retried.channels) && retried.channels.length >= 20) {
+        candidates.push(retried);
+      }
+    } catch (error) {
+      console.warn(`Vivo retry ${attempt + 1} failed: ${error.message}`);
+    }
+  }
+
+  const selected = candidates.sort((a, b) => score(b) - score(a))[0];
+  fs.writeFileSync(output, JSON.stringify(selected));
+  const globo = selected.channels.some((channel) => channel.callLetter === "HDGLO");
+  console.log(`ok Vivo: ${selected.channels.length} canais; HDGLO: ${globo ? "sim" : "nao"}`);
   await browser.close();
 })().catch((error) => {
   console.error(error);
   process.exit(1);
 });
+
+function hasChannel(payloads, callLetter) {
+  return payloads.some((payload) =>
+    payload.channels.some((channel) => channel.callLetter === callLetter));
+}
+
+function score(payload) {
+  const hasGloboSp = payload.channels.some((channel) => channel.callLetter === "HDGLO");
+  return payload.channels.length + (hasGloboSp ? 10000 : 0);
+}
