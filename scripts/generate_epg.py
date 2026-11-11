@@ -223,6 +223,41 @@ def load_vivo_channels():
         return []
 
 
+def load_existing_vivo_images():
+    if not VIVO_OUT_FILE.exists():
+        return {}
+    try:
+        root = ET.parse(VIVO_OUT_FILE).getroot()
+    except Exception as exc:
+        print(f"aviso: nao consegui preservar imagens Vivo: {exc}", file=sys.stderr)
+        return {}
+
+    images = {}
+    for node in root.findall("programme"):
+        title_node = node.find("title")
+        icon_node = node.find("icon")
+        channel = normalize(node.attrib.get("channel", ""))
+        title = normalize(title_node.text if title_node is not None else "")
+        icon = icon_node.attrib.get("src", "") if icon_node is not None else ""
+        if channel and title and icon:
+            images[(channel, title)] = icon
+    return images
+
+
+def preserve_vivo_images(items, existing_images):
+    preserved = 0
+    for item in items:
+        if item.get("icon"):
+            continue
+        key = (normalize(item.get("channel", "")), normalize(item.get("title", "")))
+        icon = existing_images.get(key)
+        if icon:
+            item["icon"] = icon
+            preserved += 1
+    if preserved:
+        print(f"Vivo: {preserved} imagens anteriores preservadas por canal e programa")
+
+
 def vivo_channel_title(channel):
     contents = channel.get("contents") or []
     if contents:
@@ -476,8 +511,10 @@ def main():
     print(f"ok claro+meuguia: {len(channels)} canais, {len(claro_meuguia_items)} programas, {with_desc} com sinopse")
     print(CLARO_MEUGUIA_OUT_FILE)
 
+    existing_vivo_images = load_existing_vivo_images()
     vivo_channels = load_vivo_channels()
     vivo_items = build_vivo_items(channels, all_items, vivo_channels)
+    preserve_vivo_images(vivo_items, existing_vivo_images)
     write_xml(channels, vivo_items, VIVO_OUT_FILE)
     with_images = sum(1 for item in vivo_items if item.get("icon"))
     print(f"ok Vivo: {len(channels)} canais, {len(vivo_items)} programas, {with_images} com imagem")
