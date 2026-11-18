@@ -3,7 +3,13 @@ name: Update data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "37 * * * *"
+    # GitHub schedules can be delayed or skipped. Three staggered attempts keep
+    # the guide current without overlapping runs.
+    - cron: "7,27,47 * * * *"
+
+concurrency:
+  group: update-epg
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -23,7 +29,19 @@ jobs:
       - name: Capture Vivo guide
         run: |
           npm install --no-save playwright
-          node scripts/fetch_vivo.js /tmp/vivo-source.json
+          for attempt in 1 2 3; do
+            if timeout 210 node scripts/fetch_vivo.js /tmp/vivo-source.json; then
+              break
+            fi
+            rm -f /tmp/vivo-source.json
+            if [ "$attempt" = "3" ]; then
+              echo "Vivo guide failed after 3 attempts" >&2
+              exit 1
+            fi
+            sleep $((attempt * 15))
+          done
+
+          test -s /tmp/vivo-source.json
 
       - name: Generate data
         env:

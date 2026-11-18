@@ -26,14 +26,26 @@ const output = process.argv[2] || "/tmp/vivo-source.json";
     }
   });
 
-  await page.goto("https://www.vivotv.com.br/tv-guide/now", {
-    waitUntil: "domcontentloaded",
-    timeout: 60000,
-  });
+  let navigationError = null;
+  for (let attempt = 1; attempt <= 3 && !settled; attempt += 1) {
+    try {
+      await page.goto(`https://www.vivotv.com.br/tv-guide/now?_apsky=${Date.now()}-${attempt}`, {
+        waitUntil: "domcontentloaded",
+        timeout: 60000,
+      });
+      navigationError = null;
+    } catch (error) {
+      navigationError = error;
+      console.warn(`Vivo page attempt ${attempt} failed: ${error.message}`);
+      // A slow page can time out after its guide request has already completed.
+      if (!settled && attempt < 3) await page.waitForTimeout(attempt * 5000);
+    }
+  }
 
   let timeoutHandle;
   const timeout = new Promise((_, reject) => {
-    timeoutHandle = setTimeout(() => reject(new Error("Vivo EPG request was not captured")), 60000);
+    timeoutHandle = setTimeout(() => reject(
+      navigationError || new Error("Vivo EPG request was not captured")), 90000);
   });
   const initial = await Promise.race([payload, timeout]);
   clearTimeout(timeoutHandle);
